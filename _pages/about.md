@@ -37,7 +37,7 @@ Intelligent Construction, Industralised Construction, Platform Strategy, Project
 * RGC General Research Fund 2018/2019. A derivative-free optimization (DFO) approach to architectural symmetry detection from 3D point clouds. (Core member)
 
 # Reviewer
-Building Research & Information (SCI)、Engineering, Construction and Architectural Management (SCI)、KSCE Journal of Civil Engineering (SCI) 
+Building Research & Information、Engineering, Construction and Architectural Management; KSCE Journal of Civil Engineering; Heliyon; International Journal of Construction Management; Frontiers of Engineering Management; International Journal of Building Pathology and Adaptation 
 
 # Honors and Awards
 * BSCPM Ph.D. full Studentship. <br> University College London, United Kindom. 2019.
