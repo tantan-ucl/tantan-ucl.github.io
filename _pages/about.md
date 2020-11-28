@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "About me ([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student in the The Bartlett School of Construction & Project Management, University College London, under the supervision of [Dr Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills) and [Dr Eleni Papadonikolaki](https://www.ucl.ac.uk/bartlett/construction/people/dr-eleni-papadonikolaki). <br>
-I received my Bachelor's degree in Huazhong University of Science and Technology in Wuhan, China, and Master's degree in University College London. Before my PhD study, I worked at [iLab](https://fac.arch.hku.hk/iLab/people/), The University of Hong Kong as a Research Assistant, under the supervision of [Prof Weisheng Lu](https://www.arch.hku.hk/staff/faculty-office-staff/lu-wilson-w-s/) and [Dr Fan Xue](https://www.arch.hku.hk/staff/rec/xue-fan/?dept=rec).
+I am currently a Ph.D. student in the The Bartlett School of Construction & Project Management, University College London (UCL), under the supervision of [Dr Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills) and [Dr Eleni Papadonikolaki](https://www.ucl.ac.uk/bartlett/construction/people/dr-eleni-papadonikolaki). <br>
+I received my Bachelor's degree in Huazhong University of Science and Technology in Wuhan, China, and Master's degree in University College London (UCL). Before my PhD study, I worked at [iLab](https://fac.arch.hku.hk/iLab/people/), The University of Hong Kong as a Research Assistant, under the supervision of [Prof Weisheng Lu](https://www.arch.hku.hk/staff/faculty-office-staff/lu-wilson-w-s/) and [Dr Fan Xue](https://www.arch.hku.hk/staff/rec/xue-fan/?dept=rec).
 
 # Research Interests
 Intelligent Construction, Industralised Construction, Platform Strategy, Project Management
