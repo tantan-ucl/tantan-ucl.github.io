@@ -1,11 +1,10 @@
 ---
-title: "contact"
+title: "Contact"
 permalink: /cv&contact/
 author_profile: true
 ---
 
 
-# Contact
 The Bartlett School of Construction & Project Management<br>
 University College London<br>
 1-19 Torrington Place<br>
