@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student in the [The Bartlett School of Construction & Project Management](https://www.ucl.ac.uk/bartlett/construction/), [University College London](https://www.ucl.ac.uk/), under the supervision of [Dr Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills) and [Dr Eleni Papadonikolaki](https://www.ucl.ac.uk/bartlett/construction/people/dr-eleni-papadonikolaki). <br>
-I received my Bachelor's degree in [Huazhong University of Science and Technology](http://english.neu.edu.cn/) in Wuhan, China, and Master's degree in [University College London](https://www.ucl.ac.uk/). Before my PhD study, I worked at [iLab](https://fac.arch.hku.hk/iLab/people/), [The University of Hong Kong](https://www.hku.hk/) as a Research Assistant, under the supervision of [Prof Weisheng Lu](https://www.arch.hku.hk/staff/faculty-office-staff/lu-wilson-w-s/) and [Dr Fan Xue](https://www.arch.hku.hk/staff/rec/xue-fan/?dept=rec).
+I am currently a Ph.D. student in the The Bartlett School of Construction & Project Management, University College London, under the supervision of [Dr Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills) and [Dr Eleni Papadonikolaki](https://www.ucl.ac.uk/bartlett/construction/people/dr-eleni-papadonikolaki). <br>
+I received my Bachelor's degree in Huazhong University of Science and Technology in Wuhan, China, and Master's degree in University College London. Before my PhD study, I worked at [iLab](https://fac.arch.hku.hk/iLab/people/), The University of Hong Kong as a Research Assistant, under the supervision of [Prof Weisheng Lu](https://www.arch.hku.hk/staff/faculty-office-staff/lu-wilson-w-s/) and [Dr Fan Xue](https://www.arch.hku.hk/staff/rec/xue-fan/?dept=rec).
 
-# Research
-Ph.D. Researcher applying knowledge of architectural design, technology and management into **intelligent construction**. Hailing originally from China, over the last 8 years, Tan has worked hard throughout Mainland China, Hong Kong, and United Kingdom to build a commanding resume which includes a Masters qualification of Management from UCL and BArch from Huazhong University of Science and Technology. Tan translated this compound background into the exploration of intelligent construction as a Research Assistant at ilab (Urban Big Data Lab), The University of Hong Kong for one year. Now, He is a Ph.D. student at UCL with fully scholarship funded by The Bartlett. Seeking collaboration both in the academia and industry. 
+# Research Interests
+Intelligent Construction, Industralised Construction, Platform Strategy, Project Management
 
 # Journal Paper
 * **Tan Tan***, Grant Mills, Eleni Papadonikolaki, Zhening Liu (2020). "Combining multi-criteria decision making (MCDM) methods with building information modelling (BIM): A review". Automation in Construction, 121, 103451. ([Link](https://www.sciencedirect.com/science/article/pii/S0926580520310311)).
@@ -26,7 +26,7 @@ Ph.D. Researcher applying knowledge of architectural design, technology and mana
 * Fan Xue, Weisheng Xue, **Tan Tan**, Ke Chen (2019). "Semantic enrichment of city information models with LiDAR-based rooftop albedo". 2nd International Conference in Sutainable Buildings and Structures (ICSBS 2019). ([Link](https://books.google.com/books?hl=en&lr=&id=rMfADwAAQBAJ&oi=fnd&pg=PA207&dq=info:pbGQBFgk7UsJ:scholar.google.com&ots=Mf6HZhxdqq&sig=LLJd8QSzdCE_elihn9XRwpXvYjE#v=onepage&q&f=false)).
 
 # Report
-* Grant Mills, Chris Goodier, Jenifer Kingston, Philip Astley, Anne Symons, **Tan Tan**, Chris Sherwood. Grant Mills, Eleni Papadonikolaki, Zhening Liu (2020). "Challenging Space Frontiers in Hospitals: Accelerating capabilities and advancing platforms for modern hospital manufacture". Report prepared for Transforming Construction Network Plus, UCL Bartlett School of Construction and Project Management. ([Link](http://bit.ly/ChallengingSpaceFrontiersinHospitals-Report)).
+* Grant Mills, Chris Goodier, Jenifer Kingston, Philip Astley, Anne Symons, **Tan Tan**, Chris Sherwood. (2020). "Challenging Space Frontiers in Hospitals: Accelerating capabilities and advancing platforms for modern hospital manufacture". Report prepared for Transforming Construction Network Plus, UCL Bartlett School of Construction and Project Management. ([Link](http://bit.ly/ChallengingSpaceFrontiersinHospitals-Report)).
 
 
 # Honors and Awards
