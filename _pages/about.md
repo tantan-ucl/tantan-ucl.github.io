@@ -15,7 +15,8 @@ Intelligent Construction, Industralised Construction, Platform Strategy, Project
 
 # Appointment
 * **Visiting Scholar**, CodeFab, School of System Design and Intelligent Engineering, Southern University of Science and Technology，2020/10-2020/11
-* **Research Assistant**, iLAB, Faculty of Architecture, The University of Hong Kong, 2018/9-2019/9
+* **Teaching Assistant**, Bartlett School of Construction and Project Management, UCL, 2020/3-now
+* **Research Assistant**, iLAB, Department of Real Estate and Construction, The University of Hong Kong, 2018/9-2019/9
 
 # Journal Paper
 * **Tan Tan***, Grant Mills, Eleni Papadonikolaki, Zhening Liu (2020). "Combining multi-criteria decision making (MCDM) methods with building information modelling (BIM): A review". <i>Automation in Construction, 121</i>, 103451. ([Link](https://www.sciencedirect.com/science/article/pii/S0926580520310311)).
