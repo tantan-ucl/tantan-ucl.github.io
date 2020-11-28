@@ -78,8 +78,8 @@ analytics:
 # Site Author
 author:
   name             : "Tan Tan"
-  avatar           : "avatar.png" # "jianli.jpg" #
-  bio              : "PhD student in Machine Learning. University College London (UCL), UK"
+  avatar           : "0.jpg" # "tantan.jpg" #
+  bio              : "PhD student intelligent construction. University College London (UCL), UK"
   location         : "London, United Kindom"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=_VG990cAAAAJ&hl=en"
