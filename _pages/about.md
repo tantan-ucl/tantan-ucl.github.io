@@ -13,6 +13,10 @@ I received my Bachelor's degree in Huazhong University of Science and Technology
 # Research Interests
 Intelligent Construction, Industralised Construction, Platform Strategy, Project Management
 
+# Appointment
+**Visiting Scholar**, CodeFab, School of System Design and Intelligent Engineering, Southern University of Science and Technology，2020/10-2020/11
+**Research Assistant**, iLAB, Faculty of Architecture, The University of Hong Kong, 2018/9-2019/9
+
 # Journal Paper
 * **Tan Tan***, Grant Mills, Eleni Papadonikolaki, Zhening Liu (2020). "Combining multi-criteria decision making (MCDM) methods with building information modelling (BIM): A review". <i>Automation in Construction, 121</i>, 103451. ([Link](https://www.sciencedirect.com/science/article/pii/S0926580520310311)).
 * **Tan Tan**, Weisheng Lu*, Gangyi Tan, Fan Xue, Ke Chen, Jinying Xu, Jing Wang, Shang Gao (2020). "Construction-Oriented Design for Manufacture and Assembly (DfMA) Guidelines". <i>Journal of Construction Engineering and Management, 146</i>(8), 04020085. ([Link](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29CO.1943-7862.0001877?casa_token=dt_LQFFHFqIAAAAA%3A_C-JNZhj2ICcmJSzbbxb3_W5DuulL25rRHXrFP7bSkJ84WmOAUc6NMmy_NhER048EqN7Xuzn_9s)).
@@ -28,6 +32,12 @@ Intelligent Construction, Industralised Construction, Platform Strategy, Project
 # Report
 * Grant Mills, Chris Goodier, Jenifer Kingston, Philip Astley, Anne Symons, **Tan Tan**, Chris Sherwood. (2020). "<i>Challenging Space Frontiers in Hospitals: Accelerating capabilities and advancing platforms for modern hospital manufacture</i>". Report prepared for Transforming Construction Network Plus, UCL Bartlett School of Construction and Project Management. ([Link](http://bit.ly/ChallengingSpaceFrontiersinHospitals-Report)).
 
+# Research Project
+* UKRI Industrial Strategy Challenge Fund. Transforming Construction Network Plus: Challenging Space Frontiers in Hospitals. (Core member)     
+* RGC General Research Fund 2018/2019. A derivative-free optimization (DFO) approach to architectural symmetry detection from 3D point clouds. (Core member)
+
+# Reviewer
+Building Research & Information (SCI)、Engineering, Construction and Architectural Management (SCI)、KSCE Journal of Civil Engineering (SCI) 
 
 # Honors and Awards
 * BSCPM Ph.D. full Studentship. <br> University College London, United Kindom. 2019.
