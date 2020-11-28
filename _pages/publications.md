@@ -1,5 +1,5 @@
 ---
-title: "Publications ([Google Scholar Profile](https://scholar.google.com/citations?user=IAJpTqYAAAAJ&hl=zh-CN))"
+title: "Publications ([Google Scholar Profile](https://scholar.google.com/citations?user=_VG990cAAAAJ&hl=en))"
 permalink: /publications/
 author_profile: true
 ---
@@ -15,47 +15,13 @@ author_profile: true
 
 
 ## 2019
-* <b>Multi-Class Learning using Unlabeled Samples: Theory and Algorithm</b>. <br>
-<b>Jian Li</b>, Yong Liu, Rong Yin, Weiping Wang. <i>In Proceedings of the 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**)</i>.<br>
-[[PDF]](https://www.ijcai.org/proceedings/2019/0399.pdf)
-[[Poster]](https://lijian.ac.cn/files/2019_IJCAI_MC/2019_MC_LRC_SSL_poster.pdf)
-[[Slides]](https://lijian.ac.cn/files/2019_IJCAI_MC/2019_MC_LRC_SSL_slides.pdf)
-[[Code]](https://github.com/superlj666/Multi-Class-Learning-using-Unlabeled-Samples-Theory-and-Algorithm)
-* <b>Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis</b>. <br>
-<b>Jian Li</b>, Yong Liu, Rong Yin, Weiping Wang. <i>In Proceedings of the 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**)</i>.<br>
-[[PDF]](https://www.ijcai.org/proceedings/2019/0400.pdf)
-[[Poster]](https://lijian.ac.cn/files/2019_IJCAI_LapRLS/2019_LapRLS_Nystrom_PCG_poster.pdf)
-[[Slides]](https://lijian.ac.cn/files/2019_IJCAI_LapRLS/2019_LapRLS_Nystrom_PCG_slides.pdf)
-[[Code]](https://github.com/superlj666/Approximate-Manifold-Regularization-Scalable-Algorithm-and-Generalization-Analysis)
-* <b>Learning Vector-valued Functions with Local Rademacher Complexity</b>. Preprint. <br>
-<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:1909.04883, 2019</i>. <br>
-[[PDF]](https://arxiv.org/pdf/1909.04883)
-[[Code]](https://github.com/superlj666/Learning-Vector-valued-Functions-with-Local-Rademacher-Complexity)
-* <b>Distributed Learning with Random Features</b>. Preprint. <br>
-<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:1906.03155, 2019</i>. <br>
-[[PDF]](https://arxiv.org/pdf/1906.03155)
-[[Code]](https://github.com/superlj666/Distributed-Learning-with-Random-Features)
-* <b>Efficient Cross-Validation for Semi-Supervised Learning</b>. Preprint. <br>
-Yong Liu, <b>Jian Li</b>, Guangjun Wu, Lizhong Ding, Weiping Wang. <i>arXiv preprint arXiv:1902.04768, 2019</i>. <br>
-[[PDF]](https://arxiv.org/pdf/1902.04768)
+* <b>Semantic enrichment of city information models with LiDAR-based rooftop albedo</b>. <br>
+Fan Xue, Weisheng Xue,<b>Tan Tan</b>, Ke Chen. <i>the 2nd International Conference in Sutainable Buildings and Structures (ICSBS 2019), October 25-27, 2019, Suzhou, China, 2019</i>. <br>
+[[PDF]](https://books.google.com/books?hl=en&lr=&id=rMfADwAAQBAJ&oi=fnd&pg=PA207&dq=info:pbGQBFgk7UsJ:scholar.google.com&ots=Mf6HZhxdqq&sig=LLJd8QSzdCE_elihn9XRwpXvYjE#v=onepage&q&f=false)
+* <b>Semantic enrichment for rooftop modeling using aerial LiDAR reflectance</b>. <br>
+<b>Tan Tan</b>, Ke Chen, Weisheng Xue, Fan Xue*. <i>IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), 2019</i>. <br>
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/8960769/)
+* <b>Barriers to Building Information Modeling (BIM) implementation in China's prefabricated construction: An interpretive structural modeling (ISM) approach</b>. <br>
+<b>Tan Tan</b>, Ke Chen*, Fan Xue, Weisheng Lu. <i>Journal of Cleaner Production 219, 949-959, 2019</i>. <br>
+[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S095965261930530X)
 
-## 2018
-* <b>Multi-Class Learning: From Theory to Algorithm</b>. <br>
-<b>Jian Li</b>, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <i>Advances in Neural Information Processing Systems 31 (**NeurIPS 2018**)</i>. <br>
-[[PDF]](https://lijian.ac.cn/files/2018_NeurIPS_MC/2018_mc_lr.pdf)
-[[Poster]](https://lijian.ac.cn/files/2018_NeurIPS_MC/mc-lrc-nips-poster.pdf)
-[[Sildes]](https://lijian.ac.cn/files/2018_NeurIPS_MC/mc-lrc-nips-slides.pdf)
-[[3-minute video]](https://youtu.be/mE_RpgWuKK8)
-[[Code]](https://github.com/superlj666/Multi-Class-Learning-From-Theory-to-Algorithm)
-* <b>Max-Diversity Distributed Learning: Theory and Algorithms</b>. Preprint. <br>
-Yong Liu, <b>Jian Li</b>, Weiping Wang. <i>arXiv preprint arXiv:1812.07738, 2018</i>. <br>
-[[PDF]](https://lijian.ac.cn/files/2018_max_diversity_dc.pdf)
-[[Code]](https://arxiv.org/pdf/1812.07738)
-
-
-## 2017
-* <b>Efficient Kernel Selection via Spectral Analysis</b>. <br>
-<b>Jian Li</b>, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. <i>In Proceedings of the 26th International Joint Conference on Artificial Intelligence (**IJCAI 2017**) </i>. <br>
-[[PDF]](https://lijian.ac.cn/files/2017_IJCAI_KS/2017_kernel_selection.pdf)
-[[Poster]](https://lijian.ac.cn/files/2017_IJCAI_KS/ijicai-poster-0816.pdf)
-[[Sildes]](https://lijian.ac.cn/files/2017_IJCAI_KS/IJCAI_presentation.pptx)
