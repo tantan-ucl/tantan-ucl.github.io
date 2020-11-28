@@ -9,7 +9,8 @@ author_profile: true
 [Chinese CV [PDF]](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian_chineseCV.pdf)
 
 # Contact
-Institute of Information Engineering, Chinese Academy of Sciences<br>
-89-A, Minzhuang Rd, Haidian District,
-Beijing, 100093, China<br>
-Email: me [at] lijian.ac.cn, lijian9026 [at] iie.ac.cn
+The Bartlett School of Construction & Project Management<br>
+University College London<br>
+1-19 Torrington Place
+London WC1E 7HB<br>
+Email: tan.tan.17@ucl.ac.uk
