@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Jian Li"
+locale                   : "en-UK"
+title                    : "Tan TAN"
 title_separator          : "-"
-name                     : &name "Jian Li"
-description              : &description "PhD student in Machine Learning. Institute of Information Engineering, CAS"
-url                      : https://superlj666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Tan TAN"
+description              : &description "PhD student in Machine Learning. University College London (UCL), UK"
+url                      : https://tantan-ucl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "superlj666/superlj666.github.io"
+repository               : "tantan-ucl/tantan-ucl.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,35 +77,35 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jian Li"
+  name             : "Tan Tan"
   avatar           : "avatar.png" # "jianli.jpg" #
-  bio              : "PhD student in Machine Learning. Institute of Information Engineering, CAS"
-  location         : "Beijing, China"
+  bio              : "PhD student in Machine Learning. University College London (UCL), UK"
+  location         : "London, United Kindom"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=IAJpTqYAAAAJ"
-  email            : "me@lijian.ac.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=_VG990cAAAAJ&hl=en"
+  email            : "tan.tan.17@ucl.ac.uk"
   uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  # facebook         : "profile.php?id=100008003527316"
+  # facebook         :
   foursquare       :
-  github           : "superlj666"
+  github           :
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "superlj666"
+  linkedin         : "mrtantan"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # https://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : 
   vine             :
-  weibo            : # "u/2200292887"
+  weibo            :
   xing             :
   youtube          : 
   wikipedia        : 
