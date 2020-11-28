@@ -7,32 +7,31 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Researcher. [Yong Liu](https://iie-liuyong.github.io/) and Researcher Weiping Wang. <br>
-I received my Bachelor's degree in [Northeastern University](http://english.neu.edu.cn/) in Shenyang, China, where I am a member of 2011 International class (English) in Software College. 
+I am currently a Ph.D. student in the [The Bartlett School of Construction & Project Management](https://www.ucl.ac.uk/bartlett/construction/), [University College London](https://www.ucl.ac.uk/), under the supervision of [Dr Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills) and [Dr Eleni Papadonikolaki](https://www.ucl.ac.uk/bartlett/construction/people/dr-eleni-papadonikolaki). <br>
+I received my Bachelor's degree in [Huazhong University of Science and Technology](http://english.neu.edu.cn/) in Wuhan, China, and Master's degree in [University College London](https://www.ucl.ac.uk/). Before my PhD study, I worked at [iLab](https://fac.arch.hku.hk/iLab/people/), [The University of Hong Kong](https://www.hku.hk/) as a Research Assistant, under the supervision of [Prof Weisheng Lu](https://www.arch.hku.hk/staff/faculty-office-staff/lu-wilson-w-s/) and [Dr Fan Xue](https://www.arch.hku.hk/staff/rec/xue-fan/?dept=rec).
 
 # Research
-My research interests mainly lie in **efficient large scale machine learning with theoretical guarantee**, but also include kernel methods, semi-supervised learning (SSL) and interpretability of neural networks. <br>
-Indeed, my works focus on **generalization** analysis of those areas and building effective and scalable **optimization** tools for them, to channel theory and algorithms into applications.
+Ph.D. Researcher applying knowledge of architectural design, technology and management into **intelligent construction**. Hailing originally from China, over the last 8 years, Tan has worked hard throughout Mainland China, Hong Kong, and United Kingdom to build a commanding resume which includes a Masters qualification of Management from UCL and BArch from Huazhong University of Science and Technology. Tan translated this compound background into the exploration of intelligent construction as a Research Assistant at ilab (Urban Big Data Lab), The University of Hong Kong for one year. Now, He is a Ph.D. student at UCL with fully scholarship funded by The Bartlett. Seeking collaboration both in the academia and industry. 
 
-# Publications
-* **Jian Li**, Yong Liu, Weiping Wang. "Automated Spectral Kernel Learning". Accepted to the 34th AAAI Conference on Artificial Intelligence ([AAAI 2020](https://aaai.org/Conferences/AAAI-20/)).
-* **Jian Li**, Yong Liu, Rong Yin, Weiping Wang. "Multi-Class Learning using Unlabeled Samples: Theory and Algorithm". Published in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)).
-* **Jian Li**, Yong Liu, Rong Yin, Weiping Wang. "Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis". Published in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)).
-* **Jian Li**, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. "Multi-Class Learning: From Theory to Algorithm". Published in Advances in Neural Information Processing Systems 31 ([NeurIPS 2018](https://nips.cc/Conferences/2018)).
-* **Jian Li**, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. "Efficient Kernel Selection via Spectral Analysis". Published in Proceedings of the 26th International Joint Conference on Artificial Intelligence ([IJCAI 2017](https://www.ijcai-17.org/)).
+# Journal Paper
+* **Tan Tan***, Grant Mills, Eleni Papadonikolaki, Zhening Liu (2020). "Combining multi-criteria decision making (MCDM) methods with building information modelling (BIM): A review". Automation in Construction, 121, 103451. ([Link](https://www.sciencedirect.com/science/article/pii/S0926580520310311)).
+* **Tan Tan**, Weisheng Lu*, Gangyi Tan, Fan Xue, Ke Chen, Jinying Xu, Jing Wang, Shang Gao (2020). "Construction-Oriented Design for Manufacture and Assembly (DfMA) Guidelines". Journal of Construction Engineering and Management, 146(8), 04020085. ([Link](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29CO.1943-7862.0001877?casa_token=dt_LQFFHFqIAAAAA%3A_C-JNZhj2ICcmJSzbbxb3_W5DuulL25rRHXrFP7bSkJ84WmOAUc6NMmy_NhER048EqN7Xuzn_9s)).
+* Weisheng Lu, **Tan Tan***, Jinying Xu, Jing Wang, Ke Chen, Shang Gao, Fan Xue. (2020). "Design for Manufacture and Assembly (DfMA) in construction: the old and the new". Architectural Engineering and Design Management, 1-15. ([Link](https://www.tandfonline.com/doi/abs/10.1080/17452007.2020.1768505?journalCode=taem20)).
+* **Tan Tan**, Ke Chen*, Fan Xue, Weisheng Lu (2019). "Barriers to Building Information Modeling (BIM) implementation in China's prefabricated construction: An interpretive structural modeling (ISM) approach". Journal of Cleaner Production, 219, 949-959. ([Link](https://www.sciencedirect.com/science/article/abs/pii/S095965261930530X)).
+
+# Conference Paper
+* **Tan Tan***, Grant Mills, Eleni Papadonikolaki, Weisheng Lu, Ke Chen (2020). "BIM-enabled Design for Manufacture and Assembly". 27th International Workshop on Intelligent Computing In Engineering (EG-ICE 2020). ([Link](https://discovery.ucl.ac.uk/id/eprint/10096750/1/Mills_PDFsam_EG-ICE_2020.pdf)).
+* **Tan Tan**, Weisheng Lu, Chengqian Li, Ke Chen*, Gangyi Tan (2019). "Implementation of Design for Manufacture and Assembly (DfMA) Principles in Construction: A Case Study". Construction Research Congress 2020: Project Management and Controls, Materials, and Contracts. ([Link](https://ascelibrary.org/doi/abs/10.1061/9780784482889.096)).
+* **Tan Tan**, Ke Chen, Weisheng Xue, Fan Xue* (2019). "Semantic enrichment for rooftop modeling using aerial LiDAR reflectance". IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC). ([Link](https://ieeexplore.ieee.org/abstract/document/8960769/)).
+* Fan Xue, Weisheng Xue, **Tan Tan**, Ke Chen (2019). "Semantic enrichment of city information models with LiDAR-based rooftop albedo". 2nd International Conference in Sutainable Buildings and Structures (ICSBS 2019). ([Link](https://books.google.com/books?hl=en&lr=&id=rMfADwAAQBAJ&oi=fnd&pg=PA207&dq=info:pbGQBFgk7UsJ:scholar.google.com&ots=Mf6HZhxdqq&sig=LLJd8QSzdCE_elihn9XRwpXvYjE#v=onepage&q&f=false)).
+
+# Report
+* Grant Mills, Chris Goodier, Jenifer Kingston, Philip Astley, Anne Symons, **Tan Tan**, Chris Sherwood. Grant Mills, Eleni Papadonikolaki, Zhening Liu (2020). "Challenging Space Frontiers in Hospitals: Accelerating capabilities and advancing platforms for modern hospital manufacture". Report prepared for Transforming Construction Network Plus, UCL Bartlett School of Construction and Project Management. ([Link](http://bit.ly/ChallengingSpaceFrontiersinHospitals-Report)).
+
 
 # Honors and Awards
-* ZhuLiYueHua Scholarship for Excellent Doctoral Student (Top 1\%, RMB &yen; 5,000). <br> Chinese Academy of Sciences (CAS). 2019.
-* [The UCAS Joint PhD Training Program (2&permil;, USD \$22,800)](https://lijian.ac.cn/files/awards/2019_ucas_joint_phd_training_program.pdf). <br>University of Chinese Academy of Sciences (UCAS). 2019.
-* [CAS Presidential Scholarship (Top 1%, RMB &yen; 5,000)](https://lijian.ac.cn/files/awards/2019_cas_presidential_scholarship.pdf). <br> Chinese Academy of Sciences (CAS). 2019.
-* National Scholarship for Doctoral students (Top 2%, RMB &yen; 30,000). <br> Ministry of Education of P.R. China. 2019.
-* [National Scholarship for Doctoral students (Top 2%, RMB &yen; 30,000)](https://lijian.ac.cn/files/awards/2018_national_scholarship.pdf). <br> Ministry of Education of P.R. China. 2018.
-* [IIE Presidential Scholarship (Top 10%, RMB &yen; 2,000)](https://lijian.ac.cn/files/awards/2018_iie_presidential_scholarship.pdf).
-  <br> Institute of Information Engineering, CAS. 2018.
-* [Merit Student](https://lijian.ac.cn/files/awards/2018_merit_student.pdf), University of Chinese Academy of Sciences (UCAS). 2018.
-* [Merit Student](https://lijian.ac.cn/files/awards/2019_merit_student.pdf), University of Chinese Academy of Sciences (UCAS). 2019.
-* [Laboratory Excellent Student Scholarship](https://lijian.ac.cn/files/awards/2017_laboratory_excellent_student.pdf). <br> Institute of Information Engineering, CAS. 2017.
-* [Laboratory Excellent Student Scholarship](https://lijian.ac.cn/files/awards/2018_laboratory_excellent_student.pdf). <br> Institute of Information Engineering, CAS. 2018.
+* BSCPM Ph.D. full Studentship. <br> University College London, United Kindom. 2019.
+* Best Paper Award. <br> International Conference in Sutainable Buildings and Structures (ICSBS 2019). 2019.
 
 <!---Activity and Service--->
 <!---Experience--->
