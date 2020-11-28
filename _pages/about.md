@@ -14,8 +14,8 @@ I received my Bachelor's degree in Huazhong University of Science and Technology
 Intelligent Construction, Industralised Construction, Platform Strategy, Project Management
 
 # Appointment
-**Visiting Scholar**, CodeFab, School of System Design and Intelligent Engineering, Southern University of Science and Technology，2020/10-2020/11
-**Research Assistant**, iLAB, Faculty of Architecture, The University of Hong Kong, 2018/9-2019/9
+* **Visiting Scholar**, CodeFab, School of System Design and Intelligent Engineering, Southern University of Science and Technology，2020/10-2020/11
+* **Research Assistant**, iLAB, Faculty of Architecture, The University of Hong Kong, 2018/9-2019/9
 
 # Journal Paper
 * **Tan Tan***, Grant Mills, Eleni Papadonikolaki, Zhening Liu (2020). "Combining multi-criteria decision making (MCDM) methods with building information modelling (BIM): A review". <i>Automation in Construction, 121</i>, 103451. ([Link](https://www.sciencedirect.com/science/article/pii/S0926580520310311)).
