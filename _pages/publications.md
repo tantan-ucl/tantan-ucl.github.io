@@ -8,7 +8,7 @@ author_profile: true
 <b>Tan Tan*</b>, Grant Mills, Eleni Papadonikolaki, Zhening Liu. <i>Automation in Construction, 2020</i>. <br>
 [[PDF]](https://www.sciencedirect.com/science/article/pii/S0926580520310311)
 * <b>Challenging Space Frontiers in Hospitals: Accelerating capabilities and advancing platforms for modern hospital manufacture</b>. <br>
-Grant Mills,Chris Goodier, Jenifer Kingston, Philip Astley, Anne Symons, <b>Tan Tan</b>, Chris Sherwood. <i>Report prepared for Transforming Construction Network Plus, UCL Bartlett School of Construction and Project Management., 2020</i>. <br>
+Grant Mills, Chris Goodier, Jenifer Kingston, Philip Astley, Anne Symons, <b>Tan Tan</b>, Chris Sherwood. <i>Report prepared for Transforming Construction Network Plus, UCL Bartlett School of Construction and Project Management., 2020</i>. <br>
 [[PDF]](https://www.sciencedirect.com/science/article/pii/S0926580520310311)
 * <b>Construction-Oriented Design for Manufacture and Assembly (DfMA) Guidelines</b>. <br>
 <b>Tan Tan</b>, Weisheng Lu*, Gangyi Tan, Fan Xue, Ke Chen, Jinying Xu, Jing Wang, Shang Gao. <i>Journal of Construction Engineering and Management, 2020</i>. <br>
