@@ -9,18 +9,18 @@ author_profile: true
 **电子邮箱：tan.tan.17@ucl.ac.uk**
 
 # 教育经历
-**伦敦大学学院** 博士在读 (Ph.D. Student)  
-巴特莱特建筑学院 2019.9-至今    
-**伦敦大学学院** 理学硕士 (M.Sc)                                                                                      
-巴特莱特建筑学院 2017.9-2018.9
-**华中科技大学** 建筑学学士 (B.Arch)
-建筑与城市规划学院 2012.9-2017.6                                                                                                                               
+* **伦敦大学学院** 博士在读 (Ph.D. Student)  
+巴特莱特建筑学院 2019.9-至今<br>    
+* **伦敦大学学院** 理学硕士 (M.Sc)                                                                                      
+巴特莱特建筑学院 2017.9-2018.9<br>
+* **华中科技大学** 建筑学学士 (B.Arch)
+<br>建筑与城市规划学院 2012.9-2017.6<br>                                                                                                                               
 
 # 学术工作
-**南方科技大学** 访问学者 (Visiting Scholar)  
-系统设计与智能制造学院 计算设计与制造课题组 (CodeFab) 2020.10-2020.11
-**香港大学建筑学院** 研究助理 (Research Assistant II)                                                                                                                         
-建筑学院 城市大数据实验室 (iLAB) 2018.9-2019.9          
+* **南方科技大学** 访问学者 (Visiting Scholar)  
+系统设计与智能制造学院 计算设计与制造课题组 (CodeFab) 2020.10-2020.11<br>
+* **香港大学建筑学院** 研究助理 (Research Assistant II)                                                                                                                       
+建筑学院 城市大数据实验室 (iLAB) 2018.9-2019.9<br>          
 
 # 期刊论文: 
 1.	Tan, T*., Mills, G., Papadonikolaki, E., Liu, Z. (2020). Combining Multi-Criteria Decision Making (MCDM) Methods with Building Information Modelling (BIM): A Review. Automation in Construction. In press. (SCI中科院1区, Top期刊, IF=5.276)
@@ -45,5 +45,5 @@ o	参与香港RGC General Research Fund 2018/2019. A derivative-free optimizatio
 o	担任Building Research & Information (SCI)、Engineering, Construction and Architectural Management (SCI)、KSCE Journal of Civil Engineering (SCI) 等国际学术期刊审稿人
 
 # 学术荣誉:
-o	ICSBC 2019 最佳会议论文
+o	ICSBC 2019 最佳会议论文<br>
 o	UCL巴特莱特全额博士奖学金 13万英镑
