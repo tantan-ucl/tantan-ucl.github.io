@@ -3,25 +3,45 @@ title: "个人简介"
 permalink: /chinese/
 author_profile: true
 ---
-**李健 男 博士研究生 中国科学院信息工程研究所**  
-**电子邮箱：me@lijian.ac.cn**
+**谭 坦 男 博士研究生 伦敦大学学院**  
+**电子邮箱：tan.tan.17@ucl.ac.uk**
 
-# 研究方向
-研究方向为机器学习，尤其关注大规模机器学习、核方法模型选择、基于图的半监督学习等方向。主要研究内容为针对上述研究点进行泛化分析及为它们设计高效、可伸缩算法。
+# 教育经历
+**伦敦大学学院** 博士在读 (Ph.D. Student)  
+巴特莱特建筑学院 2019.9-至今    
+**伦敦大学学院** 理学硕士 (M.Sc)                                                                                      
+巴特莱特建筑学院 2017.9-2018.9
+**华中科技大学** 建筑学学士 (B.Arch)
+建筑与城市规划学院 2012.9-2017.6                                                                                                                               
 
-# 教育背景
-* 2018-至今，中科院信工所机器学习专业，博士研究生，导师：[王伟平](http://bkjy.ucas.ac.cn/index.php/szdw/ds/jsjxk/wlkjaq/4188-wwp)，指导老师：[刘勇](https://iie-liuyong.github.io)
-* 2015-2018，中科院信工所机器学习专业，博士研究生，导师：[王伟平](http://bkjy.ucas.ac.cn/index.php/szdw/ds/jsjxk/wlkjaq/4188-wwp)，指导老师：[刘勇](https://iie-liuyong.github.io)
-* 2011-2015，东北大学软件工程(英语)专业，本科生
+# 学术工作
+**南方科技大学** 访问学者 (Visiting Scholar)  
+系统设计与智能制造学院 计算设计与制造课题组 (CodeFab) 2020.10-2020.11
+**香港大学建筑学院** 研究助理 (Research Assistant II)                                                                                                                         
+建筑学院 城市大数据实验室 (iLAB) 2018.9-2019.9          
 
-# 奖学金及荣誉称号
-* 2018年博士研究生国家奖学金
-* 2018年中国科学院大学“三好学生”
-* 2018年中国科学院信息工程研究所所长优秀奖
+# 期刊论文: 
+1.	Tan, T*., Mills, G., Papadonikolaki, E., Liu, Z. (2020). Combining Multi-Criteria Decision Making (MCDM) Methods with Building Information Modelling (BIM): A Review. Automation in Construction. In press. (SCI中科院1区, Top期刊, IF=5.276)
+2.	Tan, T., Chen, K*., Xue, F., & Lu, W. (2019). Barriers to Building Information Modeling (BIM) implementation in China's prefabricated construction: An interpretive structural modeling (ISM) approach. Journal of Cleaner Production, 219, 949-959. (SCI中科院1区, Top期刊, IF=7.051)
+3.	Tan, T., Lu, W*., Tan, G., Xue, F., Chen, K., Xu, J., Wang, J., and Gao, S. (2020). Construction-oriented design for manufacture and assembly (DfMA) guidelines. Journal of Construction Engineering and Management, 148(8), 04020085. (SCI中科院2区 影响因子=2.7)
+4.	Lu, W., Tan, T*., Xu, J., Wang, J., Chen, K., Gao, S., & Xue, F. (2020). Design for Manufacture and Assembly in construction:  The old and the new. Architectural, Engineering and Design Management. 1-15.  
 
-# 论文列表
-<b>[Multi-Class Learning: From Theory to Algorithm](https://superlj666.github.io/publications/mc)</b> <br>
-<b>Jian Li</b>, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <i>Advances in Neural Information Processing Systems 31 (NIPS 2018)</i>.
+# 研究报告: 
+5.	Mills, G., Goodier, C., Kingston, J., Astely, P., Symons, A., Tan, T., Sherwood, C. (2020) Challenging Space Frontiers in Hospitals: Accelerating capabilities and advancing platforms for modern hospital manufacture. Report prepared for Transforming Construction Network Plus, UCL Bartlett School of Construction and Project Management.
 
-<b>[Efficient kernel selection via spectral analysis](https://superlj666.github.io/publications/sm)</b> <br>
-<b>Jian Li</b>, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. <i>In Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI 2017) </i>.
+# 会议论文:
+1.	Tan, T*., Mills, G., Papadonikolaki, E., Lu, W., Chen, K. (2020). BIM-based Design for Manufacture and Assembly: A review. In 27th EG-ICE International Workshop on Intelligent Computing in Engineering (EG-ICE 2020). In press. (27届工程智能计算国际研讨会)
+2.	Tan, T., Lu. W., Q. Li., Chen, K*., & Tan, G. (2020). Implementation of Design for Manufacture and Assembly principles in the construction project: A case study. In Proceeding of Construction Research Congress 2020. Mar. 8-10. Tempe, US. In press. (美国土木工程师协会建筑研究大会)
+3.	Xue, F., Lu, W., Tan, T., & Chen, K. (2019, September). Semantic enrichment of city information models with LiDAR-based rooftop albedo. In Sustainable Buildings and Structures: Building a Sustainable Tomorrow: Proceedings of the 2nd International Conference in Sustainable Buildings and Structures (ICSBS 2019), October 25-27, 2019, Suzhou, China (p. 207). CRC Press. (可持续建筑与结构会议)
+4.	Tan, T., Chen, K., Lu, W., & Xue, F*. (2019). Semantic enrichment for rooftop modeling using Aerial LiDAR reflectance. In 2019 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC 2019). Sept. 20-23, Dalian, China. (IEEE信号处理、通信和计算国际会议)
+
+# 科研项目:
+o	参与英国 UKRI Industrial Strategy Challenge Fund. Transforming Construction Network Plus: Challenging Space Frontiers in Hospitals. Ongoing. (升级建筑网络: 挑战医院空间前沿)       
+o	参与香港RGC General Research Fund 2018/2019. A derivative-free optimization (DFO) approach to architectural symmetry detection from 3D point clouds. (从3D点云进行建筑对称性检测的无导数优化方法)        
+
+# 审稿活动:
+o	担任Building Research & Information (SCI)、Engineering, Construction and Architectural Management (SCI)、KSCE Journal of Civil Engineering (SCI) 等国际学术期刊审稿人
+
+# 学术荣誉:
+o	ICSBC 2019 最佳会议论文
+o	UCL巴特莱特全额博士奖学金 13万英镑
