@@ -2,7 +2,10 @@
 main:
   - title: "Publications"
     url: /publications/
-
+    
+  - title: "CV/Bio"
+    url: /files/Tan_CV.pdf
+    
   # - title: "Awards & Honors"
   #   url: /awards/
 
