@@ -1,10 +1,11 @@
 # main links links
 main:
- - title: "中文简历"
-    url: /chinese/
-
- - title: "Publications"
+  - title: "Publications"
     url: /publications/
     
- - title: "Contact"
+  - title: "中文简历"
+    url: /chinese/
+    
+  - title: "Contact"
     url: /contact/
+
