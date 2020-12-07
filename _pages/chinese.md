@@ -17,9 +17,11 @@ author_profile: true
 <br>建筑与城市规划学院 2012.9-2017.6<br>                                                                                                                               
 
 # 学术工作
+* **伦敦大学学院** 研究生助教 (Teaching Assistant)                                                                                                                       
+巴特莱特建筑学院 建造与项目管理系(iLAB) 2020.11-至今<br>    
 * **南方科技大学** 访问学者 (Visiting Scholar)  
 系统设计与智能制造学院 计算设计与制造课题组 (CodeFab) 2020.10-2020.11<br>
-* **香港大学建筑学院** 研究助理 (Research Assistant II)                                                                                                                       
+* **香港大学** 研究助理 (Research Assistant II)                                                                                                                       
 建筑学院 城市大数据实验室 (iLAB) 2018.9-2019.9<br>          
 
 # 期刊论文: 
