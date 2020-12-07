@@ -23,7 +23,7 @@ author_profile: true
 建筑学院 城市大数据实验室 (iLAB) 2018.9-2019.9<br>          
 
 # 期刊论文: 
-1.	Tan, T*., Mills, G., Papadonikolaki, E., Liu, Z. (2020). Combining Multi-Criteria Decision Making (MCDM) Methods with Building Information Modelling (BIM): A Review. Automation in Construction. In press. (SCI中科院1区, Top期刊, IF=5.276)
+1.	Tan, T*., Mills, G., Papadonikolaki, E., Liu, Z. (2020). Combining Multi-Criteria Decision Making (MCDM) Methods with Building Information Modelling (BIM): A Review. Automation in Construction. 121. (SCI中科院1区, Top期刊, IF=5.276)
 2.	Tan, T., Chen, K*., Xue, F., & Lu, W. (2019). Barriers to Building Information Modeling (BIM) implementation in China's prefabricated construction: An interpretive structural modeling (ISM) approach. Journal of Cleaner Production, 219, 949-959. (SCI中科院1区, Top期刊, IF=7.051)
 3.	Tan, T., Lu, W*., Tan, G., Xue, F., Chen, K., Xu, J., Wang, J., and Gao, S. (2020). Construction-oriented design for manufacture and assembly (DfMA) guidelines. Journal of Construction Engineering and Management, 148(8), 04020085. (SCI中科院2区 影响因子=2.7)
 4.	Lu, W., Tan, T*., Xu, J., Wang, J., Chen, K., Gao, S., & Xue, F. (2020). Design for Manufacture and Assembly in construction:  The old and the new. Architectural, Engineering and Design Management. 1-15.  
@@ -45,5 +45,5 @@ o	参与香港RGC General Research Fund 2018/2019. A derivative-free optimizatio
 o	担任Building Research & Information (SCI)、Engineering, Construction and Architectural Management (SCI)、KSCE Journal of Civil Engineering (SCI) 等国际学术期刊审稿人
 
 # 学术荣誉:
-o	ICSBC 2019 最佳会议论文<br>
-o	UCL巴特莱特全额博士奖学金 13万英镑
+o	International Conference in Sustainable Buildings and Structures (ICSBS 2019) 最佳会议论文<br>
+o	伦敦大学学院 全额博士奖学金 13万英镑
