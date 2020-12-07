@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-    
   - title: "中文显示"
     url: /chinese/
     
