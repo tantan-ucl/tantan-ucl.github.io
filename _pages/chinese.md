@@ -25,10 +25,10 @@ author_profile: true
 建筑学院 城市大数据实验室 2018.9-2019.9<br>          
 
 # 期刊论文: 
-1.	**Tan, T***., Mills, G., Papadonikolaki, E., Liu, Z. (2020). Combining Multi-Criteria Decision Making (MCDM) Methods with Building Information Modelling (BIM): A Review. Automation in Construction. 121. (SCI中科院1区, Top期刊, IF=5.276)
-2.	**Tan, T**., Chen, K*., Xue, F., & Lu, W. (2019). Barriers to Building Information Modeling (BIM) implementation in China's prefabricated construction: An interpretive structural modeling (ISM) approach. Journal of Cleaner Production, 219, 949-959. (SCI中科院1区, Top期刊, IF=7.051)
-3.	**Tan, T**., Lu, W*., Tan, G., Xue, F., Chen, K., Xu, J., Wang, J., and Gao, S. (2020). Construction-oriented design for manufacture and assembly (DfMA) guidelines. Journal of Construction Engineering and Management, 148(8), 04020085. (SCI中科院2区 IF=2.7)
-4.	Lu, W., **Tan, T***., Xu, J., Wang, J., Chen, K., Gao, S., & Xue, F. (2020). Design for Manufacture and Assembly in construction:  The old and the new. Architectural, Engineering and Design Management. 1-15. (EI检索)
+1.	**Tan, T***., Mills, G., Papadonikolaki, E., Liu, Z. (2020). Combining Multi-Criteria Decision Making (MCDM) Methods with Building Information Modelling (BIM): A Review. Automation in Construction. 121. (SCI中科院1区, Top期刊, IF=5.81)
+2.	**Tan, T**., Chen, K*., Xue, F., & Lu, W. (2019). Barriers to Building Information Modeling (BIM) implementation in China's prefabricated construction: An interpretive structural modeling (ISM) approach. Journal of Cleaner Production, 219, 949-959. (SCI中科院1区, Top期刊, IF=7.10)
+3.	**Tan, T**., Lu, W*., Tan, G., Xue, F., Chen, K., Xu, J., Wang, J., and Gao, S. (2020). Construction-oriented design for manufacture and assembly (DfMA) guidelines. Journal of Construction Engineering and Management, 148(8), 04020085. (SCI中科院2区, IF=3.38)
+4.	Lu, W., **Tan, T***., Xu, J., Wang, J., Chen, K., Gao, S., & Xue, F. (2020). Design for Manufacture and Assembly in construction:  The old and the new. Architectural, Engineering and Design Management. 1-15. (EI检索, IF=2.13)
 
 # 研究报告: 
 5.	Mills, G., Goodier, C., Kingston, J., Astely, P., Symons, A., **Tan, T**., Sherwood, C. (2020) Challenging Space Frontiers in Hospitals: Accelerating capabilities and advancing platforms for modern hospital manufacture. Report prepared for Transforming Construction Network Plus, UCL Bartlett School of Construction and Project Management.
