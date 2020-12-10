@@ -46,8 +46,9 @@ author_profile: true
 * 	参与英国 UKRI Industrial Strategy Challenge Fund. Transforming Construction Network Plus: Challenging Space Frontiers in Hospitals. Ongoing. (升级建筑网络: 挑战医院空间前沿)
 * 	参与香港RGC General Research Fund 2018/2019. A derivative-free optimization (DFO) approach to architectural symmetry detection from 3D point clouds. (从3D点云进行建筑对称性检测的无导数优化方法)        
 
-# 审稿活动:
-* 	担任Building Research & Information (SCI)、Engineering, Construction and Architectural Management (SCI)、KSCE Journal of Civil Engineering (SCI) 等国际学术期刊审稿人
+# 学术职务:
+* 	Building Research & Information (SCI)、Engineering, Construction and Architectural Management (SCI)、KSCE Journal of Civil Engineering (SCI)、Heliyon、International Journal of Construction Management、Frontiers of Engineering Management、International Journal of Building Pathology and Adaptation等国际学术期刊审稿人
+* 	国际建筑自动化和机器人协会(ISARC)协会会员
 
 # 学术荣誉:
 * 	可持续建筑与结构国际会议 2019年最佳会议论文<br>
