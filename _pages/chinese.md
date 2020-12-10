@@ -50,7 +50,10 @@ author_profile: true
 * 	Building Research & Information (SCI)、Engineering, Construction and Architectural Management (SCI)、KSCE Journal of Civil Engineering (SCI)、Heliyon、International Journal of Construction Management、Frontiers of Engineering Management、International Journal of Building Pathology and Adaptation等国际学术期刊审稿人
 * 	国际建筑自动化和机器人协会(ISARC)协会会员
 
-# 学术荣誉:
-* 	可持续建筑与结构国际会议 2019年最佳会议论文<br>
-* 	伦敦大学学院 全额博士奖学金 13万英镑
-
+# 个人荣誉:
+* 	2019 可持续建筑与结构国际会议最佳会议论文<br>
+* 	2019 伦敦大学学院全额博士奖学金 13万英镑<br>
+* 	2018 立陶宛考纳斯全程马拉松 42.125km完赛奖牌及证书
+* 	2017 英国普利茅斯全程马拉松 42.125km完赛奖牌及证书
+* 	2016 中国杭州千岛湖全程马拉松 42.125km完赛奖牌及证书
+* 	2012-2015 华中科技大学个人单项奖学金、自强奖学金及自强标兵
