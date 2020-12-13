@@ -61,7 +61,7 @@ author_profile: true
 *	2013 贵州省高速公路收费站 (参与方案设计)
 
 # 学术职务:
-* 	Building Research & Information (SCI)、Engineering, Construction and Architectural Management (SCI)、KSCE Journal of Civil Engineering (SCI)、Heliyon、International Journal of Construction Management、Frontiers of Engineering Management、International Journal of Building Pathology and Adaptation等国际学术期刊审稿人
+* 	Building Research & Information (SCI)、Engineering, Construction and Architectural Management (SCI)、KSCE Journal of Civil Engineering (SCI)、Environment, Development and Sustainability (SCI) 、Heliyon、International Journal of Construction Management、Frontiers of Engineering Management、International Journal of Building Pathology and Adaptation等国际学术期刊审稿人
 * 	国际建筑自动化和机器人协会(IAARC)协会会员
 
 # 个人荣誉:
