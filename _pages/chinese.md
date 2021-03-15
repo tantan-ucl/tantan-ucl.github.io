@@ -9,14 +9,20 @@ author_profile: true
 **电子邮箱：tan.tan.17@ucl.ac.uk**
 
 # 教育经历
-* **伦敦大学学院** 博士在读 
+* **伦敦大学学院** 博士候选人 
 <br>巴特莱特建筑学院 2019.9-至今
+* **清华大学** 访问博士生 
+<br>经济管理学院 2021.3-至今
 * **伦敦大学学院** 理学硕士 
 <br>巴特莱特建筑学院 2017.9-2018.11
 * **华中科技大学** 建筑学学士 
 <br>建筑与城市规划学院 2012.9-2017.7                                                                                                                          
 
 # 学术工作
+* **伦敦大学学院** 研究员（Research Fellow）
+<br>巴特莱特建筑学院 建造与项目管理系 2020.04-至今
+* **清华大学** 博士实习生
+<br>建筑设计研究院 建筑策划与设计分院 2020.03-至今
 * **伦敦大学学院** 研究生助教
 <br>巴特莱特建筑学院 建造与项目管理系 2020.03-至今
 * **南方科技大学** 访问学者
@@ -25,7 +31,7 @@ author_profile: true
 <br>建筑学院 城市大数据实验室 2018.9-2019.9        
 
 # 研究兴趣
-智能建造、新型建筑工业化、平台战略、项目管理
+装配式建筑，数字建筑，建筑策划与后评估
 
 # 期刊论文: 
 1.	**Tan, T***., Mills, G., Papadonikolaki, E., Liu, Z. (2020). [Combining Multi-Criteria Decision Making (MCDM) Methods with Building Information Modelling (BIM): A Review](https://www.sciencedirect.com/science/article/pii/S0926580520310311). Automation in Construction. 121. (SCI中科院1区, Top期刊, IF=5.81).
