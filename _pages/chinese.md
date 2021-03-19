@@ -39,7 +39,7 @@ author_profile: true
 
 # 报告及书籍: 
 5.	Mills, G., Goodier, C., Kingston, J., Astely, P., Symons, A., **Tan, T**., Sherwood, C. (2020) [Challenging Space Frontiers in Hospitals: Accelerating capabilities and advancing platforms for modern hospital manufacture](http://bit.ly/ChallengingSpaceFrontiersinHospitals-Report). Report prepared for Transforming Construction Network Plus, UCL Bartlett School of Construction and Project Management.
-6.	Tan, T*., Mills, G*., & Papadonikolaki, E. (2021). Establishing a Platform for BIM and P-DfMA. In. W.S. Lu & C.J. Anumba (Ed.), Research Companion on Building Information Modeling. Edward Elgar Publishing. (Accept)
+6.	**Tan, T***., Mills, G., & Papadonikolaki, E. (2021). Establishing a Platform for BIM and P-DfMA. In. W.S. Lu & C.J. Anumba (Ed.), Research Companion on Building Information Modeling. Edward Elgar Publishing. (Accept)
 
 # 会议论文:
 7.	**Tan, T***., Mills, G., Papadonikolaki, E., Lu, W., Chen, K. (2020). [BIM-based Design for Manufacture and Assembly](https://discovery.ucl.ac.uk/id/eprint/10096750/1/Mills_PDFsam_EG-ICE_2020.pdf). In 27th EG-ICE International Workshop on Intelligent Computing in Engineering (EG-ICE 2020). (27届工程智能计算国际研讨会, EI检索)
