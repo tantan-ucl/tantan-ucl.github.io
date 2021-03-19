@@ -52,6 +52,16 @@ author_profile: true
 * 	参与香港RGC General Research Fund 2018/2019. A derivative-free optimization (DFO) approach to architectural symmetry detection from 3D point clouds. (从3D点云进行建筑对称性检测的无导数优化方法)        
 
 # 建筑项目:
+* 	2020 讲授《新型建筑工业化》MPA硕士课程共3小时 (客座讲师，华中科技大学公共管理学院)
+* 	2020 讲授Owner-based Management of Projects课共20课时 (助教，伦敦大学学院)
+* 	2020 讲授The Management of Construction Enterprises课共20课时 (助教，伦敦大学学院)
+* 	2020 讲授《防疫住宅设计》于2020届建筑学本科毕业设计及论文（助教，华中科技大学）
+* 	2020 演讲《面向制造与装配式的设计》于 (访问学者，南方科技大学)
+* 	2020 演讲《BIM-enabled Design for Manufacture and Assembly: A review》于EG-ICE会议 (学术会议)
+* 	2019 演讲《面向制造与装配式的设计》于华中科技大学 (学术交流)
+* 	2018 演讲《Demystifying BIM & Innovation》于浙江财经大学 (学术交流)
+
+# 建筑项目:
 * 	2020 湖北省恩施土家族泛博物馆之研学营建设项目 (参与设计及项目管理)
 * 	2020 湖北省恩施土家族泛博物馆之冲天塔建设项目 (参与设计及项目管理)
 * 	2020 湖北省恩施土家族泛博物馆之游客中心建设项目 (参与设计及项目管理)
