@@ -7,13 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student at University College London (UCL), under the supervision of [Dr Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills) and [Dr Eleni Papadonikolaki](https://www.ucl.ac.uk/bartlett/construction/people/dr-eleni-papadonikolaki). <br>
+I am currently a Ph.D. candidate and Research Fellow at University College London (UCL), under the supervision of [Dr Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills) and [Dr Eleni Papadonikolaki](https://www.ucl.ac.uk/bartlett/construction/people/dr-eleni-papadonikolaki). <br>
 I received my Bachelor's degree in Huazhong University of Science and Technology in Wuhan, China, and Master's degree in University College London (UCL). Before my PhD study, I worked at [iLab](https://fac.arch.hku.hk/iLab/people/), The University of Hong Kong as a Research Assistant, under the supervision of [Prof Weisheng Lu](https://www.arch.hku.hk/staff/faculty-office-staff/lu-wilson-w-s/) and [Dr Fan Xue](https://www.arch.hku.hk/staff/rec/xue-fan/?dept=rec).
 
 # Research Interests
 Intelligent Construction, Industralised Construction, Platform Strategy, Project Management
 
 # Appointment
+* **Research Fellow**, , Bartlett School of Construction and Project Management, UCL, 2021/4-now
 * **Visiting Scholar**, CodeFab, School of System Design and Intelligent Engineering, Southern University of Science and Technology，2020/10-2020/11
 * **Teaching Assistant**, Bartlett School of Construction and Project Management, UCL, 2020/3-now
 * **Research Assistant**, iLAB, Department of Real Estate and Construction, The University of Hong Kong, 2018/9-2019/9
@@ -30,8 +31,9 @@ Intelligent Construction, Industralised Construction, Platform Strategy, Project
 * **Tan Tan**, Ke Chen, Weisheng Xue, Fan Xue* (2019). "Semantic enrichment for rooftop modeling using aerial LiDAR reflectance". <i>IEEE International Conference on Signal Processing, Communications and Computing</i> (ICSPCC). ([Link](https://ieeexplore.ieee.org/abstract/document/8960769/)).
 * Fan Xue, Weisheng Xue, **Tan Tan**, Ke Chen (2019). "Semantic enrichment of city information models with LiDAR-based rooftop albedo". <i>2nd International Conference in Sutainable Buildings and Structures</i> (ICSBS 2019). ([Link](https://books.google.com/books?hl=en&lr=&id=rMfADwAAQBAJ&oi=fnd&pg=PA207&dq=info:pbGQBFgk7UsJ:scholar.google.com&ots=Mf6HZhxdqq&sig=LLJd8QSzdCE_elihn9XRwpXvYjE#v=onepage&q&f=false)).
 
-# Report
+# Report & Book Chapter
 * Grant Mills, Chris Goodier, Jenifer Kingston, Philip Astley, Anne Symons, **Tan Tan**, Chris Sherwood. (2020). "<i>Challenging Space Frontiers in Hospitals: Accelerating capabilities and advancing platforms for modern hospital manufacture</i>". Report prepared for Transforming Construction Network Plus, UCL Bartlett School of Construction and Project Management. ([Link](http://bit.ly/ChallengingSpaceFrontiersinHospitals-Report)).
+* **Tan, Tan***., Grant Mills., & Eleni Papadonikolaki. (2021). <i>Establishing a Platform for BIM and P-DfMA<i>. In. W.S. Lu & C.J. Anumba (Ed.), Research Companion on Building Information Modeling. Edward Elgar Publishing. (Accept)
 
 # Research Project
 * UKRI Industrial Strategy Challenge Fund. Transforming Construction Network Plus: Challenging Space Frontiers in Hospitals. (Core member)     
