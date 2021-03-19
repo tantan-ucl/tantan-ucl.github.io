@@ -9,13 +9,13 @@ author_profile: true
 **电子邮箱：tan.tan.17@ucl.ac.uk**
 
 # 教育及科研经历
-* **伦敦大学学院** 博士候选人；导师：Grant Mill 副教授、Eleni Papadonikolaki 副教授 
+* **伦敦大学学院** 博士候选人；导师：Grant Mills 副教授、Eleni Papadonikolaki 副教授 
 <br>巴特莱特建筑学院 2019.9-至今
 * **清华大学** 访问博士生；合作导师：李纪珍 教授 
 <br>经济管理学院 2021.3-至今
-* **香港大学** 研究助理；合作导师：吕伟生教授；薛帆 助理教授
+* **香港大学** 研究助理；合作导师：吕伟生教授、薛帆 助理教授
 <br>建筑学院 城市大数据实验室 2018.9-2019.9
-* **伦敦大学学院** 理学硕士 
+* **伦敦大学学院** 理学硕士；导师：Grant Mills 副教授
 <br>巴特莱特建筑学院 2017.9-2018.11
 * **华中科技大学** 建筑学学士 
 <br>建筑与城市规划学院 2012.9-2017.7                                                                                                                          
@@ -29,7 +29,7 @@ author_profile: true
 <br>系统设计与智能制造学院 计算设计与制造课题组 2020.10-2020.11
 
 # 研究兴趣
-装配式建筑，数字建筑，建筑策划与后评估
+装配式建筑，数字建筑，工程管理
 
 # 期刊论文: 
 1.	**Tan, T***., Mills, G., Papadonikolaki, E., Liu, Z. (2020). [Combining Multi-Criteria Decision Making (MCDM) Methods with Building Information Modelling (BIM): A Review](https://www.sciencedirect.com/science/article/pii/S0926580520310311). Automation in Construction. 121. (SCI中科院1区, Top期刊, IF=5.81).
