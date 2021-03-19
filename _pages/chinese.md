@@ -9,13 +9,13 @@ author_profile: true
 **电子邮箱：tan.tan.17@ucl.ac.uk**
 
 # 教育及科研经历
-* **伦敦大学学院** 博士候选人；导师：Grant Mills 副教授、Eleni Papadonikolaki 副教授 
+* **伦敦大学学院** 博士候选人；导师：[Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills) 副教授、[Eleni Papadonikolaki](https://www.ucl.ac.uk/bartlett/construction/people/dr-eleni-papadonikolaki) 副教授
 <br>2019.9-至今 巴特莱特建筑学院 建造及项目管理系
-* **清华大学** 访问博士生；合作导师：李纪珍 教授 
+* **清华大学** 访问博士生；合作导师：[李纪珍]http://www.sem.tsinghua.edu.cn/zh/lijzh 教授 
 <br>2021.3-至今 经济管理学院 创新创业与战略系
-* **香港大学** 研究助理；合作导师：吕伟生 教授、薛帆 助理教授
+* **香港大学** 研究助理；合作导师：[吕伟生](https://www.arch.hku.hk/staff/faculty-office-staff/lu-wilson-w-s/) 教授、[薛帆](https://www.arch.hku.hk/staff/rec/xue-fan/?dept=rec) 助理教授
 <br>2018.9-2019.9 建筑学院 城市大数据实验室
-* **伦敦大学学院** 理学硕士；导师：Grant Mills 副教授
+* **伦敦大学学院** 理学硕士；导师：[Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills) 副教授
 <br>2017.9-2018.9 巴特莱特建筑学院 建造及项目管理系
 * **华中科技大学** 建筑学学士 
 <br>2012.9-2017.7 建筑与城市规划学院 建筑学系                                                                                                                    
