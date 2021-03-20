@@ -46,12 +46,6 @@ author_profile: true
 8.	**Tan, T**., Lu. W., Q. Li., Chen, K*., & Tan, G. (2020). [Implementation of Design for Manufacture and Assembly principles in the construction project: A case study](https://ascelibrary.org/doi/abs/10.1061/9780784482889.096). In Proceeding of Construction Research Congress 2020. Mar. 8-10. Tempe, US. (美国土木工程师协会建筑研究大会, EI检索)
 9.	Xue, F., Lu, W., **Tan, T**., & Chen, K. (2019). [Semantic enrichment of city information models with LiDAR-based rooftop albedo](https://books.google.com/books?hl=en&lr=&id=rMfADwAAQBAJ&oi=fnd&pg=PA207&dq=info:pbGQBFgk7UsJ:scholar.google.com&ots=Mf6HZhxdqq&sig=LLJd8QSzdCE_elihn9XRwpXvYjE#v=onepage&q&f=false). In Sustainable Buildings and Structures: Building a Sustainable Tomorrow: Proceedings of the 2nd International Conference in Sustainable Buildings and Structures (ICSBS 2019), October 25-27, 2019, Suzhou, China (p. 207). CRC Press. (可持续建筑与结构国际会议)
 10.	**Tan, T**., Chen, K., Lu, W., & Xue, F*. (2019). [Semantic enrichment for rooftop modeling using Aerial LiDAR reflectance](https://ieeexplore.ieee.org/abstract/document/8960769/). In 2019 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC 2019). Sept. 20-23, Dalian, China. (IEEE信号处理、通信和计算国际会议, EI检索)
-    
-
-# 工作论文:
-*	**Tan, T***., Mills, G., Papadonikolaki, E. (2021). Design for Manufacture and Assembly: A Case Study of Huoshen Mountain Hospital in Wuhan, China to combat COVID-19.
-*	**Tan, T***., Papadonikolaki, E., Mills, G. (2021). Building Information Modelig (BIM)-enabled Design for Manufacture and Assembly (DfMA) in Healthcare Construction: A Multiple Case Study. In 2021 ASCE International Conference on. Computing in Civil Engineering (i3CE). (Abstract accept)
-*	**Tan, T***., Papadonikolaki, E., Huang, M., Mills, G., Zhang, Z., Chen, K. (2021). BIM-enabled Sustainability Assessment of Design for Manufacture and Assembly. In 38th International Symposium on Automation and Robotics in Construction (ISARC 2021). (Abstract submitted)
 
 # 科研项目:
 * 	参与英国 UKRI Transforming Construction Industrial Strategy Challenge Fund. AEC Production Control Rooms. (建筑业生产控制屋)
@@ -59,12 +53,12 @@ author_profile: true
 * 	参与香港 RGC General Research Fund 2018/2019. A derivative-free optimization (DFO) approach to architectural symmetry detection from 3D point clouds. (从3D点云进行建筑对称性检测的无导数优化方法)
 
 # 授课及演讲:
-* 	2020 讲授《新型建筑工业化》MPA硕士课程共3小时 (客座讲师，华中科技大学公共管理学院)
+* 	2020 讲授《新型建筑工业化》MPA硕士课程 (客座讲师，华中科技大学)
 * 	2020 讲授《Owner-based Management of Projects》 (助教，伦敦大学学院)
 * 	2020 讲授《The Management of Construction Enterprises》 (助教，伦敦大学学院)
 * 	2020 讲授《防疫住宅设计》建筑学本科毕业设计及论文（助教，华中科技大学）
 * 	2020 演讲《面向制造与装配式的设计》 (访问学者，南方科技大学)
-* 	2020 演讲《BIM-enabled Design for Manufacture and Assembly: A review》于EG-ICE会议 (学术会议)
+* 	2020 演讲《BIM-enabled Design for Manufacture and Assembly: A review》于EG-ICE会议
 * 	2019 演讲《面向制造与装配式的设计》 (学术交流，华中科技大学)
 * 	2018 演讲《Demystifying BIM & Innovation》(学术交流，浙江财经大学)
 
