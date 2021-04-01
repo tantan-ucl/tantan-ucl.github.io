@@ -21,10 +21,10 @@ author_profile: true
 <br>2012.9-2017.7 建筑与城市规划学院 建筑学系                                                                                                                    
 
 # 学术兼职
-* **伦敦大学学院** 研究员（Research Fellow）
-<br>2021.04 起 巴特莱特建筑学院 建造与项目管理系
 * **伦敦大学学院** 助教
 <br>2020.03-至今 巴特莱特建筑学院 建造与项目管理系
+* **伦敦大学学院** 研究助理
+<br>2019.09-至今 巴特莱特建筑学院 建造与项目管理系
 * **南方科技大学** 访问学者
 <br>2020.10-2020.11 系统设计与智能制造学院 计算设计与制造课题组
 
@@ -49,6 +49,7 @@ author_profile: true
 
 # 科研项目:
 * 	参与英国 UKRI Transforming Construction Industrial Strategy Challenge Fund. AEC Production Control Rooms. (建筑业生产控制屋)
+* 	参与中国 湖北省科技重大专项“智能建造关键技术及应用”(2020ACA006)
 * 	参与英国 UKRI Transforming Construction Industrial Strategy Challenge Fund. Transforming Construction Network Plus: Challenging Space Frontiers in Hospitals. (升级建筑网络: 挑战医院空间前沿)
 * 	参与香港 RGC General Research Fund 2018/2019. A derivative-free optimization (DFO) approach to architectural symmetry detection from 3D point clouds. (从3D点云进行建筑对称性检测的无导数优化方法)
 
