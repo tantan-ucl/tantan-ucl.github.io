@@ -11,7 +11,8 @@ I am currently a Ph.D. candidate and Research Fellow at University College Londo
 I received my Bachelor's degree in Huazhong University of Science and Technology in Wuhan, China, and Master's degree in University College London (UCL). Before my PhD study, I worked at [iLab](https://fac.arch.hku.hk/iLab/people/), The University of Hong Kong as a Research Assistant, under the supervision of [Prof Weisheng Lu](https://www.arch.hku.hk/staff/faculty-office-staff/lu-wilson-w-s/) and [Dr Fan Xue](https://www.arch.hku.hk/staff/rec/xue-fan/?dept=rec).
 
 # Eduaction & Research Experience
-* **Ph.D. Candidate**, Bartlett School of Construction and Project Management, UCL, 2019/9-2023/9
+* **Ph.D.**, Bartlett School of Construction and Project Management, UCL, 2019/9-2023/9
+* **Visiting Ph.D.**, School of Economics and Management, Tsinghua University, 2021/3-2021/6
 * **MS.c.**,  Bartlett School of Construction and Project Management, UCL, 2017/9-2018/9
 * **B.Arch.**, Department of Architecture, Huazhong University of Science and Technology, 2012/9-2017/7
 
@@ -41,11 +42,12 @@ Intelligent Construction, Industralised Construction, Platform Strategy, Project
 * **Tan, Tan***., Grant Mills., & Eleni Papadonikolaki. (2021). <i>Establishing a Platform for BIM and P-DfMA<i>. In. W.S. Lu & C.J. Anumba (Ed.), Research Companion on Building Information Modeling. Edward Elgar Publishing. (Accept)
 
 # Research Project
+* UKRI Transforming Construction Industrial Strategy Challenge Fund. AEC Production Control Rooms. (Core member)    
 * UKRI Industrial Strategy Challenge Fund. Transforming Construction Network Plus: Challenging Space Frontiers in Hospitals. (Core member)     
 * RGC General Research Fund 2018/2019. A derivative-free optimization (DFO) approach to architectural symmetry detection from 3D point clouds. (Core member)
 
 # Reviewer
-Building Research & Information; Engineering, Construction and Architectural Management; KSCE Journal of Civil Engineering; Heliyon; International Journal of Construction Management; Frontiers of Engineering Management; International Journal of Building Pathology and Adaptation 
+Building Research & Information; Engineering, Construction and Architectural Management; Journal of Asian Architecture and Building Engineering; KSCE Journal of Civil Engineering; Heliyon; International Journal of Construction Management; Frontiers of Engineering Management; International Journal of Building Pathology and Adaptation 
 
 # Honors and Awards
 * BSCPM Ph.D. full Studentship. <br> University College London, United Kindom. 2019.
