@@ -10,7 +10,7 @@ author_profile: true
 
 # 教育及科研经历
 * **伦敦大学学院** 博士候选人；导师：[Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills) 副教授、[Eleni Papadonikolaki](https://www.ucl.ac.uk/bartlett/construction/people/dr-eleni-papadonikolaki) 副教授
-<br>2019.9-至今 巴特莱特建筑学院 建造及项目管理系
+<br>2019.9-至今 巴特莱特建筑学院 可持续建筑系
 * **清华大学** 访问博士生；合作导师：[李纪珍](http://www.sem.tsinghua.edu.cn/zh/lijzh) 教授 
 <br>2021.3-至今 经济管理学院 创新创业与战略系
 * **香港大学** 研究助理；合作导师：[吕伟生](https://www.arch.hku.hk/staff/faculty-office-staff/lu-wilson-w-s/) 教授、[薛帆](https://www.arch.hku.hk/staff/rec/xue-fan/?dept=rec) 助理教授
@@ -29,7 +29,7 @@ author_profile: true
 <br>2020.10-2020.11 系统设计与智能制造学院 计算设计与制造课题组
 
 # 研究兴趣
-新型建筑工业化，数字化转型，工程管理
+BIM，装配式建筑，设计管理
 
 # 期刊论文: 
 1.	**Tan, T***., Mills, G., Papadonikolaki, E., Liu, Z. (2020). [Combining Multi-Criteria Decision Making (MCDM) Methods with Building Information Modelling (BIM): A Review](https://www.sciencedirect.com/science/article/pii/S0926580520310311). Automation in Construction. 121. (SCI中科院1区, IF=5.81).
