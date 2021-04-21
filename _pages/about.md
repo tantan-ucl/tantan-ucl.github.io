@@ -17,7 +17,7 @@ I received my Bachelor's degree in Huazhong University of Science and Technology
 * **B.Arch.**, Department of Architecture, Huazhong University of Science and Technology, 2012/9-2017/7
 
 # Research Interests
-Intelligent Construction, Industralised Construction, Platform Strategy, Project Management
+BIM, Prefabrication, Design Management
 
 # Appointment
 * **Visiting Scholar**, CodeFab, School of System Design and Intelligent Engineering, Southern University of Science and Technology，2020/10-2020/11
