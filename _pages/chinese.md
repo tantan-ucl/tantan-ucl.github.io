@@ -29,7 +29,7 @@ author_profile: true
 <br>2020.10-2020.11 系统设计与智能制造学院 计算设计与制造课题组
 
 # 研究兴趣
-BIM，装配式建筑，设计管理
+数字建筑，装配式建筑，设计管理
 
 # 期刊论文: 
 1.	**Tan, T***., Mills, G., Papadonikolaki, E., Liu, Z. (2020). [Combining Multi-Criteria Decision Making (MCDM) Methods with Building Information Modelling (BIM): A Review](https://www.sciencedirect.com/science/article/pii/S0926580520310311). Automation in Construction. 121. (SCI中科院1区, IF=5.81).
@@ -85,7 +85,7 @@ BIM，装配式建筑，设计管理
 # 个人荣誉:
 * 	2020 入选扩展版ESI高被引论文, InCites被引用前3％<br>
 * 	2019 可持续建筑与结构国际会议最佳会议论文<br>
-* 	2019 伦敦大学学院全额博士奖学金 13万英镑<br>
+* 	2019 伦敦大学学院全额资助博士奖学金<br>
 * 	2018 立陶宛考纳斯全程马拉松 42.125km完赛奖牌及证书
 * 	2017 英国普利茅斯全程马拉松 42.125km完赛奖牌及证书
 * 	2016 中国杭州千岛湖全程马拉松 42.125km完赛奖牌及证书
