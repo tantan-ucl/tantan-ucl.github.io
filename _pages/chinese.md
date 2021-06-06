@@ -29,7 +29,7 @@ author_profile: true
 <br>2020.10-2020.11 系统设计与智能制造学院 计算设计与制造课题组
 
 # 研究兴趣
-数字建筑，装配式建筑，设计管理
+数字建筑，建筑工业化，健康建筑，工程管理
 
 # 期刊论文: 
 1.	**Tan, T***., Mills, G., Papadonikolaki, E., Liu, Z. (2020). [Combining Multi-Criteria Decision Making (MCDM) Methods with Building Information Modelling (BIM): A Review](https://www.sciencedirect.com/science/article/pii/S0926580520310311). Automation in Construction. 121. (SCI中科院1区, IF=5.81).
