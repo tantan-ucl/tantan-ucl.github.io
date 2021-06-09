@@ -9,13 +9,13 @@ author_profile: true
 **电子邮箱：tan.tan.17@ucl.ac.uk**
 
 # 教育及科研经历
-* **伦敦大学学院** 博士候选人；导师：[Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills) 副教授、[Eleni Papadonikolaki](https://www.ucl.ac.uk/bartlett/construction/people/dr-eleni-papadonikolaki) 副教授
+* **伦敦大学学院** 博士候选人；导师：[Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills)、[Eleni Papadonikolaki](https://www.ucl.ac.uk/bartlett/construction/people/dr-eleni-papadonikolaki)
 <br>2019.9-至今 巴特莱特建筑学院 可持续建筑系
-* **清华大学** 访问博士生；合作导师：[李纪珍](http://www.sem.tsinghua.edu.cn/zh/lijzh) 教授 
+* **清华大学** 访问博士生；合作导师：[李纪珍](http://www.sem.tsinghua.edu.cn/zh/lijzh) 
 <br>2021.3-2021.6 经济管理学院 创新创业与战略系
-* **香港大学** 研究助理；合作导师：[吕伟生](https://www.arch.hku.hk/staff/faculty-office-staff/lu-wilson-w-s/) 教授、[薛帆](https://www.arch.hku.hk/staff/rec/xue-fan/?dept=rec) 助理教授
+* **香港大学** 研究助理；合作导师：[吕伟生](https://www.arch.hku.hk/staff/faculty-office-staff/lu-wilson-w-s/)、[薛帆](https://www.arch.hku.hk/staff/rec/xue-fan/?dept=rec)
 <br>2018.9-2019.9 建筑学院 城市大数据实验室
-* **伦敦大学学院** 理学硕士；导师：[Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills) 副教授
+* **伦敦大学学院** 理学硕士；导师：[Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills)
 <br>2017.9-2018.9 巴特莱特建筑学院 可持续建筑系
 * **华中科技大学** 建筑学学士 
 <br>2012.9-2017.7 建筑与城市规划学院 建筑学系                                                                                                                    
@@ -26,9 +26,9 @@ author_profile: true
 * **伦敦大学学院** 研究助理
 <br>2019.09-至今 巴特莱特建筑学院 可持续建筑系
 * **南方科技大学** 访问学者
-<br>2020.10-2020.11 系统设计与智能制造学院；合作导师：[熊异](https://faculty.sustech.edu.cn/xiongy3/) 助理教授
+<br>2020.10-2020.11 系统设计与智能制造学院；合作导师：[熊异](https://faculty.sustech.edu.cn/xiongy3/)
 * **华中科大建筑规划设计研究院** 项目助理
-<br>2020.06-2020.09 土家族泛博物馆项目；合作导师：[李保峰](http://faculty.hust.edu.cn/libaofeng/zh_CN/index.htm) 教授
+<br>2020.06-2020.09 土家族泛博物馆项目；合作导师：[李保峰](http://faculty.hust.edu.cn/libaofeng/zh_CN/index.htm)
 
 # 研究兴趣
 数字建筑，智能建造，健康建筑，设计管理
