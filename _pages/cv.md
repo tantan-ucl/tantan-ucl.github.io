@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Bartlett School of Construction and Project Management, University College London, 2023 (expected)
-* M.S. in Bartlett School of Construction and Project Management, University College London, 2018
+* Ph.D in Bartlett School of Sustainable Construction, University College London, 2023 (expected)
+* M.S. in Bartlett School of Sustainable Construction, University College London, 2018
 * B.Arch. in Architecture, Huazhong University of Science and Technology, 2017
 
   
