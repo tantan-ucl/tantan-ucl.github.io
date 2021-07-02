@@ -34,9 +34,9 @@ author_profile: true
 数字建筑，智能建造，健康建筑，设计管理
 
 # 期刊论文: 
-1.	**Tan, T***., Mills, G., Papadonikolaki, E., Liu, Z. (2020). [Combining Multi-Criteria Decision Making (MCDM) Methods with Building Information Modelling (BIM): A Review](https://www.sciencedirect.com/science/article/pii/S0926580520310311). Automation in Construction. 121. (SCI中科院1区, IF=5.81).
-2.	**Tan, T**., Chen, K*., Xue, F., & Lu, W. (2019). [Barriers to Building Information Modeling (BIM) implementation in China's prefabricated construction: An interpretive structural modeling (ISM) approach](https://www.sciencedirect.com/science/article/abs/pii/S095965261930530X). Journal of Cleaner Production, 219, 949-959. (SCI中科院1区, IF=7.10)
-3.	**Tan, T**., Lu, W*., Tan, G., Xue, F., Chen, K., Xu, J., Wang, J., and Gao, S. (2020). [Construction-oriented design for manufacture and assembly (DfMA) guidelines](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29CO.1943-7862.0001877?casa_token=dt_LQFFHFqIAAAAA%3A_C-JNZhj2ICcmJSzbbxb3_W5DuulL25rRHXrFP7bSkJ84WmOAUc6NMmy_NhER048EqN7Xuzn_9s). Journal of Construction Engineering and Management, 148(8), 04020085. (SCI中科院2区, IF=3.38)
+1.	**Tan, T***., Mills, G., Papadonikolaki, E., Liu, Z. (2020). [Combining Multi-Criteria Decision Making (MCDM) Methods with Building Information Modelling (BIM): A Review](https://www.sciencedirect.com/science/article/pii/S0926580520310311). Automation in Construction. 121. (SCI中科院1区, IF=7.700).
+2.	**Tan, T**., Chen, K*., Xue, F., & Lu, W. (2019). [Barriers to Building Information Modeling (BIM) implementation in China's prefabricated construction: An interpretive structural modeling (ISM) approach](https://www.sciencedirect.com/science/article/abs/pii/S095965261930530X). Journal of Cleaner Production, 219, 949-959. (SCI中科院1区, IF=9.297)
+3.	**Tan, T**., Lu, W*., Tan, G., Xue, F., Chen, K., Xu, J., Wang, J., and Gao, S. (2020). [Construction-oriented design for manufacture and assembly (DfMA) guidelines](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29CO.1943-7862.0001877?casa_token=dt_LQFFHFqIAAAAA%3A_C-JNZhj2ICcmJSzbbxb3_W5DuulL25rRHXrFP7bSkJ84WmOAUc6NMmy_NhER048EqN7Xuzn_9s). Journal of Construction Engineering and Management, 148(8), 04020085. (SCI中科院3区, IF=3.951)
 4.	Lu, W., **Tan, T***., Xu, J., Wang, J., Chen, K., Gao, S., & Xue, F. (2020). [Design for Manufacture and Assembly in construction:  The old and the new](https://www.tandfonline.com/doi/abs/10.1080/17452007.2020.1768505?journalCode=taem20). Architectural, Engineering and Design Management. 1-15. (SCI, IF=2.13)
 
 # 报告及书籍: 
