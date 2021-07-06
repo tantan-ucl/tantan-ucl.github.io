@@ -43,7 +43,7 @@ BIM, Prefabrication, Design Management
 
 # Research Project
 * UKRI Transforming Construction Industrial Strategy Challenge Fund. AEC Production Control Rooms. (Core member)    
-* An advanced machine learning-based approach for prediction of task-productivity in construction projects (AMProd). (Core member)   
+* Bartlett Research Grants Scheme 2020-2021. An advanced machine learning-based approach for prediction of task-productivity in construction projects (AMProd). (Core member)   
 * UKRI Industrial Strategy Challenge Fund. Transforming Construction Network Plus: Challenging Space Frontiers in Hospitals. (Core member)     
 * RGC General Research Fund 2018/2019. A derivative-free optimization (DFO) approach to architectural symmetry detection from 3D point clouds. (Core member)
 

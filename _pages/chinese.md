@@ -51,7 +51,7 @@ author_profile: true
 
 # 科研项目:
 * 	参与英国 UKRI Transforming Construction Industrial Strategy Challenge Fund. AEC Production Control Rooms. (建筑业生产控制屋)
-* 	参与英国 An advanced machine learning-based approach for prediction of task-productivity in construction projects (AMProd). (基于机器学习的先进方法预测建筑项目中的任务生产力)
+* 	参与英国 Bartlett Research Grants Scheme 2020-2021. An advanced machine learning-based approach for prediction of task-productivity in construction projects (AMProd). (基于机器学习的先进方法预测建筑项目中的任务生产力)
 * 	参与中国 湖北省科技重大专项“智能建造关键技术及应用”(2020ACA006)
 * 	参与英国 UKRI Transforming Construction Industrial Strategy Challenge Fund. Transforming Construction Network Plus: Challenging Space Frontiers in Hospitals. (升级建筑网络: 挑战医院空间前沿)
 * 	参与香港 RGC General Research Fund 2018/2019. A derivative-free optimization (DFO) approach to architectural symmetry detection from 3D point clouds. (从3D点云进行建筑对称性检测的无导数优化方法)
