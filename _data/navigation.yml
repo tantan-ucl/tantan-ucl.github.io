@@ -2,6 +2,9 @@
 main:
   - title: "中文显示"
     url: /chinese/
+
+  - title: "English Version"
+    url: /about/
     
   - title: "Contact"
     url: /contact/
