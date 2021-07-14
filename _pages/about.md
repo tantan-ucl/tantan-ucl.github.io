@@ -17,7 +17,7 @@ I received my Bachelor's degree in Huazhong University of Science and Technology
 * **B.Arch.**, Department of Architecture, Huazhong University of Science and Technology, 2012/9-2017/7
 
 # Research Interests
-BIM, Prefabrication, Design Management
+Digital Innovation, Design for Manufacture, Systems Integration, Modularity
 
 # Appointment
 * **Visiting Scholar**, CodeFab, School of System Design and Intelligent Engineering, Southern University of Science and Technology，2020/10-2020/11
@@ -26,7 +26,8 @@ BIM, Prefabrication, Design Management
 * **Research Assistant**, iLAB, Department of Real Estate and Construction, The University of Hong Kong, 2018/9-2019/9
 
 # Journal Paper
-* **Tan Tan***, Grant Mills, Eleni Papadonikolaki, Zhening Liu (2020). "Combining multi-criteria decision making (MCDM) methods with building information modelling (BIM): A review". <i>Automation in Construction, 121</i>, 103451. ([Link](https://www.sciencedirect.com/science/article/pii/S0926580520310311)).
+* **Tan Tan***, Grant Mills, Jiqiang Hu, Eleni Papadonikolaki (2021). "Integrated Approaches to Design for Manufacture and Assembly: A Case Study of Huoshenshan Hospital to Combat COVID-19 in Wuhan, China". Journal of Management in Engineering. In Press.
+* **Tan Tan***, Grant Mills, Eleni Papadonikolaki, Zhening Liu (2021). "Combining multi-criteria decision making (MCDM) methods with building information modelling (BIM): A review". <i>Automation in Construction, 121</i>, 103451. ([Link](https://www.sciencedirect.com/science/article/pii/S0926580520310311)).
 * **Tan Tan**, Weisheng Lu*, Gangyi Tan, Fan Xue, Ke Chen, Jinying Xu, Jing Wang, Shang Gao (2020). "Construction-Oriented Design for Manufacture and Assembly (DfMA) Guidelines". <i>Journal of Construction Engineering and Management, 146</i>(8), 04020085. ([Link](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29CO.1943-7862.0001877?casa_token=dt_LQFFHFqIAAAAA%3A_C-JNZhj2ICcmJSzbbxb3_W5DuulL25rRHXrFP7bSkJ84WmOAUc6NMmy_NhER048EqN7Xuzn_9s)).
 * Weisheng Lu, **Tan Tan***, Jinying Xu, Jing Wang, Ke Chen, Shang Gao, Fan Xue. (2020). "Design for Manufacture and Assembly (DfMA) in construction: the old and the new". <i>Architectural Engineering and Design Management</i>, 1-15. ([Link](https://www.tandfonline.com/doi/abs/10.1080/17452007.2020.1768505?journalCode=taem20)).
 * **Tan Tan**, Ke Chen*, Fan Xue, Weisheng Lu (2019). "Barriers to Building Information Modeling (BIM) implementation in China's prefabricated construction: An interpretive structural modeling (ISM) approach". <i>Journal of Cleaner Production, 219</i>, 949-959. ([Link](https://www.sciencedirect.com/science/article/abs/pii/S095965261930530X)).
