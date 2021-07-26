@@ -70,18 +70,9 @@ author_profile: true
 * 	2018 演讲《Demystifying BIM & Innovation》(学术交流，浙江财经大学)
 
 # 建筑项目:
-* 	2020 湖北省恩施土家族泛博物馆之研学营建设项目 (参与设计及项目管理)
-* 	2020 湖北省恩施土家族泛博物馆之冲天塔建设项目 (参与设计及项目管理)
-* 	2020 湖北省恩施土家族泛博物馆之游客中心建设项目 (参与设计及项目管理)
-* 	2020 湖北省当阳玉泉山风景区改造项目 (参与方案设计)
-* 	2019 云南省精准扶贫项目之装配式钢结构傣楼设计 (参与研发，以第一作者发表于SCI杂志)
-* 	2018 香港大学智慧虚拟校园项目 (参与数据收集与数据处理，以第一作者发表IEEE会议)
-* 	2017 湖北省英山县山顶酒店建设项目 (参与设计)
-* 	2016 湖北省恩施土司城风景区扩建项目 (参与设计)
-* 	2015 海峡两岸四校建筑工作坊 (小组组长，主持设计与建造)
-* 	2014 “水之世界”中法青年自建节 (小组组长，主持设计与建造)
-* 	2013 河南省信阳监狱扩建设计 (参与方案设计)
-* 	2013 贵州省高速公路收费站 (参与方案设计)
+* 	2020 湖北省恩施土家族泛博物馆 (参与)
+* 	2019 云南省精准扶贫项目之装配式钢结构傣楼设计 (参与，以第一作者发表于SCI杂志)
+* 	2018 香港大学智慧虚拟校园项目 (参与，以第一作者发表IEEE会议)
 
 # 学术职务:
 * 	Building Research & Information (SCI)、Engineering, Construction and Architectural Management (SCI)、Journal of Asian Architecture and Building Engineering (SCI)、KSCE Journal of Civil Engineering (SCI)、Environment, Development and Sustainability (SCI) 、Heliyon、International Journal of Construction Management、Frontiers of Engineering Management、International Journal of Building Pathology and Adaptation等国际学术期刊审稿人
