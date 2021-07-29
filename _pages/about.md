@@ -13,17 +13,16 @@ I received my Bachelor's degree in Huazhong University of Science and Technology
 # Eduaction & Research Experience
 * **Ph.D.**, Bartlett School of Sustainable Construction, UCL, 2019/9-2023/9
 * **Visiting Ph.D.**, School of Economics and Management, Tsinghua University, 2021/3-2021/6
+* **Research Assistant**, iLAB, Department of Real Estate and Construction, The University of Hong Kong, 2018/9-2019/9
 * **MS.c.**, Bartlett School of Sustainable Construction, UCL, 2017/9-2018/9
 * **B.Arch.**, Department of Architecture, Huazhong University of Science and Technology, 2012/9-2017/7
 
 # Research Interests
 Digital Innovation, Design for Manufacture, Systems Integration, Modularity
 
-# Appointment
+# Part-time Appointment
 * **Visiting Scholar**, CodeFab, School of System Design and Intelligent Engineering, Southern University of Science and Technology，2020/10-2020/11
-* **Teaching Assistant**, Bartlett School of Sustainable Construction, UCL, 2020/3-now
-* **Research Assistant**, Bartlett School of Sustainable Construction, UCL, 2019/9-now
-* **Research Assistant**, iLAB, Department of Real Estate and Construction, The University of Hong Kong, 2018/9-2019/9
+* **Research Assistant & Teaching Assistant**, Bartlett School of Sustainable Construction, UCL, 2019/9-now
 
 # Journal Paper
 * **Tan Tan***, Grant Mills, Jiqiang Hu, Eleni Papadonikolaki (2021). "Integrated Approaches to Design for Manufacture and Assembly: A Case Study of Huoshenshan Hospital to Combat COVID-19 in Wuhan, China". <i>Journal of Management in Engineering</i>. In Press. ([Link](https://www.researchgate.net/publication/353236757_Integrated_Approaches_to_Design_for_Manufacture_and_Assembly_A_Case_Study_of_Huoshenshan_Hospital_to_Combat_COVID-19_in_Wuhan_China)).
