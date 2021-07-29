@@ -13,7 +13,7 @@ I received my Bachelor's degree in Huazhong University of Science and Technology
 # Eduaction & Research Experience
 * **Ph.D.**, Bartlett School of Sustainable Construction, UCL, 2019/9-2023/9
 * **Visiting Ph.D.**, School of Economics and Management, Tsinghua University, 2021/3-2021/6
-* **Research Assistant**, iLAB, Department of Real Estate and Construction, The University of Hong Kong, 2018/9-2019/9
+* **RA**, Faculty of Architecture, The University of Hong Kong, 2018/9-2019/9
 * **MS.c.**, Bartlett School of Sustainable Construction, UCL, 2017/9-2018/9
 * **B.Arch.**, Department of Architecture, Huazhong University of Science and Technology, 2012/9-2017/7
 
