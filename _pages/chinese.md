@@ -29,7 +29,7 @@ author_profile: true
 <br>2020.06-2020.09 土家族泛博物馆项目；合作导师：[李保峰](http://faculty.hust.edu.cn/libaofeng/zh_CN/index.htm)
 
 # 研究兴趣
-数字建筑，智能建造，健康建筑，设计管理
+数字建筑，智能建造，建筑工业化，设计管理
 
 # 期刊论文: 
 1.	**Tan, T***., Mills, G., Hu, J., & Papadonikolaki, E. (2021). [Integrated Approaches to Design for Manufacture and Assembly: A Case Study of Huoshenshan Hospital to Combat COVID-19 in Wuhan, China](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ME.1943-5479.0000972). Journal of Management in Engineering, 37(6), 05021007. (SCI中科院2区, IF=6.853).
