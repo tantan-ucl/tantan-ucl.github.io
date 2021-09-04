@@ -5,7 +5,6 @@ author_profile: true
 ---
 
 
-**谭 坦 男 博士研究生 伦敦大学学院**  
 **电子邮箱：tan.tan.17@ucl.ac.uk**
 
 # 教育及科研经历
@@ -59,7 +58,7 @@ author_profile: true
 * 	参与香港 RGC General Research Fund 2018/2019. A derivative-free optimization (DFO) approach to architectural symmetry detection from 3D point clouds. (从3D点云进行建筑对称性检测的无导数优化方法)
 
 # 授课及演讲:
-* 	2020 讲授《新型建筑工业化》MPA硕士课程 (客座讲师，华中科技大学)
+* 	2021 讲授《新型建筑工业化》MPA硕士课程 (客座讲师，华中科技大学)
 * 	2020 讲授《Owner-based Management of Projects》 (助教，伦敦大学学院)
 * 	2020 讲授《The Management of Construction Enterprises》 (助教，伦敦大学学院)
 * 	2020 讲授《防疫住宅设计》建筑学本科毕业设计及论文（助教，华中科技大学）
