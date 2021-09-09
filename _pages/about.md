@@ -51,7 +51,7 @@ Digital Innovation, Design for Manufacture, Systems Integration, Modularity
 * RGC General Research Fund 2018/2019. A derivative-free optimization (DFO) approach to architectural symmetry detection from 3D point clouds. (Core member)
 
 # Reviewer
-Building Research & Information; Engineering, Construction and Architectural Management; Journal of Asian Architecture and Building Engineering; KSCE Journal of Civil Engineering; Heliyon; International Journal of Construction Management; Frontiers of Engineering Management; International Journal of Building Pathology and Adaptation 
+Automation in Construction; Building Research & Information; Engineering; Construction and Architectural Management; Journal of Asian Architecture and Building Engineering; KSCE Journal of Civil Engineering; Heliyon; International Journal of Construction Management; Frontiers of Engineering Management; International Journal of Building Pathology and Adaptation 
 
 # Honors and Awards
 * BSCPM Ph.D. full Studentship. <br> University College London, United Kindom. 2019.
