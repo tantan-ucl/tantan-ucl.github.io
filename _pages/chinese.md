@@ -43,12 +43,13 @@ author_profile: true
 8.	**Tan, T***., Mills, G., & Papadonikolaki, E. (2021). Establishing a Platform for BIM and P-DfMA. In. W.S. Lu & C.J. Anumba (Ed.), Research Companion on Building Information Modeling. Edward Elgar Publishing. (Accept)
 
 # 会议论文:
-9.	**Tan, T**., Fang, Z*., Zheng, Y., & Yang, Y. (2021). Health Building Information Modeling (HBIM)-based facility management: a conceptual framework. In 26th International Conference on Advancement of Construction Management and Real Estate (CRIOCM 2021). (建设管理与房地产发展国际学术研讨会)
-10.	Liu, Y., Chen, K., Ma, L., Tang, S., & **Tan, T**. (2021).Transforming data into decision making: A spotlight review of construction digital twin. In International Conference on Construction and Real Estate Management (ICCREM 2021). (建筑与房地产管理国际会议, EI检索)
-11.	**Tan, T***., Mills, G., Papadonikolaki, E., Lu, W., & Chen, K. (2020). [BIM-based Design for Manufacture and Assembly](https://discovery.ucl.ac.uk/id/eprint/10096750/1/Mills_PDFsam_EG-ICE_2020.pdf). In 27th EG-ICE International Workshop on Intelligent Computing in Engineering (EG-ICE 2020). (27届工程智能计算国际研讨会, EI检索)
-12.	**Tan, T**., Lu. W., Q. Li., Chen, K*., & Tan, G. (2020). [Implementation of Design for Manufacture and Assembly principles in the construction project: A case study](https://ascelibrary.org/doi/abs/10.1061/9780784482889.096). In Proceeding of Construction Research Congress 2020. Mar. 8-10. Tempe, US. (美国土木工程师协会建筑研究大会, EI检索)
-13.	Xue, F., Lu, W., **Tan, T**., & Chen, K. (2019). [Semantic enrichment of city information models with LiDAR-based rooftop albedo](https://books.google.com/books?hl=en&lr=&id=rMfADwAAQBAJ&oi=fnd&pg=PA207&dq=info:pbGQBFgk7UsJ:scholar.google.com&ots=Mf6HZhxdqq&sig=LLJd8QSzdCE_elihn9XRwpXvYjE#v=onepage&q&f=false). In Sustainable Buildings and Structures: Building a Sustainable Tomorrow: Proceedings of the 2nd International Conference in Sustainable Buildings and Structures (ICSBS 2019), October 25-27, 2019, Suzhou, China (p. 207). CRC Press. (可持续建筑与结构国际会议)
-14.	**Tan, T**., Chen, K., Lu, W., & Xue, F*. (2019). [Semantic enrichment for rooftop modeling using Aerial LiDAR reflectance](https://ieeexplore.ieee.org/abstract/document/8960769/). In 2019 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC 2019). Sept. 20-23, Dalian, China. (IEEE信号处理、通信和计算国际会议, EI检索)
+9.	**Tan, T***., Papadonikolaki, E., Mills, G., Chen, J., Zhang, Z., & Chen, K. (2021). BIM-enabled Sustainability Assessment of Design for Manufacture and Assembly. In 38th International Symposium on Automation and Robotics in Construction (ISARC 2021). (建筑自动化与机器人国际研讨会 , EI检索)
+10.	**Tan, T**., Fang, Z*., Zheng, Y., & Yang, Y. (2021). Health Building Information Modeling (HBIM)-based facility management: a conceptual framework. In 26th International Conference on Advancement of Construction Management and Real Estate (CRIOCM 2021). (建设管理与房地产发展国际学术研讨会)
+11.	Liu, Y., Chen, K., Ma, L., Tang, S., & **Tan, T**. (2021).Transforming data into decision making: A spotlight review of construction digital twin. In International Conference on Construction and Real Estate Management (ICCREM 2021). (建筑与房地产管理国际会议, EI检索)
+12.	**Tan, T***., Mills, G., Papadonikolaki, E., Lu, W., & Chen, K. (2020). [BIM-based Design for Manufacture and Assembly](https://discovery.ucl.ac.uk/id/eprint/10096750/1/Mills_PDFsam_EG-ICE_2020.pdf). In 27th EG-ICE International Workshop on Intelligent Computing in Engineering (EG-ICE 2020). (27届工程智能计算国际研讨会, EI检索)
+13.	**Tan, T**., Lu. W., Q. Li., Chen, K*., & Tan, G. (2020). [Implementation of Design for Manufacture and Assembly principles in the construction project: A case study](https://ascelibrary.org/doi/abs/10.1061/9780784482889.096). In Proceeding of Construction Research Congress 2020. Mar. 8-10. Tempe, US. (美国土木工程师协会建筑研究大会, EI检索)
+14.	Xue, F., Lu, W., **Tan, T**., & Chen, K. (2019). [Semantic enrichment of city information models with LiDAR-based rooftop albedo](https://books.google.com/books?hl=en&lr=&id=rMfADwAAQBAJ&oi=fnd&pg=PA207&dq=info:pbGQBFgk7UsJ:scholar.google.com&ots=Mf6HZhxdqq&sig=LLJd8QSzdCE_elihn9XRwpXvYjE#v=onepage&q&f=false). In Sustainable Buildings and Structures: Building a Sustainable Tomorrow: Proceedings of the 2nd International Conference in Sustainable Buildings and Structures (ICSBS 2019), October 25-27, 2019, Suzhou, China (p. 207). CRC Press. (可持续建筑与结构国际会议)
+15.	**Tan, T**., Chen, K., Lu, W., & Xue, F*. (2019). [Semantic enrichment for rooftop modeling using Aerial LiDAR reflectance](https://ieeexplore.ieee.org/abstract/document/8960769/). In 2019 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC 2019). Sept. 20-23, Dalian, China. (IEEE信号处理、通信和计算国际会议, EI检索)
 
 # 科研项目:
 * 	参与英国 UKRI Transforming Construction Industrial Strategy Challenge Fund. AEC Production Control Rooms. (建筑业生产控制屋)
@@ -78,6 +79,7 @@ author_profile: true
 * 	英国皇家特许测量师学会 学生会员
 
 # 个人荣誉:
+* 	2021 国家优秀自费(非公派)留学生奖学金<br>
 * 	2020 入选扩展版ESI高被引论文, InCites被引用前3％<br>
 * 	2019 可持续建筑与结构国际会议最佳会议论文<br>
 * 	2019 伦敦大学学院全额资助博士奖学金<br>

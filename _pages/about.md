@@ -33,6 +33,7 @@ Digital Innovation, Design for Manufacture, Systems Integration, Modularity
 * **Tan Tan**, Ke Chen*, Fan Xue, Weisheng Lu (2019). "Barriers to Building Information Modeling (BIM) implementation in China's prefabricated construction: An interpretive structural modeling (ISM) approach". <i>Journal of Cleaner Production, 219</i>, 949-959. ([Link](https://www.sciencedirect.com/science/article/abs/pii/S095965261930530X)).
 
 # Conference Paper
+* **Tan, Tan***., Eleni Papadonikolaki, Grant Mills, Junfei Chen, Zhe Zhang,  Ke Chen (2021). BIM-enabled Sustainability Assessment of Design for Manufacture and Assembly. <i>38th International Symposium on Automation and Robotics in Construction</i> (ISARC 2021).
 * **Tan Tan**, Zigeng Fang*, Yuanwei Zheng,  Yufeng Yang (2021). Health Building Information Modeling (HBIM)-based facility management: a conceptual framework. <i>26th International Conference on Advancement of Construction Management and Real Estate</i> (CRIOCM 2021).
 * Yuhan Liu, Ke Chen, Ling Ma, Shu Tang,  **Tan Tan** (2021). "Transforming data into decision making: A spotlight review of construction digital twin". <i>International Conference on Construction and Real Estate Management</i> (ICCREM 2021). 
 * **Tan Tan***, Grant Mills, Eleni Papadonikolaki, Weisheng Lu, Ke Chen (2020). "BIM-enabled Design for Manufacture and Assembly". <i>27th International Workshop on Intelligent Computing In Engineering</i> (EG-ICE 2020). ([Link](https://discovery.ucl.ac.uk/id/eprint/10096750/1/Mills_PDFsam_EG-ICE_2020.pdf)).
@@ -54,7 +55,8 @@ Digital Innovation, Design for Manufacture, Systems Integration, Modularity
 Automation in Construction; Building Research & Information; Engineering; Construction and Architectural Management; Journal of Asian Architecture and Building Engineering; KSCE Journal of Civil Engineering; Heliyon; International Journal of Construction Management; Frontiers of Engineering Management; International Journal of Building Pathology and Adaptation 
 
 # Honors and Awards
-* BSCPM Ph.D. full Studentship. <br> University College London, United Kindom. 2019.
+* Chinese Government Award for Outstanding Self-financed Students Abroad. <br> The Chinese Government. 2021.
+* Ph.D. full Studentship. <br> University College London, United Kindom. 2019.
 * Best Paper Award. <br> International Conference in Sutainable Buildings and Structures (ICSBS 2019). 2019.
 
 <!---Activity and Service--->
