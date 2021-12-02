@@ -55,7 +55,8 @@ Digital Innovation, Design for Manufacture, Systems Integration, Modularity
 Automation in Construction; Building Research & Information; Journal of Building Engineering; Engineering; Scientific Reports; Construction and Architectural Management; Journal of Asian Architecture and Building Engineering; KSCE Journal of Civil Engineering; Heliyon; International Journal of Construction Management; Frontiers of Engineering Management; International Journal of Building Pathology and Adaptation 
 
 # Honors and Awards
-* Chinese Government Award for Outstanding Self-financed Students Abroad. <br> The Chinese Government. 2021.
+* Editor's Choice. <br> Journal of Management in Engineering. 2021.
+* Chinese Government Award for Outstanding Self-financed Students Abroad. <br> The Chinese Government. 2020.
 * Ph.D. full Studentship. <br> University College London, United Kindom. 2019.
 * Best Paper Award. <br> International Conference in Sutainable Buildings and Structures (ICSBS 2019). 2019.
 
