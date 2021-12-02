@@ -81,6 +81,7 @@ author_profile: true
 * 	Automation in Construction (SCI)、Building Research & Information (SCI)、Journal of Building Engineering (SCI)、Scientific Reports (SCI)、Engineering, Construction and Architectural Management (SCI)、Journal of Asian Architecture and Building Engineering (SCI)、KSCE Journal of Civil Engineering (SCI)、Environment, Development and Sustainability (SCI) 、Heliyon、International Journal of Construction Management、Frontiers of Engineering Management、International Journal of Building Pathology and Adaptation等国际学术期刊审稿人
 * 	国际建筑自动化和机器人协会(IAARC)协会会员
 * 	英国皇家特许测量师学会 学生会员
+* 	美国绿色建筑协会 绿色建筑认证咨询专家 (LEED GA)
 
 # 个人荣誉:
 * 	2021 入选美国土木工程师协会主办期刊JME主编精选论文, 全年遴选6篇<br>
