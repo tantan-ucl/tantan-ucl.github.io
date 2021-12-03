@@ -78,7 +78,7 @@ author_profile: true
 * 	2018 香港大学智慧虚拟校园项目 (参与，以第一作者发表IEEE会议)
 
 # 学术职务:
-* 	Automation in Construction (SCI)、Building Research & Information (SCI)、Journal of Building Engineering (SCI)、Scientific Reports (SCI)、Engineering, Construction and Architectural Management (SCI)、Journal of Asian Architecture and Building Engineering (SCI)、KSCE Journal of Civil Engineering (SCI)、Environment, Development and Sustainability (SCI) 、Heliyon、International Journal of Construction Management、Frontiers of Engineering Management、International Journal of Building Pathology and Adaptation等国际学术期刊审稿人
+* 	Automation in Construction (SCI)、Building Research & Information (SCI)、Journal of Building Engineering (SCI)、Scientific Reports (SCI)、Engineering, Construction and Architectural Management (SCI)、Journal of Asian Architecture and Building Engineering (SCI)、KSCE Journal of Civil Engineering (SCI)、Sustainability (SCI)、Environment, Development and Sustainability (SCI) 、Heliyon、International Journal of Construction Management、Frontiers of Engineering Management、International Journal of Building Pathology and Adaptation等国际学术期刊审稿人
 * 	国际建筑自动化和机器人协会(IAARC)协会会员
 * 	英国皇家特许测量师学会 学生会员
 * 	美国绿色建筑协会 绿色建筑认证咨询专家 (LEED GA)
