@@ -6,7 +6,6 @@ author_profile: true
 
 
 **电子邮箱：tan.tan.17@ucl.ac.uk**
-伦敦大学学院可持续建筑系博士生(2019至今)。博士研究探索面向制造与装配式设计如何在复杂建筑中的实施，以及如何改变传统设计过程以支持建筑系统集成。获得华中科技大学建筑学学士(2012-2017) ，伦敦大学学院理学硕士(2017-2018) ，担任香港大学研究助理(2018-2019)。目前已发表16篇期刊、会议等文章，以第一作者/通讯作者发表5篇SCI ，累计影响因子31，其中3篇中科院TOP期刊，1篇入选扩展版ESI高被引论文，1篇入选主编精选并获得主编公开高度评价。获得伦敦大学学院的全额博士生奖学金、中国政府优秀自费(非公费)留学生奖学金，ICSBS 2019最佳会议论文奖。参与英国研究与创新基金(UKRI)、香港优配研究基金(GRF) 、湖北省重大科技专项等6个国际基金项目。担任Automation in Construction、Building Research & Information、Journal of Building Engineering、Scientific Reports等15个国际期刊审稿人、国际建筑自动化和机器人协会会员、美国绿色建筑委员会认证的绿色建筑咨询师(LEED GA)。
 
 # 教育及科研经历
 * **伦敦大学学院** 博士候选人；导师：[Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills)、[Eleni Papadonikolaki](https://www.ucl.ac.uk/bartlett/construction/people/dr-eleni-papadonikolaki)
