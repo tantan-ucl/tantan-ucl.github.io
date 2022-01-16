@@ -46,6 +46,7 @@ Digital Innovation, Design for Manufacture, Systems Integration, Modularity
 * **Tan, Tan***., Grant Mills., & Eleni Papadonikolaki. (2021). <i>Establishing a Platform for BIM and P-DfMA<i>. In. W.S. Lu & C.J. Anumba (Ed.), Research Companion on Building Information Modeling. Edward Elgar Publishing. (Accept)
 
 # Research Project
+* UCL Grand Challenges Doctoral Students' Small Grants. Health-Building Information Modeling (H-BIM) of Healthcare Infrastructure. (Principal Investigator)  
 * UKRI Transforming Construction Industrial Strategy Challenge Fund. AEC Production Control Rooms. (Core member)    
 * Bartlett Research Grants Scheme 2020-2021. An advanced machine learning-based approach for prediction of task-productivity in construction projects (AMProd). (Core member)   
 * UKRI Industrial Strategy Challenge Fund. Transforming Construction Network Plus: Challenging Space Frontiers in Hospitals. (Core member)     
@@ -55,6 +56,7 @@ Digital Innovation, Design for Manufacture, Systems Integration, Modularity
 Automation in Construction; Building Research & Information; Journal of Building Engineering; Engineering; Scientific Reports; Construction and Architectural Management; Journal of Asian Architecture and Building Engineering; Sustainability; KSCE Journal of Civil Engineering; Heliyon; International Journal of Construction Management; Frontiers of Engineering Management; International Journal of Building Pathology and Adaptation 
 
 # Honors and Awards
+* Doctoral Students' Small Grants. <br> UCL Grand Challenges. 2022.
 * Editor's Choice. <br> Journal of Management in Engineering. 2021.
 * Chinese Government Award for Outstanding Self-financed Students Abroad. <br> The Chinese Government. 2020.
 * Ph.D. full Studentship. <br> University College London, United Kindom. 2019.

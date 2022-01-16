@@ -52,6 +52,7 @@ author_profile: true
 15.	**Tan, T**., Chen, K., Lu, W., & Xue, F*. (2019). [Semantic enrichment for rooftop modeling using Aerial LiDAR reflectance](https://ieeexplore.ieee.org/abstract/document/8960769/). In 2019 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC 2019). Sept. 20-23, Dalian, China. [使用航空 LiDAR 反射进行屋顶建模的语义丰富] (EI检索)
 
 # 科研项目:
+* 	**主持**英国 UCL Grand Challenges Doctoral Students' Small Grants. Health-Building Information Modeling (H-BIM) of Healthcare Infrastructure. (医疗基础设施的健康建筑信息模型)
 * 	参与英国 UKRI Transforming Construction Industrial Strategy Challenge Fund. AEC Production Control Rooms. (建筑业生产控制屋)
 * 	参与英国 Bartlett Research Grants Scheme 2020-2021. An advanced machine learning-based approach for prediction of task-productivity in construction projects (AMProd). (基于机器学习的先进方法预测建筑项目中的任务生产力)
 * 	参与中国 湖北省科技重大专项“智能建造关键技术及应用”(2020ACA006)
@@ -84,6 +85,7 @@ author_profile: true
 * 	美国绿色建筑协会 绿色建筑认证咨询专家 (LEED GA)
 
 # 个人荣誉:
+* 	2022 获得伦敦大学学院重大挑战博士基金资助
 * 	2021 入选美国土木工程师协会主办期刊JME主编精选论文, 全年遴选6篇<br>
 * 	2020 国家优秀自费(非公派)留学生奖学金, 全球遴选500人, 6000美元<br>
 * 	2020 入选扩展版ESI高被引论文, InCites被引用前3％<br>
