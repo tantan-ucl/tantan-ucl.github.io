@@ -6,6 +6,10 @@ author_profile: true
 
 
 **电子邮箱：tan.tan.17@ucl.ac.uk**
+伦敦大学学院可持续建筑系博士生(2019至今)。博士研究探索面向制造与装配式设计如何在复杂建筑中的实施，以及如何改变传统设计过程以支持建筑系统集成。获得华中科技大学建筑学学士(2012-2017) ，伦敦大学学院理学硕士(2017-2018) ，担任耶鲁大学访问学者(2022)、香港大学研究助理(2018-2019)。目前已发表17篇学术文章，以第一作者/通讯作者发表5篇SCI ，累计影响因子31，其中3篇中科院TOP期刊，1篇入选扩展版ESI高被引论文，1篇入选主编精选并获得主编公开高度评价。获得伦敦大学学院的全额博士生奖学金、中国政府优秀自费(非公费)留学生奖学金，ICSBS 2019最佳会议论文奖。主持1项英国伦敦大学学院重大挑战基金研究课题，参与英国研究与创新基金(UKRI)、香港优配研究基金(GRF) 、湖北省重大科技专项等6个基金研究课题。担任Automation in Construction、Building Research & Information、Journal of Building Engineering、Scientific Reports等15个国际期刊审稿人、国际建筑自动化和机器人协会会员、美国绿色建筑委员会认证的绿色建筑咨询助理(LEED GA)。
+
+# 研究兴趣
+数字建筑，可持续建筑，设计管理，医疗建筑
 
 # 教育及科研经历
 * **伦敦大学学院** 博士候选人；导师：[Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills)、[Eleni Papadonikolaki](https://www.ucl.ac.uk/bartlett/construction/people/dr-eleni-papadonikolaki)
@@ -30,9 +34,6 @@ author_profile: true
 <br>2019.09-至今 巴特莱特建筑学院 可持续建筑系
 * **华中科大建筑规划设计研究院** 项目助理
 <br>2020.06-2020.09 土家族泛博物馆项目；合作导师：[李保峰](http://faculty.hust.edu.cn/libaofeng/zh_CN/index.htm)
-
-# 研究兴趣
-数字建筑，可持续建筑，设计管理，医疗建筑
 
 # 期刊论文: 
 1.	**Tan, T***., Mills, G., Hu, J., & Papadonikolaki, E. (2021). [Integrated Approaches to Design for Manufacture and Assembly: A Case Study of Huoshenshan Hospital to Combat COVID-19 in Wuhan, China](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ME.1943-5479.0000972). Journal of Management in Engineering, 37(6), 05021007. [面向制造与装配式设计的集成方法：中国武汉火神山医院抗击 COVID-19 的案例研究] (SCI中科院1区, IF=6.853).
