@@ -12,7 +12,7 @@ author_profile: true
 * **香港大学** 研究助理；合作导师：[吕伟生](https://www.arch.hku.hk/staff/faculty-office-staff/lu-wilson-w-s/)、[薛帆](https://www.arch.hku.hk/staff/rec/xue-fan/?dept=rec)
 <br>2018.9-2019.9 建筑学院 城市大数据实验室
 * **伦敦大学学院** 理学硕士；导师：[Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills)
-<br>2017.9-2018.9 巴特莱特建筑学院 可持续建筑系
+<br>2017.9-2018.9 巴特莱特建筑学院 建造及项目管理系
 * **华中科技大学** 建筑学学士 
 <br>2012.9-2017.7 建筑与城市规划学院 建筑学系                                                                                                                    
 
