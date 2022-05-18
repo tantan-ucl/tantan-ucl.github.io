@@ -17,8 +17,6 @@ author_profile: true
 <br>2012.9-2017.7 建筑与城市规划学院 建筑学系                                                                                                                    
 
 # 学术访问
-* **耶鲁大学** 访问学者；合作导师：[Marian Chertow](https://environment.yale.edu/profile/chertow)、[Alessio Miatto](https://resources.environment.yale.edu/profile/alessio-miatto)
-<br>2022.7-2022.10 环境学院 工业生态中心
 * **清华大学** 访问博士生；合作导师：[李纪珍](http://www.sem.tsinghua.edu.cn/zh/lijzh) 
 <br>2021.3-2021.6 经济管理学院 创新创业与战略系
 * **南方科技大学** 访问学者
@@ -41,7 +39,7 @@ author_profile: true
 
 # 报告及书籍: 
 8.	Mills, G., Goodier, C., Kingston, J., Astely, P., Symons, A., **Tan, T**., & Sherwood, C. (2020) [Challenging Space Frontiers in Hospitals: Accelerating capabilities and advancing platforms for modern hospital manufacture](http://bit.ly/ChallengingSpaceFrontiersinHospitals-Report). Report prepared for Transforming Construction Network Plus, UCL Bartlett School of Construction and Project Management. [挑战医院的空间前沿：为现代医院制造加速能力和推进平台]
-9.	**Tan, T***., Mills, G., & Papadonikolaki, E. (2021). Establishing a Platform for BIM and P-DfMA. In. W.S. Lu & C.J. Anumba (Ed.), Research Companion on Building Information Modeling. Edward Elgar Publishing. [建立BIM与面向制造与装配式设计的平台途径]
+9.	**Tan, T***., Mills, G., & Papadonikolaki, E. (2021). [Building information modeling-enabled platform approach to design for manufacture and assembly](https://www.elgaronline.com/view/edcoll/9781839105517/9781839105517.00029.xml). In. W.S. Lu & C.J. Anumba (Ed.), Research Companion on Building Information Modeling. Edward Elgar Publishing. [建立BIM与面向制造与装配式设计的平台途径]
 
 # 会议论文:
 10.	**Tan, T***., Papadonikolaki, E., Mills, G., Chen, J., Zhang, Z., & Chen, K. (2021). [BIM-enabled Sustainability Assessment of Design for Manufacture and Assembly](https://discovery.ucl.ac.uk/id/eprint/10135214/). In 38th International Symposium on Automation and Robotics in Construction (ISARC 2021). [基于BIM的面向制造与装配式设计的可持续性评估] (EI检索)
