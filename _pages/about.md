@@ -17,7 +17,6 @@ I received my Bachelor's degree in Huazhong University of Science and Technology
 * **B.Arch.**, Department of Architecture, Huazhong University of Science and Technology, 2012/9-2017/7
 
 # Academic Visiting & Exchange
-* **Exchange Scholar**, Center for Industrial Ecology, Yale University, 2022/7-2022/10
 * **Visiting Ph.D.**, School of Economics and Management, Tsinghua University, 2021/3-2021/6
 * **Visiting Scholar**, CodeFab, School of System Design and Intelligent Engineering, Southern University of Science and Technology，2020/10-2020/11
 
@@ -47,7 +46,7 @@ Digital Innovation, Design for Manufacture, Systems Integration, Modularity
 
 # Report & Book Chapter
 * Grant Mills, Chris Goodier, Jenifer Kingston, Philip Astley, Anne Symons, **Tan Tan**, Chris Sherwood. (2020). "<i>Challenging Space Frontiers in Hospitals: Accelerating capabilities and advancing platforms for modern hospital manufacture</i>". Report prepared for Transforming Construction Network Plus, UCL Bartlett School of Construction and Project Management. ([Link](http://bit.ly/ChallengingSpaceFrontiersinHospitals-Report)).
-* **Tan, Tan***., Grant Mills., & Eleni Papadonikolaki. (2021). <i>Establishing a Platform for BIM and P-DfMA<i>. In. W.S. Lu & C.J. Anumba (Ed.), Research Companion on Building Information Modeling. Edward Elgar Publishing. (Accept)
+* **Tan, Tan***., Grant Mills., & Eleni Papadonikolaki. (2021). <i>Establishing a Platform for BIM and P-DfMA<i>. In. W.S. Lu & C.J. Anumba (Ed.), Research Companion on Building Information Modeling. Edward Elgar Publishing. ([Link](https://www.elgaronline.com/view/edcoll/9781839105517/9781839105517.00029.xml)).
 
 # Research Project
 * UCL Grand Challenges Doctoral Students' Small Grants. Health-Building Information Modeling (H-BIM) of Healthcare Infrastructure. (Principal Investigator)  
