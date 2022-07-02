@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Tan TAN"
+title                    : "Yuan Chen"
 title_separator          : "-"
-name                     : &name "Tan TAN"
-description              : &description "Ph.D. Candidate<br>The Bartlett<br>University College London"
-url                      : https://tantan-ucl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yuan CHEN"
+description              : &description "Ph.D. Candidate<br> Anthropology <br>University College London"
+url                      : https://Yuan-ucl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tantan-ucl/tantan-ucl.github.io"
+repository               : "YUANDALAO/Yuan-ucl.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tan Tan"
+  name             : "Yuan"
   avatar           : "0.jpg" # "tantan.jpg" #
-  bio              : "Ph.D. Candidate<br>The Bartlett<br>University College London"
+  bio              : "Ph.D. Candidate<br>Anthropology<br>University College London"
   location         : "London, United Kindom"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=_VG990cAAAAJ&hl=en"
-  email            : "tan.tan.17@ucl.ac.uk"
+  email            : "yuan.chen.20@ucl.ac.uk"
   uri              : 
   bitbucket        :
   codepen          :
@@ -94,16 +94,16 @@ author:
   github           :
   google_plus      :
   keybase          :
-  instagram        : "tantan.uk"
+  instagram        : 
   lastfm           :
-  linkedin         : "mrtantan"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "cheriongyuan"
   vine             :
   weibo            :
   xing             :
