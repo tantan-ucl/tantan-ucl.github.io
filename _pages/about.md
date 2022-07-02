@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. candidate at University College London (UCL), under the supervision of Prof Ruth Mace, Dr. Mark Dyble, and Dr. Gul Deniz Salali (https://www.ucl.ac.uk/anthropology/research/evolutionary-anthropology/human-evolutionary-ecology).
+I am currently a Ph.D. candidate at University College London (UCL), under the supervision of Prof Ruth Mace, Dr. Mark Dyble, and Dr. Gul Deniz Salali ([link](https://www.ucl.ac.uk/anthropology/research/evolutionary-anthropology/human-evolutionary-ecology).
 
-# Eduaction & Research Experience
+# Education & Research Experience
 * **Ph.D.**, Dept of Anthropology, UCL, 2020/9-2024/9
 * **RA**, Lanzhou University, 2020/9-2021/6
 * **MS.c.**, Ecology, Lanzhou University, 2017/9-2020/6
@@ -32,7 +32,7 @@ Human behavioural ecology; Sexual division of labour; Religious belief; Kinship 
 * Arnot, M; Brandl, E; Campbell, O; **Chen, Yuan**, et al. How evolutionary behavioural sciences can help us understand behavior in a pandemic. Evolution, Medicine, and Public Health. 2020(1):264-278, https://doi.org/10.1093/emph/eoaa038
 
 
-# talks and presentations
+# Talks and posters
 * Talk at the 2022 Meeting of the International Society for Evolution, Medicine and Public Health, in Lisbon from July 5th to July 8th (2022).
 * Poster at the European Human Behaviour & Evolution Association EHBEA Conference (Apr 2021)
 * Talk at the 2nd French EHS meetings Montpellier (Nov 2021).
