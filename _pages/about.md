@@ -26,10 +26,12 @@ I am currently a Ph.D. candidate at University College London (UCL), under the s
 Human behavioural ecology; Sexual division of labour; Religious belief; Kinship system; Social organisation; Sex inequality
 
 # Journal Paper
+
 * Erhao Ge*, **Yuan Chen***, Jiajia Wu, Ruth Mace$. Large-scale cooperation driven by reputation, not fear of divine punishment. Royal Society Open Science. 2019, 6 (8). *First co-author, http://dx.doi.org/10.1098/rsos.190991
 * **Yuan Chen**, Jiajia Wu, Juan Du, Ruth Mace*. Sex inequality in workload driven by dispersal. OSF Preprint.
 * Micheletti AJC, Ge E, Zhou L, **Chen Y**, Zhang H, Du J, Mace R. 2022 Religious celibacy brings inclusive fitness benefits. Proc. R. Soc. B 289: 20220965. https://doi.org/10.1098/rspb.2022.0965.
 * Arnot, M; Brandl, E; Campbell, O; **Chen, Yuan**, et al. How evolutionary behavioural sciences can help us understand behavior in a pandemic. Evolution, Medicine, and Public Health. 2020(1):264-278, https://doi.org/10.1093/emph/eoaa038
+
 
 
 # Talks and posters
@@ -42,7 +44,7 @@ Human behavioural ecology; Sexual division of labour; Religious belief; Kinship 
 
 
 # Honors and Awards
-* Travel award. ISEMPH 2022, Lisbon. 
+* Research award. ISEMPH 2022, Lisbon. 
 * Selected as one of twenty young scholars to participate in the Royaumont workshop with Leda Cosmides and John Tooby
 * Ph.D. full Studentship. <br> University College London, United Kindom. 2020.
 
