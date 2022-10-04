@@ -9,7 +9,6 @@ author_profile: true
 # 教育经历
 * **伦敦大学学院** 博士候选人；导师：[Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills)、[Eleni Papadonikolaki](https://www.ucl.ac.uk/bartlett/construction/people/dr-eleni-papadonikolaki)
 <br>2019.9-至今 巴特莱特建筑学院 可持续建筑系
-<br>2018.9-2019.9 建筑学院 城市大数据实验室
 * **伦敦大学学院** 理学硕士；导师：[Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills)
 <br>2017.9-2018.9 巴特莱特建筑学院 建造及项目管理系
 * **华中科技大学** 建筑学学士 
@@ -22,7 +21,7 @@ author_profile: true
 <br>2022.12起 数字建造研究中心 (NCCR Digital Fabrication)
 * **伦敦大学学院** 研究助理；导师：[Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills)
 <br>2017.9-2018.9 巴特莱特建筑学院
-* **香港大学** 研究助理；合作导师：[吕伟生](https://www.arch.hku.hk/staff/faculty-office-staff/lu-wilson-w-s/)、[薛帆](https://www.arch.hku.hk/staff/rec/xue-fan/?dept=rec)
+* **香港大学** 研究助理；导师：[吕伟生](https://www.arch.hku.hk/staff/faculty-office-staff/lu-wilson-w-s/)、[薛帆](https://www.arch.hku.hk/staff/rec/xue-fan/?dept=rec)
 <br>2018.9-2019.9 建筑学院 城市大数据实验室   
 
 # 教学工作经历
