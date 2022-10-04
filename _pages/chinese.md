@@ -15,7 +15,7 @@ author_profile: true
 <br>2012.9-2017.7 建筑与城市规划学院 建筑学系        
 
 # 科研工作经历
-* **代尔夫特理工大学** 博士后研究员；导师：[Daniel Hall](https://scholar.google.com/citations?user=b_YjGkMAAAAJ&hl=en)
+* **荷兰代尔夫特理工大学** 博士后研究员；导师：[Daniel Hall](https://scholar.google.com/citations?user=b_YjGkMAAAAJ&hl=en)
 <br>2022.12起 建筑与建成环境学院
 * **瑞士国家能力研究中心** 研究员
 <br>2022.12起 数字建造研究中心 (NCCR Digital Fabrication)
@@ -25,7 +25,7 @@ author_profile: true
 <br>2018.9-2019.9 建筑学院 城市大数据实验室   
 
 # 教学工作经历
-* **代尔夫特理工大学** 硕士生导师、客座讲师
+* **荷兰代尔夫特理工大学** 硕士生导师、客座讲师
 <br>2023.01起 建筑与建成环境学院
 * **伦敦大学学院** 研究生助教
 <br>2019.09-至今 巴特莱特建筑学院
