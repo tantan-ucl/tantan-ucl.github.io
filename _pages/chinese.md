@@ -6,27 +6,37 @@ author_profile: true
 # 研究兴趣
 数字建筑，可持续建筑，设计管理，医疗建筑
 
-# 教育及科研经历
+# 教育经历
 * **伦敦大学学院** 博士候选人；导师：[Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills)、[Eleni Papadonikolaki](https://www.ucl.ac.uk/bartlett/construction/people/dr-eleni-papadonikolaki)
 <br>2019.9-至今 巴特莱特建筑学院 可持续建筑系
-* **香港大学** 研究助理；合作导师：[吕伟生](https://www.arch.hku.hk/staff/faculty-office-staff/lu-wilson-w-s/)、[薛帆](https://www.arch.hku.hk/staff/rec/xue-fan/?dept=rec)
 <br>2018.9-2019.9 建筑学院 城市大数据实验室
 * **伦敦大学学院** 理学硕士；导师：[Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills)
 <br>2017.9-2018.9 巴特莱特建筑学院 建造及项目管理系
 * **华中科技大学** 建筑学学士 
-<br>2012.9-2017.7 建筑与城市规划学院 建筑学系                                                                                                                    
+<br>2012.9-2017.7 建筑与城市规划学院 建筑学系        
 
-# 学术访问
+# 科研工作经历
+* **代尔夫特理工大学** 博士后研究员；导师：[Daniel Hall](https://scholar.google.com/citations?user=b_YjGkMAAAAJ&hl=en)
+<br>2022.12起 建筑与建成环境学院
+* **瑞士国家能力研究中心** 研究员
+* <br>2022.12起 数字化建造研究中心(NCCR Digital Fabrication)
+<br>2022.12- 建筑与建成环境学院
+* **伦敦大学学院** 研究助理；导师：[Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills)
+<br>2017.9-2018.9 巴特莱特建筑学院
+* **香港大学** 研究助理；合作导师：[吕伟生](https://www.arch.hku.hk/staff/faculty-office-staff/lu-wilson-w-s/)、[薛帆](https://www.arch.hku.hk/staff/rec/xue-fan/?dept=rec)
+<br>2018.9-2019.9 建筑学院 城市大数据实验室   
+
+# 教学工作经历
+* **代尔夫特理工大学** 硕士生导师、客座讲师
+<br>2023.01起 建筑与建成环境学院
+* **伦敦大学学院** 研究生助教
+<br>2019.09-至今 巴特莱特建筑学院 可持续建筑系
+
+# 学术访问经历
 * **清华大学** 访问博士生；合作导师：[李纪珍](http://www.sem.tsinghua.edu.cn/zh/lijzh) 
 <br>2021.3-2021.6 经济管理学院 创新创业与战略系
 * **南方科技大学** 访问学者
 <br>2020.10-2020.11 系统设计与智能制造学院；合作导师：[熊异](https://faculty.sustech.edu.cn/xiongy3/)
-
-# 学术兼职
-* **伦敦大学学院** 助教(TA)、研究助理(RA)
-<br>2019.09-至今 巴特莱特建筑学院 可持续建筑系
-* **华中科大建筑规划设计研究院** 项目助理
-<br>2020.06-2020.09 土家族泛博物馆项目；合作导师：[李保峰](http://faculty.hust.edu.cn/libaofeng/zh_CN/index.htm)
 
 # 期刊论文: 
 1.	**Tan, T***., Mills, G., Papadonikolaki, E., Li, B., & Huang, J. (2022). [Digital-enabled Design for Manufacture and Assembly (DfMA) in Offsite Construction: A Modularity Perspective for the Product and Process Integration](https://doi.org/10.1080/17452007.2022.2104208). Architectural, Engineering and Design Management, 1-16. [非现场施工中的面向制造和装配的数字化设计：产品和流程集成的模块化视角] （SCI中科院3区, IF=2.26）
@@ -58,6 +68,7 @@ author_profile: true
 
 # 科研项目:
 * 	**主持**英国 UCL Grand Challenges Doctoral Students' Small Grants. Health-Building Information Modeling (H-BIM) of Healthcare Infrastructure. (医疗基础设施的健康建筑信息模型)
+* 	参与瑞士 SNSF. Reflective Action and New Project Praxis for Digital Fabrication in Architecture, Engineering and Construction. (建筑业中的数字建造的反思性行动和新项目实践)
 * 	参与英国 UKRI Transforming Construction Industrial Strategy Challenge Fund. AEC Production Control Rooms. (建筑业生产控制屋)
 * 	参与英国 Bartlett Research Grants Scheme 2020-2021. An advanced machine learning-based approach for prediction of task-productivity in construction projects (AMProd). (基于机器学习的先进方法预测建筑项目中的任务生产力)
 * 	参与中国 湖北省科技重大专项“智能建造关键技术及应用”(2020ACA006)
@@ -65,6 +76,7 @@ author_profile: true
 * 	参与香港 RGC General Research Fund 2018/2019. A derivative-free optimization (DFO) approach to architectural symmetry detection from 3D point clouds. (从3D点云进行建筑对称性检测的无导数优化方法)
 
 # 授课及演讲:
+* 	2022 讲授《Principles of BIM》 (助教，伦敦大学学院)
 * 	2021 讲授《Big Data and Business Analytics》 (助教，伦敦大学学院)
 * 	2021 讲授《Management of Major Programmes with Digital》 (助教，伦敦大学学院)
 * 	2021 讲授《Integration, Modulariation and Platforms》 (助教，伦敦大学学院)
