@@ -10,11 +10,15 @@ redirect_from:
 I am currently a Ph.D. candidate at University College London (UCL), under the supervision of [Prof Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills) and [Dr Eleni Papadonikolaki](https://www.ucl.ac.uk/bartlett/construction/people/dr-eleni-papadonikolaki). <br>
 I received my Bachelor's degree in Huazhong University of Science and Technology in Wuhan, China, and Master's degree in University College London (UCL). Before my PhD study, I worked at [iLab](https://fac.arch.hku.hk/iLab/people/), The University of Hong Kong as a Research Assistant, under the supervision of [Prof Weisheng Lu](https://www.arch.hku.hk/staff/faculty-office-staff/lu-wilson-w-s/) and [Dr Fan Xue](https://www.arch.hku.hk/staff/rec/xue-fan/?dept=rec).
 
-# Eduaction & Research Experience
+# Eduaction
 * **Ph.D.**, Bartlett School of Sustainable Construction, UCL, 2019/9-2023/9
-* **RA**, Department of Real Estate and Construction, The University of Hong Kong, 2018/9-2019/9
 * **MS.c.**, Bartlett School of Construction and Project Management, UCL, 2017/9-2018/9
 * **B.Arch.**, Department of Architecture, Huazhong University of Science and Technology, 2012/9-2017/7
+
+# Full-time Appointment
+* **Postdoc Researcher**, Section of Design & Construction Management, Delft University of Technology, 2022/12-
+* **Associated Researcher**, National Centre of Competence in Research (NCCR) Digital Fabrication, Switzerland, 2022/12-
+* **Research Asisstant**, Department of Real Estate and Construction, The University of Hong Kong, 2018/9-2019/9
 
 # Academic Visiting & Exchange
 * **Visiting Ph.D.**, School of Economics and Management, Tsinghua University, 2021/3-2021/6
@@ -53,6 +57,7 @@ Digital Innovation, Design for Manufacture, Systems Integration, Modularity
 
 # Research Project
 * UCL Grand Challenges Doctoral Students' Small Grants. Health-Building Information Modeling (H-BIM) of Healthcare Infrastructure. (Principal Investigator)  
+* SNSF. Reflective Action and New Project Praxis for Digital Fabrication in Architecture, Engineering and Construction. (Core member)    
 * UKRI Transforming Construction Industrial Strategy Challenge Fund. AEC Production Control Rooms. (Core member)    
 * Bartlett Research Grants Scheme 2020-2021. An advanced machine learning-based approach for prediction of task-productivity in construction projects (AMProd). (Core member)   
 * UKRI Industrial Strategy Challenge Fund. Transforming Construction Network Plus: Challenging Space Frontiers in Hospitals. (Core member)     
