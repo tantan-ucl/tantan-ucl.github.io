@@ -20,7 +20,7 @@ author_profile: true
 * **瑞士国家能力研究中心** 研究员
 <br>2022.12起 数字建造研究中心 (NCCR Digital Fabrication)
 * **伦敦大学学院** 研究助理；导师：[Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills)
-<br>2017.9-2018.9 巴特莱特建筑学院
+<br>2019.09-至今 巴特莱特建筑学院
 * **香港大学** 研究助理；导师：[吕伟生](https://www.arch.hku.hk/staff/faculty-office-staff/lu-wilson-w-s/)、[薛帆](https://www.arch.hku.hk/staff/rec/xue-fan/?dept=rec)
 <br>2018.9-2019.9 建筑学院 城市大数据实验室   
 
