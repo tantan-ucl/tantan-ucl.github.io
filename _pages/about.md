@@ -16,8 +16,8 @@ I received my Bachelor's degree in Huazhong University of Science and Technology
 * **B.Arch.**, Department of Architecture, Huazhong University of Science and Technology, 2012/9-2017/7
 
 # Full-time Appointment
-* **Postdoc Researcher**, Section of Design & Construction Management, Delft University of Technology, 2022/12-
-* **Associated Researcher**, National Centre of Competence in Research (NCCR) Digital Fabrication, Switzerland, 2022/12-
+* **Postdoc Researcher**, Section of Design & Construction Management, Delft University of Technology, 2023-
+* **Associated Researcher**, National Centre of Competence in Research (NCCR) Digital Fabrication, Switzerland, 2023-
 * **Research Asisstant**, Department of Real Estate and Construction, The University of Hong Kong, 2018/9-2019/9
 
 # Academic Visiting & Exchange
