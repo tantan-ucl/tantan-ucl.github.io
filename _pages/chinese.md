@@ -17,8 +17,8 @@ author_profile: true
 # 科研工作经历
 * **荷兰代尔夫特理工大学** 博士后研究员；导师：[Daniel Hall](https://scholar.google.com/citations?user=b_YjGkMAAAAJ&hl=en)
 <br>2023起 建筑与建成环境学院
-* **瑞士国家能力研究中心** 研究员
-<br>2023起 数字建造研究中心 (NCCR Digital Fabrication)
+* **瑞士苏黎世联邦理工大学** 附属研究员
+<br>2023起 瑞士国家能力研究中心-数字建造项目 (NCCR Digital Fabrication)
 * **伦敦大学学院** 研究助理；导师：[Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills)
 <br>2019.09-至今 巴特莱特建筑学院
 * **香港大学** 研究助理；导师：[吕伟生](https://www.arch.hku.hk/staff/faculty-office-staff/lu-wilson-w-s/)、[薛帆](https://www.arch.hku.hk/staff/rec/xue-fan/?dept=rec)
