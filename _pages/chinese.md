@@ -25,11 +25,11 @@ author_profile: true
 <br>2018.9-2019.9 建筑学院 城市大数据实验室   
 
 # 教学工作经历
-* **伦敦大学学院** 研究生助教
+* **伦敦大学学院** 研究生助教；[Tim Broyd](https://www.ucl.ac.uk/bartlett/construction/people/professor-tim-broyd)、[Eleni Papadonikolaki](https://www.ucl.ac.uk/bartlett/construction/people/dr-eleni-papadonikolaki)
 <br>2019.09-至今 巴特莱特建筑学院
 
 # 学术访问经历
-* **清华大学** 访问博士生；合作导师：[李纪珍](http://www.sem.tsinghua.edu.cn/zh/lijzh) 
+* **清华大学** 访问博士生；合作导师：[李纪珍](http://www.sem.tsinghua.edu.cn/zh/lijzh](https://www.sem.tsinghua.edu.cn/info/1208/31893.htm) 
 <br>2021.3-2021.6 经济管理学院 创新创业与战略系
 * **南方科技大学** 访问学者
 <br>2020.10-2020.11 系统设计与智能制造学院；合作导师：[熊异](https://faculty.sustech.edu.cn/xiongy3/)
