@@ -15,17 +15,10 @@ I received my Bachelor's degree in Huazhong University of Science and Technology
 * **MS.c.**, Bartlett School of Construction and Project Management, UCL, 2017/9-2018/9
 * **B.Arch.**, Department of Architecture, Huazhong University of Science and Technology, 2012/9-2017/7
 
-# Full-time Appointment
-* **Postdoc Researcher**, Section of Design & Construction Management, Delft University of Technology, 2023-
+# Appointment
+* **Postdoc Researcher**, Faculty of Architecture and the Built Environment, Delft University of Technology, 2023-
 * **Associated Researcher**, National Centre of Competence in Research (NCCR) Digital Fabrication, Switzerland, 2023-
 * **Research Asisstant**, Department of Real Estate and Construction, The University of Hong Kong, 2018/9-2019/9
-
-# Academic Visiting & Exchange
-* **Visiting Ph.D.**, School of Economics and Management, Tsinghua University, 2021/3-2021/6
-* **Visiting Scholar**, CodeFab, School of System Design and Intelligent Engineering, Southern University of Science and Technology，2020/10-2020/11
-
-# Part-time Appointment
-* **Research Assistant & Teaching Assistant**, Bartlett School of Sustainable Construction, UCL, 2019/9-now
 
 # Research Interests
 Digital Innovation, Design for Manufacture, Systems Integration, Modularity
