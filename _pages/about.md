@@ -7,18 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. candidate at University College London (UCL), under the supervision of [Prof Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills) and [Dr Eleni Papadonikolaki](https://www.ucl.ac.uk/bartlett/construction/people/dr-eleni-papadonikolaki). <br>
-I received my Bachelor's degree in Huazhong University of Science and Technology in Wuhan, China, and Master's degree in University College London (UCL). Before my PhD study, I worked at [iLab](https://fac.arch.hku.hk/iLab/people/), The University of Hong Kong as a Research Assistant, under the supervision of [Prof Weisheng Lu](https://www.arch.hku.hk/staff/faculty-office-staff/lu-wilson-w-s/) and [Dr Fan Xue](https://www.arch.hku.hk/staff/rec/xue-fan/?dept=rec).
+Tan Tan holds a research position at Delft University of Technolog (TU Delft) and thw Swiss National Centre of Competence in Research (NCCR) Digital Fabrication. He has an interdisciplinary background in architectural design, project management and sustainable construction. He studied for his PhD and MSc from the Bartlett, UCL's faculty of the built environment. He obtained his BArch from Huazhong University of Science and Technology. Before his PhD, He worked at the Department of Real Estate and Construction of the University of Hong Kong as a research assistant.
+
+His current research focuses on exploring implementation barriers and new project delivery methods of digital fabrication in the Swiss construction industry. He is interested in improving sustainability in complex buildings, e.g., health care, through integrated design management and engineering, e.g., DfMA & digital fabrication.
+
+# Appointment
+* **Postdoc Researcher**, Faculty of Architecture and the Built Environment, Delft University of Technology, 2023.2-now
+* **Postdoc Researcher**, National Centre of Competence in Research (NCCR) Digital Fabrication, Switzerland, 2023.2-now
+* **Research Asisstant**, Department of Real Estate and Construction, The University of Hong Kong, 2018/9-2019/9
 
 # Eduaction
 * **Ph.D.**, Bartlett School of Sustainable Construction, UCL, 2019/9-2023/9
 * **MS.c.**, Bartlett School of Construction and Project Management, UCL, 2017/9-2018/9
 * **B.Arch.**, Department of Architecture, Huazhong University of Science and Technology, 2012/9-2017/7
-
-# Appointment
-* **Postdoc Researcher**, Faculty of Architecture and the Built Environment, Delft University of Technology, 2023-
-* **Associated Researcher**, National Centre of Competence in Research (NCCR) Digital Fabrication, Switzerland, 2023-
-* **Research Asisstant**, Department of Real Estate and Construction, The University of Hong Kong, 2018/9-2019/9
 
 # Research Interests
 Digital Innovation, Design for Manufacture, Systems Integration, Modularity
