@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Tan TAN"
 title_separator          : "-"
 name                     : &name "Tan TAN"
-description              : &description "Ph.D. Candidate<br>The Bartlett<br>University College London"
+description              : &description "Postdoc Researcher<br>TU Delft<br>NCCR Digital Fabrication"
 url                      : https://tantan-ucl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tantan-ucl/tantan-ucl.github.io"
@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Tan Tan"
   avatar           : "0.jpg" # "tantan.jpg" #
-  bio              : "Ph.D. Candidate<br>The Bartlett<br>University College London"
-  location         : "London, United Kindom"
+  bio              : "Postdoc Researcher<br>TU Delft<br>NCCR Digital Fabrication"
+  location         : "Delft, Netherlands"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=_VG990cAAAAJ&hl=en"
   email            : "tan.tan.17@ucl.ac.uk"
@@ -109,7 +109,8 @@ author:
   xing             :
   youtube          : 
   wikipedia        : 
-
+  TU Delft         : https://www.tudelft.nl/staff/t.tan/?cHash=fd2f0700f63ecb81902008e63e76a2a8
+  NCCR             : https://dfab.ch/people/tan-tan
 
 # Reading Files
 include:
