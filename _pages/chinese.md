@@ -23,4 +23,11 @@ author_profile: true
 * **伦敦大学学院** 硕士
 <br>2017.9-2018.9 巴特莱特建筑学院 建造及项目管理系
 * **华中科技大学** 学士 
-<br>2012.9-2017.7 建筑与城市规划学院 建筑学系        
+<br>2012.9-2017.7 建筑与城市规划学院 建筑学系  
+
+# 在研项目
+* Swiss National Science Foundation (SNSF) The National Centre of Competence in Research (NCCR) Digital Fabrication
+<br>Project Title: **Reflective Action and New Project Praxis for Digital Fabrication in AEC**
+* Hong Kong Research Grants Council (RGC) Collaborative Research Fund (CRF)
+<br>Project Title: **Generative DfX in high-rise modular building: An expert-augmented cascade graph learning and optimisation approach**
+
