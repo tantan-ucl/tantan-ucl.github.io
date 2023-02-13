@@ -13,7 +13,7 @@ author_profile: true
 * **荷兰代尔夫特理工大学** 博士后研究员
 <br>2023.2-至今 建筑与建成环境学院
 * **瑞士国家能力研究中心** 博士后研究员
-<br>2023.2-至今 数字建造项目 (NCCR Digital Fabrication)
+<br>2023.2-至今 数字制造项目 (NCCR Digital Fabrication)
 * **香港大学** 研究助理
 <br>2018.9-2019.9 建筑学院 城市大数据实验室 (iLab)
 
@@ -26,8 +26,8 @@ author_profile: true
 <br>2012.9-2017.7 建筑与城市规划学院 建筑学系  
 
 # 在研项目
-* Swiss National Science Foundation (SNSF) The National Centre of Competence in Research (NCCR) Digital Fabrication
-<br>Project Title: **Reflective Action and New Project Praxis for Digital Fabrication in AEC**
-* Hong Kong Research Grants Council (RGC) Collaborative Research Fund (CRF)
-<br>Project Title: **Generative DfX in high-rise modular building: An expert-augmented cascade graph learning and optimisation approach**
+* 瑞士国家科学基金 (SNSF) 瑞士国家能力研究中心数字制造项目 (NCCR Digital Fabrication)
+<br>项目题目: **Reflective Action and New Project Praxis for Digital Fabrication in AEC**
+* 香港研究资助局 (RGC) 合作研究基金 (CRF)
+<br>项目题目: **Generative DfX in high-rise modular building: An expert-augmented cascade graph learning and optimisation approach**
 
