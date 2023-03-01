@@ -27,7 +27,7 @@ author_profile: true
 
 # 在研项目
 * 瑞士国家科学基金 (SNSF) 瑞士国家能力研究中心数字制造项目 (NCCR Digital Fabrication)
-<br>项目题目: **Reflective Action and New Project Praxis for Digital Fabrication in AEC**
+<br>项目题目: [**Reflective Action and New Project Praxis for Digital Fabrication in AEC**](https://dfab.ch/)
 * 香港研究资助局 (RGC) 合作研究基金 (CRF)
-<br>项目题目: **Generative DfX in high-rise modular building: An expert-augmented cascade graph learning and optimisation approach**
+<br>项目题目: [**Generative DfX in high-rise modular building: An expert-augmented cascade graph learning and optimisation approach**](https://generativedfx.hku.hk/)
 
