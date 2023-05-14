@@ -17,7 +17,7 @@ His current research focuses on exploring implementation barriers and new projec
 * **Research Asisstant**, Department of Real Estate and Construction, The University of Hong Kong, 2018/9-2019/9
 
 # Eduaction
-* **Ph.D.**, Bartlett School of Sustainable Construction, UCL, 2019/9-2023/9
+* **Ph.D.**, Bartlett School of Sustainable Construction, UCL, 2019/9-2023/5
 * **MS.c.**, Bartlett School of Construction and Project Management, UCL, 2017/9-2018/9
 * **B.Arch.**, Department of Architecture, Huazhong University of Science and Technology, 2012/9-2017/7
 
