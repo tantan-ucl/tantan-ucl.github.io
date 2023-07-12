@@ -7,14 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Tan Tan holds a research position at Delft University of Technolog (TU Delft) and thw Swiss National Centre of Competence in Research (NCCR) Digital Fabrication. He has an interdisciplinary background in architectural design, project management and sustainable construction. He studied for his PhD and MSc from the Bartlett, UCL's faculty of the built environment. He obtained his BArch from Huazhong University of Science and Technology. Before his PhD, He worked at the Department of Real Estate and Construction of the University of Hong Kong as a research assistant.
+Tan Tan holds a postdoc position at Delft University of Technology (TU Delft) and the Swiss National Centre of Competence in Research (NCCR) Digital Fabrication. He has an interdisciplinary background in architectural design, project management and sustainable construction. He studied for his PhD and MSc from Bartlett, UCL's faculty of the built environment. He obtained his BArch from Huazhong University of Science and Technology. Before his PhD, He worked at the Department of Real Estate and Construction of the University of Hong Kong as a research assistant.
 
 His current research focuses on exploring implementation barriers and new project delivery methods of digital fabrication in the Swiss construction industry. He is interested in improving sustainability in complex buildings, e.g., health care, through integrated design management and engineering, e.g., DfMA & digital fabrication.
 
 # Appointment
 * **Postdoc Researcher**, Faculty of Architecture and the Built Environment, Delft University of Technology, 2023.2-now
 * **Postdoc Researcher**, National Centre of Competence in Research (NCCR) Digital Fabrication, Switzerland, 2023.2-now
-* **Research Asisstant**, Department of Real Estate and Construction, The University of Hong Kong, 2018/9-2019/9
+* **Research Assistant**, Department of Real Estate and Construction, The University of Hong Kong, 2018/9-2019/9
 
 # Eduaction
 * **Ph.D.**, Bartlett School of Sustainable Construction, UCL, 2019/9-2023/5
@@ -65,7 +65,7 @@ Automation in Construction; Building Research & Information; Journal of Building
 * Editor's Choice Selection Award. <br> Journal of Management in Engineering. 2021.
 * Chinese Government Award for Outstanding Self-financed Students Abroad. <br> The Chinese Government. 2020.
 * Ph.D. full Studentship. <br> University College London, United Kindom. 2019.
-* Best Paper Award. <br> International Conference in Sutainable Buildings and Structures (ICSBS 2019). 2019.
+* Best Paper Award. <br> International Conference in Sustainable Buildings and Structures (ICSBS 2019). 2019.
 
 <!---Activity and Service--->
 <!---Experience--->
