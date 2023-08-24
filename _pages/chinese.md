@@ -18,7 +18,7 @@ author_profile: true
 <br>4）本课题组与欧洲三所建筑学院，即伦敦大学学院、代尔夫特理工大学、苏黎世联邦理工大学，有长期合作关系，鼓励学生进行博士交换和交流访问。
 
 # 申请要求
-<br>1）满足香港大学入学要求，详细信息：https://engg.hku.hk/Admissions/PhD-MPhil/Admission-Requirements
+<br>1）满足香港大学入学要求，详细信息：[Link](https://engg.hku.hk/Admissions/PhD-MPhil/Admission-Requirements)
 <br>2）有如下背景的学生将会被优先考虑：建筑学、工程管理、土木工程、城市规划、计算机、数学
 
 # 联系方式
