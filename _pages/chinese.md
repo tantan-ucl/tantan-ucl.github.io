@@ -1,10 +1,8 @@
 ---
-title: "个人简介"
+title: "招收2024年秋季入学的博士研究生"
 permalink: /chinese/
 author_profile: true
 ---
-# 招收2024年秋季入学的博士研究生
-
 # 研究兴趣
 数字建筑，可持续建筑，设计管理，医疗建筑
 
