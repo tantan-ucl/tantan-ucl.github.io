@@ -1,5 +1,5 @@
 ---
-title: "招收2024年秋季入学的博士研究生-香港大学建筑学院房地产与建设系"
+title: "招收2024年秋季入学博士-香港大学建筑学院房地产与建设系"
 permalink: /chinese/
 author_profile: true
 ---
