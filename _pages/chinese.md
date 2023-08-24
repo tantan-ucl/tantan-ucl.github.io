@@ -7,19 +7,19 @@ author_profile: true
 数字建筑，可持续建筑，设计管理，医疗建筑
 
 # 招生方向
-<br>1）创新设计与建造方式: 模块化设计与建造、数字制造与机器人、可持续与适应性设计
-<br>2）设计信息学与可视化: 数据驱动的设计叙事、混合现实、设计决策系统、生成式设计
-<br>3）设计管理与创业: 设计价值、数字项目交付、建筑中的创业与风险投资
+* 创新设计与建造方式: 模块化设计与建造、数字制造与机器人、可持续与适应性设计
+* 设计信息学与可视化: 数据驱动的设计叙事、混合现实、设计决策系统、生成式设计
+* 设计管理与创业: 设计价值、数字项目交付、建筑中的创业与风险投资
 
 # 招生待遇
-<br>1）[香港博士奖学金计划](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hong_kong_phd_fellowship_scheme)和[香港大学校长奖学金](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme)获得者：每年约37.5万人民币的免税资助，为期四年，合计约150万人民币，豁免学费，确保学校宿舍住宿资格；[研究生奖学金](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/postgraduate_scholarships)获得者：约22万港币/年，为期四年；
-<br>2）享受学校提供的年假和医疗保险等福利；
-<br>3）香港大学博士可视为海外留学经历，用于申请海外人才计划等。
-<br>4）本课题组与欧洲三所建筑学院，即伦敦大学学院、代尔夫特理工大学、苏黎世联邦理工大学，有长期合作关系，鼓励学生进行博士交换和交流访问。
+* [香港博士奖学金计划](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hong_kong_phd_fellowship_scheme)和[香港大学校长奖学金](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme)获得者：每年约37.5万人民币的免税资助，为期四年，合计约150万人民币，豁免学费，确保学校宿舍住宿资格；[研究生奖学金](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/postgraduate_scholarships)获得者：约22万港币/年，为期四年；
+* 享受学校提供的年假和医疗保险等福利；
+* 香港大学博士可视为海外留学经历，用于申请海外人才计划等。
+* 本课题组与欧洲三所建筑学院，即伦敦大学学院、代尔夫特理工大学、苏黎世联邦理工大学，有长期合作关系，鼓励学生进行博士交换和交流访问。
 
 # 申请要求
-<br>1）满足香港大学入学要求，详细信息：[Link](https://engg.hku.hk/Admissions/PhD-MPhil/Admission-Requirements)
-<br>2）有如下背景的学生将会被优先考虑：建筑学、工程管理、土木工程、城市规划、计算机、数学
+* 满足香港大学入学要求，详细信息：[Link](https://engg.hku.hk/Admissions/PhD-MPhil/Admission-Requirements)
+* 有如下背景的学生将会被优先考虑：建筑学、工程管理、土木工程、城市规划、计算机、数学
 
 # 联系方式
 有意向申请的学生请将个人简历（包含发表文章）、研究计划、本科及硕士成绩单、托福/雅思/GRE成绩(如有)，等发送到邮件地址: t.tan@tudelft.nl
