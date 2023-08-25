@@ -5,18 +5,15 @@ author_profile: true
 ---
 
 # 研究兴趣
-数字建筑，可持续建筑，设计管理，医疗建筑
-
-# 招生方向
-* 创新设计与建造方式: 模块化设计与建造、数字制造与机器人、可持续与适应性设计
-* 设计信息学与可视化: 数据驱动的设计叙事、混合现实、设计决策系统、生成式设计
-* 设计管理与创业: 设计价值、数字项目交付、建筑中的创业与风险投资
+* Innovative design and construction methods: modular design and construction, digital fabrication, sustainable and adaptive design
+* Design informatics and visualization: data-driven storytelling, extended reality, decision support systems
+* Design Management and Entrepreneurship: Design Value, Digital Project Delivery, Entrepreneurship in Architecture
 
 # 招生待遇
 * [香港博士奖学金计划](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hong_kong_phd_fellowship_scheme)和[香港大学校长奖学金](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme)获得者：每年约37.5万人民币的免税资助，为期四年，合计约150万人民币，豁免学费，确保学校宿舍住宿资格；[研究生奖学金](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/postgraduate_scholarships)获得者：约22万港币/年，为期四年；
 * 享受学校提供的年假和医疗保险等福利；
 * 香港大学博士可视为海外留学经历，用于申请海外人才计划等。
-* 本课题组与欧洲三所建筑学院，即伦敦大学学院、代尔夫特理工大学、苏黎世联邦理工大学，有长期合作关系，鼓励学生进行博士交换和交流访问。
+* 与欧洲三所建筑学院，即伦敦大学学院、代尔夫特理工大学、苏黎世联邦理工大学，有长期合作关系，鼓励学生进行博士交换和交流访问。
 
 # 申请要求
 * 满足香港大学入学要求，详细信息：[Link](https://engg.hku.hk/Admissions/PhD-MPhil/Admission-Requirements)
