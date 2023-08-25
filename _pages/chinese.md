@@ -26,12 +26,6 @@ author_profile: true
 * **Tan Tan***, Grant Mills, Jiqiang Hu, Eleni Papadonikolaki (2021). "Integrated Approaches to Design for Manufacture and Assembly: A Case Study of Huoshenshan Hospital to Combat COVID-19 in Wuhan, China". <i>Journal of Management in Engineering, 37</i>(6), 05021007. ([Link](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ME.1943-5479.0000972)). (主编精选论文奖)
 * **Tan Tan**, Ke Chen*, Fan Xue, Weisheng Lu (2019). "Barriers to Building Information Modeling (BIM) implementation in China's prefabricated construction: An interpretive structural modeling (ISM) approach". <i>Journal of Cleaner Production, 219</i>, 949-959. ([Link](https://www.sciencedirect.com/science/article/abs/pii/S095965261930530X)). (ESI高被引论文)
 
-# 在研项目
-* 瑞士国家科学基金 (SNSF) 瑞士国家能力研究中心数字制造项目 (NCCR Digital Fabrication)
-<br>项目题目: [**Reflective Action and New Project Praxis for Digital Fabrication in AEC**](https://dfab.ch/)
-* 香港研究资助局 (RGC) 合作研究基金 (CRF)
-<br>项目题目: [**Generative DfX in high-rise modular building: An expert-augmented cascade graph learning and optimisation approach**](https://generativedfx.hku.hk/)
-
 # 研究兴趣
 * Innovative design and construction methods: modular design and construction, digital fabrication, sustainable and adaptive design
 * Design informatics and visualization: data-driven storytelling, extended reality, decision support systems
