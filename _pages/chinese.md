@@ -1,28 +1,8 @@
 ---
-title: "招收2024年秋季入学博士-香港大学建筑学院房地产与建设系"
+title: "个人介绍"
 permalink: /chinese/
 author_profile: true
 ---
-
-# 研究兴趣
-* Innovative design and construction methods: modular design and construction, digital fabrication, sustainable and adaptive design
-* Design informatics and visualization: data-driven storytelling, extended reality, decision support systems
-* Design Management and Entrepreneurship: Design Value, Digital Project Delivery, Entrepreneurship in Architecture
-
-# 招生待遇
-* [香港博士奖学金计划](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hong_kong_phd_fellowship_scheme)和[香港大学校长奖学金](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme)获得者：每年约37.5万人民币的免税资助，为期四年，合计约150万人民币，豁免学费，确保学校宿舍住宿资格；[研究生奖学金](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/postgraduate_scholarships)获得者：约22万港币/年，为期四年；
-* 享受学校提供的年假和医疗保险等福利；
-* 香港大学博士可视为海外留学经历，用于申请海外人才计划等。
-* 与欧洲三所建筑学院，即伦敦大学学院、代尔夫特理工大学、苏黎世联邦理工大学，有长期合作关系，鼓励学生进行博士交换和交流访问。
-
-# 申请要求
-* 满足香港大学入学要求，详细信息：[Link](https://engg.hku.hk/Admissions/PhD-MPhil/Admission-Requirements)
-* 有如下背景的学生将会被优先考虑：建筑学、工程管理、土木工程、城市规划、计算机、数学
-
-# 联系方式
-有意向申请的学生请将个人简历发送到邮件地址: t.tan@tudelft.nl
-
-# 导师介绍
 谭坦博士，将于2024年2月1日起，担任香港大学建筑学院助理教授，目前担任荷兰代尔夫特理工大学(TU Delft)-瑞士国家能力研究中心数字建造项目(NCCR Digital Fabrication)博士后研究员，博士毕业于英国伦敦大学学院 (UCL)。已发表二十余篇学术论文，以第一/通讯作者发表6篇SCI Q1区论文，累计影响因子40。入选ESI高被引论文，美国土木工程师协会JME主编精选论文奖、国际可持续建筑与结构会议最佳论文奖、CRIOCM 2023优秀论文奖、AEDM期刊年度最高阅读量论文奖。获得英国全额博士奖学金、中国国家优秀自费(非公费)留学生奖学金。主持1项英国伦敦大学学院重大挑战基金课题，参与瑞士、英国、香港等6个国际基金研究课题。担任16个国际期刊审稿人、国际建筑自动化和机器人协会会员、欧洲工程智能协会第三十届国际会议(EG-ICE)协办人及客座编辑，国际期刊Advanced Engineering Informatics客座编辑。
 
 # 工作经历
@@ -51,4 +31,22 @@ author_profile: true
 <br>项目题目: [**Reflective Action and New Project Praxis for Digital Fabrication in AEC**](https://dfab.ch/)
 * 香港研究资助局 (RGC) 合作研究基金 (CRF)
 <br>项目题目: [**Generative DfX in high-rise modular building: An expert-augmented cascade graph learning and optimisation approach**](https://generativedfx.hku.hk/)
+
+# 研究兴趣
+* Innovative design and construction methods: modular design and construction, digital fabrication, sustainable and adaptive design
+* Design informatics and visualization: data-driven storytelling, extended reality, decision support systems
+* Design Management and Entrepreneurship: Design Value, Digital Project Delivery, Entrepreneurship in Architecture
+
+# 招生待遇（2024年秋季-香港大学建筑学院）
+* [香港博士奖学金计划](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hong_kong_phd_fellowship_scheme)和[香港大学校长奖学金](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme)获得者：每年约37.5万人民币的免税资助，为期四年，合计约150万人民币，豁免学费，确保学校宿舍住宿资格；[研究生奖学金](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/postgraduate_scholarships)获得者：约22万港币/年，为期四年；
+* 享受学校提供的年假和医疗保险等福利；
+* 香港大学博士可视为海外留学经历，用于申请海外人才计划等。
+* 与欧洲三所建筑学院，即伦敦大学学院、代尔夫特理工大学、苏黎世联邦理工大学，有长期合作关系，鼓励学生进行博士交换和交流访问。
+
+# 申请要求
+* 满足香港大学入学要求，详细信息：[Link](https://engg.hku.hk/Admissions/PhD-MPhil/Admission-Requirements)
+* 有如下背景的学生将会被优先考虑：建筑学、工程管理、土木工程、城市规划、计算机、数学
+
+# 联系方式
+有意向申请的学生请将个人简历发送到邮件地址: t.tan@tudelft.nl
 
