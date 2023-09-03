@@ -3,7 +3,7 @@ title: "个人介绍"
 permalink: /chinese/
 author_profile: true
 ---
-谭坦博士，将于2024年2月1日起，担任香港大学建筑学院助理教授，目前担任荷兰代尔夫特理工大学(TU Delft)-瑞士国家数字制造能力研究中心(NCCR Digital Fabrication)博士后研究员，博士毕业于英国伦敦大学学院 (UCL)。已发表二十余篇学术论文，以第一/通讯作者发表6篇SCI Q1区论文，累计影响因子40。入选ESI高被引论文，美国土木工程师协会JME主编精选论文奖、国际可持续建筑与结构会议最佳论文奖、CRIOCM 2023优秀论文奖、AEDM期刊年度最高阅读量论文奖。获得英国全额博士奖学金、中国国家优秀自费(非公费)留学生奖学金。主持1项英国伦敦大学学院重大挑战基金课题，参与瑞士、英国、香港等6个国际基金研究课题。担任16个国际期刊审稿人、国际建筑自动化和机器人协会会员、欧洲工程智能协会第三十届国际会议(EG-ICE)协办人及客座编辑，国际期刊Advanced Engineering Informatics客座编辑。
+谭坦博士，将于2024年2月1日起，担任香港大学建筑学院助理教授，目前担任荷兰代尔夫特理工大学、瑞士国家数字制造能力研究中心博士后研究员，博士毕业于英国伦敦大学学院。已发表二十余篇学术论文，以第一/通讯作者发表6篇SCI Q1区论文。入选ESI高被引论文、ASCE JME主编精选论文奖、ICSBS 2019 最佳论文奖、CRIOCM 2023优秀论文奖、AEDM 2023最高阅读量论文奖。获得英国全额博士奖学金、中国国家优秀自费留学生奖学金。主持1项英国伦敦大学学院重大挑战基金课题，参与瑞士、英国、香港等6个国际基金研究课题。担任16个国际期刊审稿人、国际建筑自动化和机器人协会会员、欧洲工程智能协会第三十届国际会议(EG-ICE)协办人及客座编辑，国际期刊Advanced Engineering Informatics客座编辑。
 
 # 工作经历
 * **荷兰代尔夫特理工大学** 博士后研究员
@@ -22,9 +22,9 @@ author_profile: true
 <br>2012.9-2017.7 建筑与城市规划学院 建筑学系  
 
 # 代表论文
-* **Tan Tan***, Grant Mills, Eleni Papadonikolaki, Baofeng Li, Jing Hung (2022). "Digital-enabled Design for Manufacture and Assembly (DfMA) in Offsite Construction: A Modularity Perspective for the Product and Process Integration". <i>Architectural Engineering and Design Management</i>, 1-16. ([Link](https://doi.org/10.1080/17452007.2022.2104208)).(最高阅读量文章奖)
-* **Tan Tan***, Grant Mills, Jiqiang Hu, Eleni Papadonikolaki (2021). "Integrated Approaches to Design for Manufacture and Assembly: A Case Study of Huoshenshan Hospital to Combat COVID-19 in Wuhan, China". <i>Journal of Management in Engineering, 37</i>(6), 05021007. ([Link](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ME.1943-5479.0000972)). (主编精选论文奖)
-* **Tan Tan**, Ke Chen*, Fan Xue, Weisheng Lu (2019). "Barriers to Building Information Modeling (BIM) implementation in China's prefabricated construction: An interpretive structural modeling (ISM) approach". <i>Journal of Cleaner Production, 219</i>, 949-959. ([Link](https://www.sciencedirect.com/science/article/abs/pii/S095965261930530X)). (ESI高被引论文)
+* **Tan Tan***, Grant Mills, Eleni Papadonikolaki, Baofeng Li, Jing Hung (2022). "Digital-enabled Design for Manufacture and Assembly (DfMA) in Offsite Construction: A Modularity Perspective for the Product and Process Integration". <i>Architectural Engineering and Design Management</i>, 1-16. ([Link](https://doi.org/10.1080/17452007.2022.2104208)).(**Most Read Paper**)
+* **Tan Tan***, Grant Mills, Jiqiang Hu, Eleni Papadonikolaki (2021). "Integrated Approaches to Design for Manufacture and Assembly: A Case Study of Huoshenshan Hospital to Combat COVID-19 in Wuhan, China". <i>Journal of Management in Engineering, 37</i>(6), 05021007. ([Link](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ME.1943-5479.0000972)). (**Editor's Choice Selection**)
+* **Tan Tan**, Ke Chen*, Fan Xue, Weisheng Lu (2019). "Barriers to Building Information Modeling (BIM) implementation in China's prefabricated construction: An interpretive structural modeling (ISM) approach". <i>Journal of Cleaner Production, 219</i>, 949-959. ([Link](https://www.sciencedirect.com/science/article/abs/pii/S095965261930530X)). (**ESI Highly Cited Paper**)
 
 # 研究兴趣
 * Innovative design and construction methods: modular design and construction, digital fabrication, sustainable and adaptive design
