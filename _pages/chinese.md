@@ -25,7 +25,7 @@ author_profile: true
 
 # 代表论文
 * **Tan Tan***, Grant Mills, Eleni Papadonikolaki, Baofeng Li, Jing Hung (2022). "Digital-enabled Design for Manufacture and Assembly (DfMA) in Offsite Construction: A Modularity Perspective for the Product and Process Integration". <i>Architectural Engineering and Design Management</i>, 1-16. ([Link](https://doi.org/10.1080/17452007.2022.2104208)).(**Most Read Paper Award**)
-* **Tan Tan***, Grant Mills, Jiqiang Hu, Eleni Papadonikolaki (2021). "Integrated Approaches to Design for Manufacture and Assembly: A Case Study of Huoshenshan Hospital to Combat COVID-19 in Wuhan, China". <i>Journal of Management in Engineering, 37</i>(6), 05021007. ([Link](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ME.1943-5479.0000972)). (**Editor's Choice Selection Award**)
+* **Tan Tan***, Grant Mills, Jiqiang Hu, Eleni Papadonikolaki (2021). "Integrated Approaches to Design for Manufacture and Assembly: A Case Study of Huoshenshan Hospital to Combat COVID-19 in Wuhan, China". <i>Journal of Management in Engineering, 37</i>(6), 05021007. ([Link](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ME.1943-5479.0000972)). (**Editor's Choice Paper Award**)
 * **Tan Tan**, Ke Chen*, Fan Xue, Weisheng Lu (2019). "Barriers to Building Information Modeling (BIM) implementation in China's prefabricated construction: An interpretive structural modeling (ISM) approach". <i>Journal of Cleaner Production, 219</i>, 949-959. ([Link](https://www.sciencedirect.com/science/article/abs/pii/S095965261930530X)). (**ESI Highly Cited Paper**)
 
 # 研究兴趣
