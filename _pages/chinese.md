@@ -33,7 +33,7 @@ author_profile: true
 * Design informatics and visualization: data-driven storytelling, extended reality, decision support systems
 * Design management and entrepreneurship: design value, digital project delivery, entrepreneurship in architecture
 
-# 招生待遇（2024年秋季-香港大学建筑学院）
+# 招生待遇（2024年秋季-香港大学建筑学院房地产与建设系）
 * [香港博士奖学金计划](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hong_kong_phd_fellowship_scheme)和[香港大学校长奖学金](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme)获得者：每年约37.5万人民币的免税资助，为期四年，合计约150万人民币，豁免学费，确保学校宿舍住宿资格；[研究生奖学金](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/postgraduate_scholarships)获得者：约22万港币/年，为期四年；
 * 享受学校提供的年假和医疗保险等福利；
 * 香港大学博士可视为海外留学经历，用于申请海外人才计划等。
