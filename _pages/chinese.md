@@ -1,9 +1,9 @@
 ---
-title: "个人介绍"
+title: "导师介绍"
 permalink: /chinese/
 author_profile: true
 ---
-谭坦博士，将于2024年2月1日起，担任香港大学建筑学院助理教授，目前担任荷兰代尔夫特理工大学、瑞士国家数字制造能力研究中心博士后研究员，博士毕业于英国伦敦大学学院。合作发表二十余篇学术论文，以第一/通讯作者发表6篇SCI论文，入选ESI高被引论文、ASCE JME主编精选论文奖、ICSBS 2019 最佳论文奖、CRIOCM 2023优秀论文奖、AEDM 2023最高阅读量论文奖。获得英国全额博士奖学金、中国国家优秀自费留学生奖学金。主持英国伦敦大学学院重大挑战基金课题，参与瑞士、英国、香港等6个国际基金研究课题。担任16个国际SCI期刊审稿人、国际建筑自动化和机器人协会会员，协办欧洲工程智能计算协会EG-ICE 2023会议。欢迎联系进行合作，招聘2024年博士研究生、研究助理。
+谭坦博士，将于2024年2月1日起，担任香港大学建筑学院助理教授，目前担任荷兰代尔夫特理工大学、瑞士国家数字制造能力研究中心博士后研究员，博士毕业于英国伦敦大学学院。合作发表二十余篇学术论文，以第一/通讯作者发表6篇SCI论文，入选ESI高被引论文、ASCE JME主编精选论文奖、ICSBS 2019 最佳论文奖、CRIOCM 2023优秀论文奖、AEDM 2023最高阅读量论文奖。获得英国全额博士奖学金、中国国家优秀自费留学生奖学金。主持英国伦敦大学学院重大挑战基金课题，参与瑞士、英国、香港等6个国际基金研究课题。担任16个国际SCI期刊审稿人、国际建筑自动化和机器人协会会员，协办欧洲工程智能计算协会EG-ICE 2023会议。目前正在招聘博士研究生及研究助理，欢迎联系 tant@hku.hk。
 
 # 工作经历
 * **荷兰代尔夫特理工大学** 博士后研究员
@@ -33,7 +33,7 @@ author_profile: true
 * Design informatics and visualization: data-driven storytelling, extended reality, decision support systems
 * Design management and entrepreneurship: design value, digital project delivery, entrepreneurship in architecture
 
-# 招生待遇（2024年秋季-香港大学建筑学院房地产与建设系）
+# 招生待遇（2024年春/秋季-香港大学建筑学院房地产与建设系）
 * [香港博士奖学金计划](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hong_kong_phd_fellowship_scheme)和[香港大学校长奖学金](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme)获得者：每年约37.5万人民币的免税资助，为期四年，合计约150万人民币，豁免学费，确保学校宿舍住宿资格；[研究生奖学金](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/postgraduate_scholarships)获得者：约22万港币/年，为期四年；
 * 享受学校提供的年假和医疗保险等福利；
 * 香港大学博士可视为海外留学经历，用于申请海外人才计划等。
