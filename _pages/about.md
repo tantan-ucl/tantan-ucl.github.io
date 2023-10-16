@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Tan Tan will join as an Assistant Professor on 1st February 2024 at the Department of Real Estate and Construction, Faculty of Architecture, the University of Hong Kong. He currently holds a postdoctoral position at Delft University of Technology (TU Delft) and the Swiss National Centre of Competence in Research (NCCR) Digital Fabrication. Tan Tan has an interdisciplinary background spanning architectural design, digital construction, and project management. He earned his PhD and MSc from The Bartlett, UCL's Faculty of the Built Environment, and his BArch from Huazhong University of Science and Technology.
+Tan Tan will join as an Assistant Professor at the University of Hong Kong on 1 February 2024. He currently holds a postdoctoral position at Delft University of Technology (TU Delft) and the Swiss National Centre of Competence in Research (NCCR) Digital Fabrication. Tan Tan has an interdisciplinary background spanning architectural design, digital construction, and project management. He earned his PhD and MSc from The Bartlett, UCL's Faculty of the Built Environment, and his BArch from Huazhong University of Science and Technology.
 
 He is recruiting **PhD Students** and **Research Assistants** with interests and expertise in these areas:
 * **Innovative design and construction methods**: modular design and construction, digital fabrication, sustainable and adaptive design
