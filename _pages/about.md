@@ -32,9 +32,6 @@ Please contact email: tant@hku.hk
 * **MS.c.**, Bartlett School of Construction and Project Management, UCL, 2017/9-2018/9
 * **B.Arch.**, Department of Architecture, Huazhong University of Science and Technology, 2012/9-2017/7
 
-# Research Interests
-Digital Innovation, Design for Manufacture, Systems Integration, Modularity
-
 # Journal Paper
 * **Tan Tan***, Grant Mills, Eleni Papadonikolaki, Baofeng Li, Jing Hung (2022). "Digital-enabled Design for Manufacture and Assembly (DfMA) in Offsite Construction: A Modularity Perspective for the Product and Process Integration". <i>Architectural Engineering and Design Management</i>, 1-16. ([Link](https://doi.org/10.1080/17452007.2022.2104208)).
 * Zigeng Fang, **Tan Tan**, J Yan, Qiuchen Lu*, Michael Pitt, Sean Hanna (2022). An Automated Portfolio-based Strategic Asset Management Approach Based on Deep Neural Image Classification. <i>Automation in Construction, 142</i>, 104481.([Link](https://doi.org/10.1016/j.autcon.2022.104481))
