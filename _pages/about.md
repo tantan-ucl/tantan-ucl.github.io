@@ -7,12 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Tan Tan is an incoming Assistant Professor (1st Feb 2024) at the Department of Real Estate and Construction, Faculty of Architecture, the University of Hong Kong. He currently holds a postdoc position at Delft University of Technology (TU Delft) and the Swiss National Centre of Competence in Research (NCCR) Digital Fabrication. He has an interdisciplinary background in architectural design, project management and digital construction. He studied for his PhD and MSc from Bartlett, UCL's faculty of the built environment. He obtained his BArch from Huazhong University of Science and Technology.
+Tan Tan is an incoming Assistant Professor (1st Feb 2024) at the Department of Real Estate and Construction, Faculty of Architecture, the University of Hong Kong. He currently holds a postdoc position at Delft University of Technology (TU Delft) and the Swiss National Centre of Competence in Research (NCCR) Digital Fabrication. He has an interdisciplinary background in architectural design, digital construction and project management. He studied for his PhD and MSc from Bartlett, UCL's faculty of the built environment. He obtained his BArch from Huazhong University of Science and Technology.
 
 He is recruiting a PhD student and a research assistant with interests and expertise in these areas:
 * **Innovative design and construction methods**: modular design and construction, digital fabrication, sustainable and adaptive design
 * **Design informatics and visualization**: data-driven storytelling, extended reality, decision support systems
 * **Design management and entrepreneurship**: design value, digital project delivery, entrepreneurship in architecture
+
+PhD Scholarships:
+* [Hong Kong PhD Fellowship Scheme](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hong_kong_phd_fellowship_scheme)
+* [HKU Presidential PhD Scholar Programme](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme)
+* [Postgraduate Scholarships](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/postgraduate_scholarships)
 
 Please contact email: tant@hku.hk
 
