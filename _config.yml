@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Tan TAN"
 title_separator          : "-"
 name                     : &name "Tan TAN"
-description              : &description "Incoming Assistant Professor<br>HKU"
+description              : &description "Incoming Assis. Prof.<br>FoA HKU"
 url                      : https://tantan-ucl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tantan-ucl/tantan-ucl.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Tan Tan"
   avatar           : "0.jpg" # "tantan.jpg" #
-  bio              : "Incoming Assistant Professor<br>HKU"
+  bio              : "Incoming Assis. Prof.<br>FoA HKU"
   location         : "Hong Kong SAR"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=_VG990cAAAAJ&hl=en"
