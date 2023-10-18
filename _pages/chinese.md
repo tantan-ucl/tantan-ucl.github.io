@@ -16,7 +16,7 @@ author_profile: true
 
 # 申请要求
 * 满足香港大学入学要求，详细信息：[Link](https://engg.hku.hk/Admissions/PhD-MPhil/Admission-Requirements)
-* 有如下背景的学生将会被优先考虑：建筑学、工程管理、土木工程、城市规划、计算机、数学
+* 有如下背景的学生将会被优先考虑：建筑学、土木工程、工程管理、计算机、数学
 
 # 工作经历
 * **荷兰代尔夫特理工大学** 博士后研究员
