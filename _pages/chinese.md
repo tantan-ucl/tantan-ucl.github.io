@@ -37,7 +37,7 @@ author_profile: true
 <br>2012.9-2017.7 建筑与城市规划学院 建筑学系  
 
 # 代表论文
-* **Tan Tan***, Grant Mills, Eleni Papadonikolaki (2023). "Exploring Multi-Dimensional Modularity: Strategies to Reduce Complexity in Design Activities". <i>Journal of Management in Engineering</i>. In Press.
+* **Tan Tan***, Grant Mills, Eleni Papadonikolaki (2023). "Exploring Multi-Dimensional Modularity: Strategies to Reduce Complexity in Design Activities". <i>Journal of Management in Engineering</i>. In Press. DOI: 10.1061/JMENEA/MEENG-5596
 * **Tan Tan***, Grant Mills, Eleni Papadonikolaki, Baofeng Li, Jing Hung (2022). "Digital-enabled Design for Manufacture and Assembly (DfMA) in Offsite Construction: A Modularity Perspective for the Product and Process Integration". <i>Architectural Engineering and Design Management</i>, 1-16. ([Link](https://doi.org/10.1080/17452007.2022.2104208)).(**Most Read Paper**)
 * **Tan Tan***, Grant Mills, Jiqiang Hu, Eleni Papadonikolaki (2021). "Integrated Approaches to Design for Manufacture and Assembly: A Case Study of Huoshenshan Hospital to Combat COVID-19 in Wuhan, China". <i>Journal of Management in Engineering, 37</i>(6), 05021007. ([Link](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ME.1943-5479.0000972)). (**Editor's Choice Paper**)
 * **Tan Tan***, Grant Mills, Eleni Papadonikolaki, Zhening Liu (2021). "Combining multi-criteria decision making (MCDM) methods with building information modelling (BIM): A review". <i>Automation in Construction, 121</i>, 103451. ([Link](https://www.sciencedirect.com/science/article/pii/S0926580520310311)).
