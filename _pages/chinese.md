@@ -15,7 +15,7 @@ author_profile: true
 * 课题组与欧洲三所领先的建筑学院，即英国伦敦大学学院、荷兰代尔夫特理工大学、瑞士苏黎世联邦理工大学，有长期合作关系，鼓励学生在读博期间进行3-6个月的交换访问。
 
 # 申请要求
-* 满足香港大学入学要求，详细信息：https://engg.hku.hk/Admissions/PhD-MPhil/Admission-Requirements
+* 满足香港大学入学要求：https://engg.hku.hk/Admissions/PhD-MPhil/Admission-Requirements
 * 有如下背景的学生将会被优先考虑：建筑学、土木工程、工程管理、计算机、数学
 
 # 工作经历
