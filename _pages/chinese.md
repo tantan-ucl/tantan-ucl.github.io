@@ -3,7 +3,7 @@ title: "导师介绍"
 permalink: /chinese/
 author_profile: true
 ---
-谭坦博士，将于2024年2月1日起，担任香港大学建筑学院房地产与建设系助理教授，从事建筑设计、数字建造、工程管理领域的交叉研究。目前担任荷兰代尔夫特理工大学、瑞士国家数字制造能力研究中心博士后研究员，博士毕业于英国伦敦大学学院。合作发表二十余篇论文，以第一/通讯作者发表7篇SCI论文。入选ESI Highly Citied Paper、ASCE JME Editor's Choice Selection、ICSBS 2019 Best Paper Award、CRIOCM 2023 Merit Paper Award、AEDM 2023 Most Read Paper Prize。获得英国全额博士奖学金、中国国家优秀自费留学生奖学金。主持英国伦敦大学学院重大挑战基金课题，参与瑞士、英国、香港等6个国际基金研究课题。担任16个国际SCI期刊审稿人、国际建筑自动化和机器人协会会员，欧洲工程智能计算协会EG-ICE 2023会议协办人。目前正在招收2024年春/秋季的博士研究生及研究助理，欢迎联系 [tant@hku.hk](mailto:tant@hku.hk)。
+谭坦博士，将于2024年2月1日起，担任香港大学建筑学院房地产与建设系助理教授，从事建筑设计、数字建造、工程管理领域的交叉研究。目前担任荷兰代尔夫特理工大学、瑞士国家数字制造能力研究中心博士后研究员，博士毕业于英国伦敦大学学院。合作发表二十余篇论文，以第一/通讯作者发表8篇SCI论文。入选ESI Highly Citied Paper、ASCE JME Editor's Choice Selection、ICSBS 2019 Best Paper Award、CRIOCM 2023 Merit Paper Award、AEDM 2023 Most Read Paper Prize。获得英国全额博士奖学金、中国国家优秀自费留学生奖学金。主持英国伦敦大学学院重大挑战基金课题，参与瑞士、英国、香港等6个国际基金研究课题。担任16个国际SCI期刊审稿人、国际建筑自动化和机器人协会会员，欧洲工程智能计算协会EG-ICE 2023会议协办人。目前正在招收2024年春/秋季的博士研究生及研究助理，欢迎联系 [tant@hku.hk](mailto:tant@hku.hk)。
 
 # 招生方向
 * 装配式建筑、数字建造、计算性设计、工程管理
