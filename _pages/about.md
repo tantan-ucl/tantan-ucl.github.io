@@ -31,7 +31,7 @@ If you are interested in the PhD/RA position, please get in touch with this emai
 * **B.Arch.**, Department of Architecture, Huazhong University of Science and Technology, 2012/9-2017/7
 
 # Journal Paper
-* **Tan Tan***, Grant Mills, Eleni Papadonikolaki (2023). "Exploring Multi-Dimensional Modularity: Strategies to Reduce Complexity in Design Activities". <i>Journal of Management in Engineering</i>. In Press.
+* **Tan Tan***, Grant Mills, Eleni Papadonikolaki (2024). "Exploring Multi-Dimensional Modularity: Strategies to Reduce Complexity in Design Activities". <i>Journal of Management in Engineering</i>. In Press.
 * **Tan Tan**, Lang Zheng, Fan Xue, Zhikang Bao, Zigeng Fang, Xiaohu Liu* (2023). "MIVES Multi-Criteria Framework to Sustainability Index for Design for Manufacture and Assembly". <i>Journal of Civil Engineering and Management</i>. In Press.
 * **Tan Tan***, Grant Mills, Eleni Papadonikolaki, Baofeng Li, Jing Hung (2022). "Digital-enabled Design for Manufacture and Assembly (DfMA) in Offsite Construction: A Modularity Perspective for the Product and Process Integration". <i>Architectural Engineering and Design Management</i>, 1-16. ([Link](https://doi.org/10.1080/17452007.2022.2104208)).
 * Zigeng Fang, **Tan Tan**, J Yan, Qiuchen Lu*, Michael Pitt, Sean Hanna (2022). An Automated Portfolio-based Strategic Asset Management Approach Based on Deep Neural Image Classification. <i>Automation in Construction, 142</i>, 104481.([Link](https://doi.org/10.1016/j.autcon.2022.104481))
