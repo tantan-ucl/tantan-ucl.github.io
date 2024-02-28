@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Tan TAN"
 title_separator          : "-"
 name                     : &name "Tan TAN"
-description              : &description "Incoming Assis. Prof.<br>FoA HKU"
+description              : &description "Assistant Professor.<br>FoA HKU"
 url                      : https://tantan-ucl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tantan-ucl/tantan-ucl.github.io"
@@ -84,7 +84,7 @@ author:
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=_VG990cAAAAJ&hl=en"
   email            : "tant@hku.hk"
-  uri              : 
+  uri              : https://www.arch.hku.hk/staff/rec/tan-tan/
   bitbucket        :
   codepen          :
   dribbble         :
