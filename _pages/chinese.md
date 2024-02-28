@@ -27,5 +27,5 @@ author_profile: true
 * 有如下背景的学生将会被优先考虑：建筑学、土木工程、工程管理、计算机、数学
 
 # 联系方式
-有意向申请的学生请将个人简历发送到邮件地址: tant@hku.hk
-官网链接：https://www.arch.hku.hk/staff/rec/tan-tan/
+* 有意向申请的学生请将个人简历发送到邮件地址: tant@hku.hk
+* 官网链接：https://www.arch.hku.hk/staff/rec/tan-tan/
