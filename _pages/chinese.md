@@ -23,7 +23,7 @@ author_profile: true
 * 19, 115港币/月，首聘合同期6个月，可延长。可推荐优先申请2025年博士入学。如十分优秀者，薪资待遇可议。
 
 # 导师介绍
-谭坦博士，担任香港大学建筑学院房地产与建设系助理教授，从事建筑设计、数字建造、工程管理领域的交叉研究。曾担任荷兰代尔夫特理工大学、瑞士国家数字制造能力研究中心博士后研究员，博士、硕士毕业于英国伦敦大学学院，本科毕业于华中科技大学。合作发表二十余篇论文，以第一/通讯作者发表8篇SCI论文。入选ESI Highly Citied Paper、ASCE JME Editor's Choice Selection、ICSBS 2019 Best Paper Award、CRIOCM 2023 Merit Paper Award、AEDM 2023 Most Read Paper Prize。获得英国全额博士奖学金、中国国家优秀自费留学生奖学金。主持英国伦敦大学学院重大挑战基金课题，参与瑞士、英国、香港等6个国际基金研究课题。目前正在招收2024年春/秋季的博士研究生及研究助理，欢迎联系 [tant@hku.hk](mailto:tant@hku.hk)。
+谭坦博士，担任香港大学建筑学院房地产与建设系助理教授，从事建筑设计、数字建造、工程管理领域的交叉研究。曾担任荷兰代尔夫特理工大学博士后研究员、瑞士国家数字制造能力研究中心博士后研究员，博士、硕士毕业于英国伦敦大学学院，本科毕业于华中科技大学。入选ESI高被引论文、ASCE JME主编精选论文等科研奖项。获得英国资助全额博士奖学金、中国国家优秀自费（非公费）留学生奖学金等科研资助。欢迎联系 [tant@hku.hk](mailto:tant@hku.hk)。
 # 代表论文
 * **Tan Tan***, Grant Mills, Eleni Papadonikolaki (2024). "Exploring Multi-Dimensional Modularity: Strategies to Reduce Complexity in Design Activities". <i>Journal of Management in Engineering</i>, 40(3), 05024002. ([Link](https://ascelibrary.org/doi/10.1061/JMENEA.MEENG-5596)).
 * **Tan Tan***, Grant Mills, Eleni Papadonikolaki, Baofeng Li, Jing Hung (2022). "Digital-enabled Design for Manufacture and Assembly (DfMA) in Offsite Construction: A Modularity Perspective for the Product and Process Integration". <i>Architectural Engineering and Design Management</i>, 1-16. ([Link](https://doi.org/10.1080/17452007.2022.2104208)).(**Most Read Paper**)
