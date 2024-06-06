@@ -12,23 +12,8 @@ Tan Tan is an Assistant Professor at the University of Hong Kong. He previously 
 He is recruiting **PhD Students** and **Research Assistants** with interests and expertise in these areas:
 * Modular Design and Construction, Digital Fabrication, Computational Design, Engineering Management
 
-PhD Scholarships:
-* [Hong Kong PhD Fellowship Scheme](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hong_kong_phd_fellowship_scheme)
-* [HKU Presidential PhD Scholar Programme](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme)
-* [Postgraduate Scholarships](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/postgraduate_scholarships)
-
 If you are interested in the PhD/RA position, please get in touch with this email with your CV: tant@hku.hk
 
-# Appointment
-* **Assistant Professor**, Department of Real Estate and Construction, The University of Hong Kong, 2024/2-
-* **Postdoc Researcher**, Faculty of Architecture and the Built Environment, Delft University of Technology, 2023.2-2024.2
-* **Postdoc Researcher**, National Centre of Competence in Research (NCCR) Digital Fabrication, Switzerland, 2023.2-2024.2
-* **Research Assistant**, Department of Real Estate and Construction, The University of Hong Kong, 2018/9-2019/9
-
-# Eduaction
-* **Ph.D.**, Bartlett School of Sustainable Construction, UCL, 2019/9-2023/5
-* **MS.c.**, Bartlett School of Construction and Project Management, UCL, 2017/9-2018/9
-* **B.Arch.**, Department of Architecture, Huazhong University of Science and Technology, 2012/9-2017/7
 
 # Journal Paper
 * **Tan Tan***, Grant Mills, Eleni Papadonikolaki (2024). "Exploring Multi-Dimensional Modularity: Strategies to Reduce Complexity in Design Activities". <i>Journal of Management in Engineering</i>. In Press.
