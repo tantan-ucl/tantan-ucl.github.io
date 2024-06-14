@@ -4,7 +4,6 @@ permalink: /chinese/
 author_profile: true
 ---
 
-# 导师介绍
 谭坦博士，担任香港大学建筑学院房地产与建设系助理教授，从事计算性设计、数字建造、工程管理领域的交叉研究。曾担任荷兰代尔夫特理工大学博士后研究员、瑞士国家数字制造能力研究中心博士后研究员，博士、硕士毕业于英国伦敦大学学院，本科毕业于华中科技大学。入选ESI高被引论文、ASCE JME主编精选论文等科研奖项。获得英国资助全额博士奖学金、中国国家优秀自费（非公费）留学生奖学金等科研资助。欢迎联系 [tant@hku.hk](mailto:tant@hku.hk)。
 # 代表论文
 * **Tan Tan***, Grant Mills, Eleni Papadonikolaki (2024). "Exploring Multi-Dimensional Modularity: Strategies to Reduce Complexity in Design Activities". <i>Journal of Management in Engineering</i>, 40(3), 05024002. ([Link](https://ascelibrary.org/doi/10.1061/JMENEA.MEENG-5596)).
