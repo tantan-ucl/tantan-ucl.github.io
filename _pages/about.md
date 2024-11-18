@@ -9,13 +9,14 @@ redirect_from:
 ---
 Tan Tan is an Assistant Professor at the University of Hong Kong. He previously held a postdoctoral position at Delft University of Technology (TU Delft) and the Swiss National Centre of Competence in Research (NCCR) Digital Fabrication. Tan Tan has an interdisciplinary background spanning architectural design, digital construction, and project management. He earned his PhD and MSc from The Bartlett, UCL's Faculty of the Built Environment, and his BArch from Huazhong University of Science and Technology.
 
-He is recruiting **PhD Students** and **Research Assistants** with interests and expertise in these areas:
+He is recruiting **PhD/Mphil Students**, **PostDoc/Research Assistants** and **Visiting Student/Scholar** with interests and expertise in these areas:
 * Modular Design and Construction, Digital Fabrication, Computational Design, Engineering Management
 
 If you are interested in the PhD/RA position, please get in touch with this email with your CV: tant@hku.hk
 
 
 # Journal Paper
+* **Tan Tan***, Grant Mills, Xiaolin Ma, Eleni Papadonikolaki (2024). "Adoption challenges of building information modelling (BIM) and off-site construction (OSC) in healthcare construction: are they fellow sufferers?". <i>Engineering, Construction and Architectural Management</i>.
 * Gordan Kucan, **Tan Tan***, David Grossmann, Konrad Graser, Daniel Hall (2024). "Sustainable Future-Proofing Healthcare Facilities: A Modular and Adaptable Design Approach". <i>Journal of Management in Engineering</i>.
 * **Tan Tan***, Grant Mills, Eleni Papadonikolaki (2024). "Exploring Multi-Dimensional Modularity: Strategies to Reduce Complexity in Design Activities". <i>Journal of Management in Engineering</i>.
 * **Tan Tan**, Lang Zheng, Fan Xue, Zhikang Bao, Zigeng Fang, Xiaohu Liu* (2024). "MIVES Multi-Criteria Framework to Sustainability Index for Design for Manufacture and Assembly". <i>Journal of Civil Engineering and Management</i>.
