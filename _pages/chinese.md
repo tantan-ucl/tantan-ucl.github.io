@@ -4,7 +4,8 @@ permalink: /chinese/
 author_profile: true
 ---
 
-谭坦博士，担任香港大学建筑学院房地产与建设系助理教授，从事计算性设计、数字建造、工程管理领域的交叉研究。曾担任荷兰代尔夫特理工大学博士后研究员、瑞士国家数字制造能力研究中心博士后研究员，博士、硕士毕业于英国伦敦大学学院，本科毕业于华中科技大学。发表20余篇期刊和会议论文，入选ESI高被引论文、ASCE JME主编精选论文等科研奖项。获得英国资助全额博士奖学金、中国国家优秀自费（非公费）留学生奖学金等科研资助。目前开放2024/2025年研究助理、博士申请，欢迎联系 [tant@hku.hk](mailto:tant@hku.hk)。
+课题组主持人谭坦担任香港大学建筑学院房地产与建设系助理教授，从事计算性设计、数字建造、工程管理领域的交叉研究，从设计视角介入，用管理和工程学方法，实现建造阶段的可持续发展。曾担任荷兰代尔夫特理工大学 (TU Delft)、瑞士国家数字制造能力研究中心 (NCCR Digital Fabrication) 博士后研究员；博士、硕士毕业于英国伦敦大学学院巴特莱特建筑学院 (UCL Bartlett)；本科毕业于华中科技大学建筑学。累计发表30余篇期刊和会议论文。曾获 ESI高被引论文、主编精选论文、最佳论文奖等多个科研奖项。曾荣获英国全额博士奖学金、英国重大挑战博士基金、中国国家优秀自费留学生奖学金等多个科研资助。 课题组成立于2024年，成员来自清华、浙大、上交等著名学府,支持课题组成员获得港府奖学金、优异论文奖等奖项。目前开放Research Assistant、MPhil/PhD、PostDoc、Visiting Student/Scholar等职位申请，欢迎联系 [tant@hku.hk](mailto:tant@hku.hk)。
+
 # 代表论文
 * **Tan Tan***, Grant Mills, Eleni Papadonikolaki (2024). "Exploring Multi-Dimensional Modularity: Strategies to Reduce Complexity in Design Activities". <i>Journal of Management in Engineering</i>, 40(3), 05024002. ([Link](https://ascelibrary.org/doi/10.1061/JMENEA.MEENG-5596)).
 * **Tan Tan***, Grant Mills, Eleni Papadonikolaki, Baofeng Li, Jing Hung (2022). "Digital-enabled Design for Manufacture and Assembly (DfMA) in Offsite Construction: A Modularity Perspective for the Product and Process Integration". <i>Architectural Engineering and Design Management</i>, 1-16. ([Link](https://doi.org/10.1080/17452007.2022.2104208)).(**Most Read Paper Prize**)
