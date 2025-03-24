@@ -4,7 +4,7 @@ permalink: /chinese/
 author_profile: true
 ---
 
-课题组主持人谭坦担任香港大学建筑学院房地产与建设系助理教授，从事计算性设计、数字建造、工程管理领域的交叉研究，从设计视角介入，用管理和工程学方法，实现建造阶段的可持续发展。曾担任荷兰代尔夫特理工大学 (TU Delft)、瑞士国家数字制造能力研究中心 (NCCR Digital Fabrication) 博士后研究员；博士、硕士毕业于英国伦敦大学学院巴特莱特建筑学院 (UCL Bartlett)；本科毕业于华中科技大学建筑学。曾获 ESI高被引论文、主编精选论文、最佳论文奖等多个科研奖项。曾荣获英国全额博士奖学金、英国重大挑战博士基金、中国国家优秀自费留学生奖学金等多个科研资助。目前担任工程院院刊Frontiers of Engineering Management特约通讯专家，工程管理学报及Smart Construction青年编委，CAAD Futures2025学术委员会联合主席。课题组成立于2024年，成员来自清华、浙大、上交等著名学府，支持课题组成员获得港府奖学金、优异论文奖等奖项。目前开放Research Assistant、MPhil/PhD、PostDoc、Visiting Student/Scholar等职位申请，欢迎联系 [tant@hku.hk](mailto:tant@hku.hk)。
+课题组主持人谭坦担任香港大学建筑学院房地产与建设系助理教授，从事计算性设计、数字建造、工程管理领域的交叉研究，从设计视角介入，用管理和工程学方法，实现建造阶段的可持续发展。曾担任荷兰代尔夫特理工大学 (TU Delft)、瑞士国家数字制造能力研究中心 (NCCR Digital Fabrication) 博士后研究员；博士、硕士毕业于英国伦敦大学学院巴特莱特建筑学院 (UCL Bartlett)；本科毕业于华中科技大学建筑学。曾获 ESI高被引论文、主编精选论文、最佳论文奖等多个科研奖项。曾荣获英国全额博士奖学金、英国重大挑战博士基金、中国国家优秀自费留学生奖学金等多个科研资助。目前担任工程院院刊Frontiers of Engineering Management特约通讯专家，工程管理学报及Smart Construction青年编委，CAAD Futures2025学术委员会联合主席。课题组成立于2024年，成员来自清华、浙大、上交等高校，支持课题组成员获得港府奖学金、优异论文奖等奖项。目前开放Research Assistant、MPhil/PhD、PostDoc、Visiting Student/Scholar等职位申请，欢迎联系 [tant@hku.hk](mailto:tant@hku.hk)。
 
 # 期刊论文
 * **Tan Tan***, Grant Mills, Xiaolin Ma, Eleni Papadonikolaki (2024). "Adoption challenges of building information modelling (BIM) and off-site construction (OSC) in healthcare construction: are they fellow sufferers?". <i>Engineering, Construction and Architectural Management</i>.
