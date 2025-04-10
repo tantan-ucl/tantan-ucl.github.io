@@ -22,6 +22,7 @@ Postgraduate Scholarship (PGS) recipients: Approximately HKD 220,000 per year fo
 # Contact
 Interested applicants are welcome to send their CV to: tant@hku.hk
 
+
 香港大学建筑学院房地产与建设系招聘 2025 年度MPhil/PhD。申请人需要持有土木工程、建筑学、工程管理、设计学、计算机科学、自动化或相关领域的本科或硕士学位。
 # 具体研究方向
 * 计算性设计/生成式设计
