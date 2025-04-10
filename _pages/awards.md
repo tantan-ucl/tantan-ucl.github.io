@@ -4,12 +4,12 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
-* **IEEE Special Scholarship** (Top 2 students in School of Electronic Information and Electrical Engineering), Shanghai Jiao Tong University. 2017
-* **Best Paper Award Honorable Mention of SIGIR 2017 ([Link](http://sigir.org/sigir2017/program/awards/))**. August 9, Tokyo, Japan. 2017.
-* **Microsoft Azure Research Award**, Carnegie Mellon University. 2017.
-* **Scholarship of Excellent Undergraduates** (Top 2 students in school of Electronic Information and Electrical Engineering), Shanghai Jiao Tong University. 2016-2017
-* **National Scholarship** (Top 3 students in Computer Science Department), Shanghai Jiao Tong University. 2015-2016.
-* **Overall GPA Ranking Top 3 out of 151 ([Link](http://lantaoyu.com/files/ranking.pdf))** (Sophomore GPA Ranking 1st/151), Department of Computer Science, Shanghai Jiao Tong University. 2014-2017.
-* **Zhiyuan Honors Scholarship** (Top 5%, Twice), Shanghai Jiao Tong University. 2015 & 2016.
-* **Yuan-Ze Scholarship** (Top 2%), Zhiyuan College, Shanghai Jiao Tong University. 2014-2015.
-* **First Prize** in China Undergraduate Mathematical Contest in Modeling, Shanghai Division. 2015
+# Honors and Awards
+* Merit Paper Award. <br> 28th International Symposium on Advancement of Construction Management and Real Estate. 2023.
+* Most Downloaded Paper Award. <br> Architectural Engineering and Design Management. 2023.
+* ESI Highly Cited Paper. <br> Web of Science Core Collection. 2022.
+* Doctoral Students' Small Grants. <br> UCL Grand Challenges. 2022.
+* Editor's Choice Selection Award. <br> Journal of Management in Engineering. 2021.
+* Chinese Government Award for Outstanding Self-financed Students Abroad. <br> The Chinese Government. 2020.
+* Ph.D. full Studentship. <br> University College London, United Kindom. 2019.
+* Best Paper Award. <br> International Conference in Sustainable Buildings and Structures (ICSBS 2019). 2019.
