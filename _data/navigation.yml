@@ -1,11 +1,22 @@
 # main links links
 main:
-  - title: "中文显示"
-    url: /chinese/
-
-  - title: "English Version"
+  - title: "About Me"
     url: /about/
+    
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /publications/
+
+  - title: "Talks"
+    url: /publications/
+  
+  - title: "Team"
+    url: /publications/
     
   - title: "Contact"
     url: /contact/
 
+
+    
