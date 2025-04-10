@@ -1,5 +1,4 @@
 ---
-<!-- layout: archive -->
 title: "Job Vacancies"
 permalink: /job vacancies/
 author_profile: true
