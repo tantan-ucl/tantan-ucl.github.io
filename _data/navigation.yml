@@ -7,13 +7,13 @@ main:
     url: /publications/
 
   - title: "Teaching"
-    url: /publications/
+    url: /teaching/
 
   - title: "Talks"
-    url: /publications/
+    url: /talks/
   
   - title: "Team"
-    url: /publications/
+    url: /team/
     
   - title: "Contact"
     url: /contact/
