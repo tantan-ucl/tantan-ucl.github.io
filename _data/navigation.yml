@@ -11,6 +11,9 @@ main:
 
   - title: "Team"
     url: /team/
+
+  - title: "Reading List"
+    url: /readinglist/
   
   - title: "Job Vacancies"
     url: /job vacancies/
