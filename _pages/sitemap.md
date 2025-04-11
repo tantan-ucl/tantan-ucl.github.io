@@ -7,7 +7,7 @@ author_profile: true
 
 
 # Mindset
-* Cottrell, S., 2023. Critical thinking skills: Effective analysis, argument and reflection. Bloomsbury Publishing. [recommend]
+* Cottrell, S., 2023. Critical thinking skills: Effective analysis, argument and reflection. Bloomsbury Publishing.
 * Meadows, D.H., 2008. Thinking in systems: A primer. chelsea green publishing.
 * Dweck, C.S., 2006. Mindset: The new psychology of success. Random house.
 * Sandel, M.J., 2020. The tyranny of merit: What's become of the common good?. Penguin UK.
