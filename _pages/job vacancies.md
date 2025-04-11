@@ -3,7 +3,7 @@ title: "Job Vacancies"
 permalink: /job vacancies/
 author_profile: true
 ---
-We are consistently recruiting RA/MPhil/PhD students. Applicants should hold a Bachelor's or Master's degree in Civil Engineering, Architecture, Construction Management, Design, Computer Science, Automation, or related fields. Both qualitative and quantitative research interests are welcome, as our group has no methodology bias. Our team has diverse and interdisciplinary research, but please note our discipline domain is *Engineering Management*. We will provide strong support to graduates in securing faculty positions in Construction Engineering and Management, Design Studies, and Architecture, or in pursuing careers in industry and international NGOs.
+We are consistently recruiting RA/MPhil/PhD students. Applicants should hold a Bachelor's or Master's degree in Civil Engineering, Architecture, Construction Management, Design, Automation, or related fields. Both qualitative and quantitative research interests are welcome, as our group has no methodology bias. Our team has diverse and interdisciplinary research, but please note our discipline domain is *Engineering Management*. We will provide strong support to graduates in securing faculty positions in Construction Engineering and Management, Design Studies, and Architecture, or in pursuing careers in industry and international NGOs.
 
 # Research Areas
 * Computational Design / Generative Design
