@@ -28,7 +28,7 @@ Reading these in year 1 and before will facilitate your PhD journey.
 # Mental Health
 * Dunn, E. and Norton, M., 2013. *Happy money: The science of happier spending*. Simon and Schuster.
 * Rosenberg, M.B. and Chopra, D., 2015. *Nonviolent communication: A language of life: Life-changing tools for healthy relationships*. PuddleDancer Press.
-* Harris, R., 2019. ACT made simple: *An easy-to-read primer on acceptance and commitment therapy*. New Harbinger Publications.
+* Harris, R., 2019. *ACT made simple: An easy-to-read primer on acceptance and commitment therapy*. New Harbinger Publications.
 * Bond, F.W. and Dryden, W. eds., 2002. *Handbook of brief cognitive behaviour therapy*. Chichester: Wiley.
 * Brickman, P., Coates, D. and Janoff-Bulman, R., 1978. *Lottery winners and accident victims: Is happiness relative?*. Journal of personality and social psychology, 36(8), p.917.
 
