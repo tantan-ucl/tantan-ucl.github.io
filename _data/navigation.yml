@@ -6,20 +6,22 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Project"
+    url: /project/
+
   - title: "Teaching"
     url: /teaching/
 
   - title: "Team"
     url: /team/
 
-  - title: "Reading List"
-    url: /readinglist/
-  
   - title: "Job Vacancies"
     url: /job vacancies/
+
+  - title: "Reading List"
+    url: /readinglist/
     
-  - title: "Contact"
-    url: /contact/
+
 
 
     
