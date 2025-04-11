@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 **Design Engineering Informatics**
-*Topic 1: Computational Design for Manufacture and Assembly* 
+**Topic 1: Computational Design for Manufacture and Assembly* 
 * Fund: CRF and NCCR DFAB. 
 * Investigator: T.Tan
 * Collaborator: D.Hall, M.S.Ng, G.Konrad, A.N.Walzer (TU Delft/ETH Zurich)
@@ -21,7 +21,7 @@ author_profile: true
 * Collaborator: CSCEC
 
 **Design Management Innovation**
-*Topic 1: AR-assisted Human-Robot Collaboration: Interaction Design and User Psychology*
+**Topic 1: AR-assisted Human-Robot Collaboration: Interaction Design and User Psychology*
 * Fund: TDG. 
 * Investigator: X.Liu
 * Collaborator: J.J.Chen, J.Wang, X.Li (HKU)
