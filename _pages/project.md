@@ -7,12 +7,12 @@ author_profile: true
 **Design Engineering Informatics**
 
 *Topic 1: Computational Design for Manufacture and Assembly* 
-* Fund: CRF and NCCR DFAB. 
+* Fund: CRF / NCCR DFAB
 * Investigator: T.Tan
 * Collaborator: D.Hall, M.S.Ng, G.Konrad, A.N.Walzer (TU Delft/ETH Zurich)
 
 *Topic 2: Design for Safety: Automated Safety Checking*
-* Fund: Seed Fund. 
+* Fund: Seed Fund
 * Investigator: T.Tan
 * Collaborator: S.Rowlinson, X.L.Zhang, Y.S.Chan (HKU)
 
@@ -24,12 +24,12 @@ author_profile: true
 **Design Management Innovation**
 
 *Topic 1: AR-assisted Human-Robot Collaboration: Interaction Design and User Psychology*
-* Fund: TDG. 
+* Fund: TDG
 * Investigator: X.Liu
 * Collaborator: J.J.Chen, J.Wang, X.Li (HKU)
 
 *Topic 2: Human-AI Collaboration in Design: Knowledge Engineering and Management* 
-* Fund: HKPF.
+* Fund: HKPF
 * Investigator: Z.R.Zhang
 * Collaborator: S.J.Zhang (UoSydney)
 
