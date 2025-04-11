@@ -3,7 +3,7 @@ title: "Job Vacancies"
 permalink: /job vacancies/
 author_profile: true
 ---
-The Department of Real Estate and Construction, Faculty of Architecture, The University of Hong Kong, is now recruiting MPhil/PhD students for the 2025 intake. Applicants should hold a Bachelor's or Master's degree in Civil Engineering, Architecture, Construction Management, Design, Computer Science, Automation, or related fields.
+We are consistently recruiting RA/MPhil/PhD students. Applicants should hold a Bachelor's or Master's degree in Civil Engineering, Architecture, Construction Management, Design, Computer Science, Automation, or related fields. Both qualitative and quantitative research interests are welcome, as our group has no methodology bias. Our team has diverse and interdisciplinary research, but please note our discipline domain is *Engineering Management*. We will provide strong support to graduates in securing faculty positions in Construction Engineering and Management, Design Studies, and Architecture, or in pursuing careers in industry and international NGOs.
 
 # Research Areas
 * Computational Design / Generative Design
@@ -16,6 +16,7 @@ The Department of Real Estate and Construction, Faculty of Architecture, The Uni
 Postgraduate Scholarship (PGS) recipients: Approximately HKD 220,000 per year for four years;
 * Entitled to university-provided annual leave, medical insurance, and other benefits;
 * A PhD from HKU is recognized as an overseas study experience, which can be beneficial for applying to international talent programs;
+* HKU offers monthly admissions to outstanding students；
 * The research group maintains collaborations with numerous overseas universities and encourages students to participate in exchange and visiting programs during their PhD studies.
 
 # Contact
