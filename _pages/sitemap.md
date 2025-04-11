@@ -4,7 +4,7 @@ title: "Reading List"
 permalink: /readinglist/
 author_profile: true
 ---
-
+Reading these in year 1 and before will facilitate your PhD journey.
 
 # Mindset
 * Cottrell, S., 2023. *Critical thinking skills: Effective analysis, argument and reflection*. Bloomsbury Publishing.
