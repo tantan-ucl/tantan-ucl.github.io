@@ -3,7 +3,7 @@ title: "Job Vacancy"
 permalink: /job vacancy/
 author_profile: true
 ---
-We are recruiting RA/MPhil/PhD students based on the Department of Real Estate and Construction and the National Center of Technology Innovation in Digital Construction (Hong Kong Branch). Our team has interdisciplinary research with the discipline domain in *Engineering Management*. Applicants should hold a Bachelor's or Master's degree in Civil Engineering, Architecture, Construction Management, Design, or related fields. Both qualitative and quantitative research interests are welcome. 
+We are recruiting MPhil/PhD students based on the Department of Real Estate and Construction and the National Center of Technology Innovation in Digital Construction (Hong Kong Branch). Our team has interdisciplinary research with the discipline domain in *Engineering Management*. Applicants should hold a Bachelor's or Master's degree in Civil Engineering, Architecture, Construction Management, Design, or related fields. Both qualitative and quantitative research interests are welcome. 
 
 # Research Areas
 * Computational Design for Manufacture, Assembly, and Safety
