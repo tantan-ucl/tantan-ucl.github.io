@@ -3,7 +3,7 @@ title: "Job Vacancy"
 permalink: /job vacancy/
 author_profile: true
 ---
-We are recruiting MPhil/PhD students based on the Department of Real Estate and Construction and the National Center of Technology Innovation in Digital Construction (Hong Kong Branch). Our team has interdisciplinary research in the domain of *Engineering Management*. Applicants should hold a Bachelor's or Master's degree in Civil Engineering, Architecture, Construction Management, Design, or related fields. Both qualitative and quantitative research interests are welcome. More requirements about academic merit can be found in the graduate school [https://gradsch.hku.hk/prospective_students/application/admission_requirement].
+We are recruiting MPhil/PhD students based on the Department of Real Estate and Construction and the National Center of Technology Innovation in Digital Construction (Hong Kong Branch). Our team has interdisciplinary research in the domain of *Engineering Management*. Applicants should hold a Bachelor's or Master's degree in Civil Engineering, Architecture, Construction Management, Design, or related fields. Both qualitative and quantitative research interests are welcome. More requirements about academic merit can be found in the [HKU Graduate School](https://gradsch.hku.hk/prospective_students/application/admission_requirement).
 
 # Research Areas
 * Computational Design for Manufacture, Assembly, and Safety
