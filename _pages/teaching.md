@@ -13,16 +13,16 @@ author_profile: true
 * RECO4011-Research Methods and Dissertation – 2 (supervisor)
 
 # UCL M.Sc. PEM, DEM, DIBAM, CEM (2019-2023)
-* Managing the Enterprise Project Relationship (20h, TA)
-* Owner-based Management of Projects (45h, TA)
-* The Management of Construction Enterprises (45h, TA)
-* Entrepreneurship Masterclass (10h, TA)
-* Big Data and Business Analytics (20h, TA)
-* Management of Major Programmes with Digital (20h, TA)
-* Integration, Modularisation and Platforms (20h, TA)
-* Organising for Digitalisation (20h, TA)
-* Principles of Building Information Modelling (90h, TA)
-* M.Sc.Digital Engineering Management (60h, TA)
+* Managing the Enterprise Project Relationship (TA)
+* Owner-based Management of Projects (TA)
+* The Management of Construction Enterprises (TA)
+* Entrepreneurship Masterclass (TA)
+* Big Data and Business Analytics (TA)
+* Management of Major Programmes with Digital (TA)
+* Integration, Modularisation and Platforms (TA)
+* Organising for Digitalisation (TA)
+* Principles of Building Information Modelling (TA)
+* M.Sc.Digital Engineering Management (TA)
 
 # Guest Lecturer
 * 2025 School of Architecture, CUHK 
