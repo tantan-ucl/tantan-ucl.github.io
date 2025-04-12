@@ -1,15 +1,15 @@
 ---
-title: "Job Vacancies"
-permalink: /job vacancies/
+title: "Job Vacancy"
+permalink: /job vacancy/
 author_profile: true
 ---
-We are consistently recruiting RA/MPhil/PhD students. Applicants should hold a Bachelor's or Master's degree in Civil Engineering, Architecture, Construction Management, Design, Automation, or related fields. Both qualitative and quantitative research interests are welcome, as our group has no methodology bias. Our team has diverse and interdisciplinary research, but please note our discipline domain is *Engineering Management*. We will provide strong support to graduates in securing faculty positions in Construction Engineering and Management, Design Studies, and Architecture, or in pursuing careers in industry and international NGOs.
+We are recruiting RA/MPhil/PhD students based on the Department of Real Estate and Construction and the National Center of Technology Innovation in Digital Construction (Hong Kong Branch). Our team has interdisciplinary research with the discipline domain in *Engineering Management*. Applicants should hold a Bachelor's or Master's degree in Civil Engineering, Architecture, Construction Management, Design, or related fields. Both qualitative and quantitative research interests are welcome. 
 
 # Research Areas
-* Computational Design / Generative Design
-* Building Information Modeling (BIM)
-* Prefabricated Construction / Digital Fabrication
-* Mixed Reality / Human-Computer Interaction Design
+* Computational Design for Manufacture, Assembly, and Safety
+* Building Information Modeling (BIM), Large Language Model (LLM)
+* Interaction Design for Human-Robot Collaboration
+* Human-AI Collaboration in Design Knowledge Engineering and Management
 
 # PhD Admission Benefits
 * Hong Kong PhD Fellowship Scheme (HKPF) and HKU Presidential PhD Scholar Programme (HKU-PS) recipients: Tax-free funding of approximately RMB 375,000 per year for four years (totaling around RMB 1.5 million), full tuition waiver, and guaranteed on-campus accommodation;
