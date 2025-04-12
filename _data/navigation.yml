@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: /about/
     
-  - title: "Publications"
-    url: /publications/
+  - title: "Publication"
+    url: /publication/
 
   - title: "Project"
     url: /project/
@@ -15,8 +15,8 @@ main:
   - title: "Team"
     url: /team/
 
-  - title: "Job Vacancies"
-    url: /job vacancies/
+  - title: "Job Vacancy"
+    url: /job vacancy/
 
   - title: "Reading List"
     url: /readinglist/
